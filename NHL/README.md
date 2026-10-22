@@ -8,19 +8,19 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
-| Skaters Summary | NHL Skaters: one row per player per season (season totals) | 1,429 |
-| Skaters Game Log | NHL Skaters: one row per player per game | 50,431 |
+| Skaters Summary | NHL Skaters: one row per player per season (season totals) | 1,431 |
+| Skaters Game Log | NHL Skaters: one row per player per game | 50,873 |
 | Goalies Summary | NHL Goalies: one row per player per season (season totals) | 140 |
-| Goalies Game Log | NHL Goalies: one row per player per game | 2,914 |
+| Goalies Game Log | NHL Goalies: one row per player per game | 2,921 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NHL Skaters | 2026-27 | 2026-09-29 | 2026-10-21 | 5,312 | 688 |
-| NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 44,951 | 729 |
+| NHL Skaters | 2026-27 | 2026-09-29 | 2026-10-21 | 5,417 | 688 |
+| NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 45,288 | 731 |
 | NHL Skaters | 2024-25 | 2024-10-15 | 2025-06-18 | 168 | 12 |
-| NHL Goalies | 2026-27 | 2026-09-29 | 2026-10-21 | 319 | 65 |
-| NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,585 | 73 |
+| NHL Goalies | 2026-27 | 2026-09-29 | 2026-10-21 | 323 | 65 |
+| NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,588 | 73 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
 
 ## CSV files
