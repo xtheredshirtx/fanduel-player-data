@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 10/21/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 256,874 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 256,638 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -25,7 +25,7 @@ in this repository's commit history.
 
 | Sport | Players | Player-games | Workbook |
 |---|---|---|---|
-| [NBA](NBA/) | 713 | 56,768 | [NBA_player_data_as_of_2026-10-21.xlsx](NBA/NBA_player_data_as_of_2026-10-21.xlsx) |
+| [NBA](NBA/) | 692 | 56,532 | [NBA_player_data_as_of_2026-10-21.xlsx](NBA/NBA_player_data_as_of_2026-10-21.xlsx) |
 | [NHL](NHL/) | 844 | 53,271 | [NHL_player_data_as_of_2026-10-21.xlsx](NHL/NHL_player_data_as_of_2026-10-21.xlsx) |
 | [NFL](NFL/) | 657 | 7,538 | [NFL_player_data_as_of_2026-10-21.xlsx](NFL/NFL_player_data_as_of_2026-10-21.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,356 | [MLB_player_data_as_of_2026-10-21.xlsx](MLB/MLB_player_data_as_of_2026-10-21.xlsx) |
@@ -36,7 +36,7 @@ in this repository's commit history.
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NBA | 2026-27 | 2026-10-20 | 2026-10-21 | 304 | 304 |
+| NBA | 2026-27 | 2026-10-20 | 2026-10-20 | 68 | 68 |
 | NBA | 2025-26 | 2025-10-21 | 2026-06-13 | 28,465 | 582 |
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
 | NHL Skaters | 2026-27 | 2026-09-29 | 2026-10-20 | 5,243 | 687 |
