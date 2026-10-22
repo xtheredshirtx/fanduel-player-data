@@ -1,8 +1,8 @@
-# NFL player data - As of 10/21/2026
+# NFL player data - As of 10/22/2026
 
 Every NFL player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NFL_player_data_as_of_2026-10-21.xlsx`](NFL_player_data_as_of_2026-10-21.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NFL_player_data_as_of_2026-10-22.xlsx`](NFL_player_data_as_of_2026-10-22.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
@@ -26,15 +26,15 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 265 | 18 |
 
 ## CSV files
-- [`NFL_defense_st_game_log_2025_as_of_2026-10-21.csv`](csv/NFL_defense_st_game_log_2025_as_of_2026-10-21.csv)
-- [`NFL_defense_st_game_log_2026_as_of_2026-10-21.csv`](csv/NFL_defense_st_game_log_2026_as_of_2026-10-21.csv)
-- [`NFL_defense_st_summary_as_of_2026-10-21.csv`](csv/NFL_defense_st_summary_as_of_2026-10-21.csv)
-- [`NFL_kickers_game_log_2025_as_of_2026-10-21.csv`](csv/NFL_kickers_game_log_2025_as_of_2026-10-21.csv)
-- [`NFL_kickers_game_log_2026_as_of_2026-10-21.csv`](csv/NFL_kickers_game_log_2026_as_of_2026-10-21.csv)
-- [`NFL_kickers_summary_as_of_2026-10-21.csv`](csv/NFL_kickers_summary_as_of_2026-10-21.csv)
-- [`NFL_offense_game_log_2025_as_of_2026-10-21.csv`](csv/NFL_offense_game_log_2025_as_of_2026-10-21.csv)
-- [`NFL_offense_game_log_2026_as_of_2026-10-21.csv`](csv/NFL_offense_game_log_2026_as_of_2026-10-21.csv)
-- [`NFL_offense_summary_as_of_2026-10-21.csv`](csv/NFL_offense_summary_as_of_2026-10-21.csv)
+- [`NFL_defense_st_game_log_2025_as_of_2026-10-22.csv`](csv/NFL_defense_st_game_log_2025_as_of_2026-10-22.csv)
+- [`NFL_defense_st_game_log_2026_as_of_2026-10-22.csv`](csv/NFL_defense_st_game_log_2026_as_of_2026-10-22.csv)
+- [`NFL_defense_st_summary_as_of_2026-10-22.csv`](csv/NFL_defense_st_summary_as_of_2026-10-22.csv)
+- [`NFL_kickers_game_log_2025_as_of_2026-10-22.csv`](csv/NFL_kickers_game_log_2025_as_of_2026-10-22.csv)
+- [`NFL_kickers_game_log_2026_as_of_2026-10-22.csv`](csv/NFL_kickers_game_log_2026_as_of_2026-10-22.csv)
+- [`NFL_kickers_summary_as_of_2026-10-22.csv`](csv/NFL_kickers_summary_as_of_2026-10-22.csv)
+- [`NFL_offense_game_log_2025_as_of_2026-10-22.csv`](csv/NFL_offense_game_log_2025_as_of_2026-10-22.csv)
+- [`NFL_offense_game_log_2026_as_of_2026-10-22.csv`](csv/NFL_offense_game_log_2026_as_of_2026-10-22.csv)
+- [`NFL_offense_summary_as_of_2026-10-22.csv`](csv/NFL_offense_summary_as_of_2026-10-22.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
