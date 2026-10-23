@@ -539,7 +539,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-20,Thomas Harley,5711,DAL,BOS,D,2026-27,1,4,0,0,3,0,0,19.2,2
 2026-10-20,Teddy Blueger,4875,TOR,CBJ,C,2026-27,0,1,0,0,0,0,0,1.6,2
 2026-10-20,Tanner Jeannot,4920,BOS,DAL,W,2026-27,1,2,0,0,1,0,0,12.8,2
-2026-10-20,T.J. Hughes,5903,COL,NJ,C,2026-27,0,1,0,0,2,0,0,4.8,1
+2026-10-20,T.J. Hughes,5903,COL,NJ,W,2026-27,0,1,0,0,2,0,0,4.8,1
 2026-10-20,Simon Holmstrom,5880,NYI,ANH,W,2026-27,0,1,1,1,3,0,0,18.9,2
 2026-10-20,Sheldon Dries,6427,DET,SEA,C,2026-27,0,0,0,0,0,0,0,0,1
 2026-10-20,Shea Theodore,4803,VGK,TB,D,2026-27,0,3,0,0,3,0,0,9.6,2
@@ -789,7 +789,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-20,Daemon Hunt,5482,MIN,EDM,D,2026-27,0,1,0,0,0,0,0,1.6,2
 2026-10-20,Cutter Gauthier,5683,ANH,NYI,W,2026-27,0,0,0,0,2,0,0,3.2,2
 2026-10-20,Corey Perry,5893,LA,WSH,W,2026-27,0,1,0,0,0,0,0,1.6,2
-2026-10-20,Conor Geekie,5470,TB,VGK,W,2026-27,0,1,0,0,1,0,0,3.2,1
+2026-10-20,Conor Geekie,5470,TB,VGK,C,2026-27,0,1,0,0,1,0,0,3.2,1
 2026-10-20,Conor Garland,5367,CBJ,TOR,W,2026-27,0,0,0,0,1,0,0,1.6,1
 2026-10-20,Connor Murphy,4888,EDM,MIN,D,2026-27,0,2,0,0,0,0,0,3.2,2
 2026-10-20,Connor McMichael,5716,STL,WPG,W,2026-27,0,0,0,0,1,0,0,1.6,2
@@ -902,7 +902,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-19,Tim Washe,5791,ANH,NYR,C,2026-27,0,0,0,0,3,0,0,4.8,3
 2026-10-19,Teddy Blueger,4875,TOR,SJ,C,2026-27,0,0,0,0,2,0,0,3.2,3
 2026-10-19,Taylor Raddysh,4943,NYR,ANH,W,2026-27,1,0,0,0,1,0,0,9.6,2
-2026-10-19,T.J. Hughes,5903,COL,PHI,C,2026-27,0,0,1,0,2,0,0,15.2,2
+2026-10-19,T.J. Hughes,5903,COL,PHI,W,2026-27,0,0,1,0,2,0,0,15.2,2
 2026-10-19,Spencer Stastney,4990,PIT,UTA,D,2026-27,1,1,0,0,0,0,0,9.6,2
 2026-10-19,Sidney Crosby,5823,PIT,UTA,C,2026-27,0,0,0,0,1,0,0,1.6,2
 2026-10-19,Sean Durzi,4845,NYR,ANH,D,2026-27,0,4,1,0,1,0,0,20,2
@@ -1223,7 +1223,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-17,Owen Power,5394,BUF,MON,D,2026-27,0,3,0,0,3,0,0,9.6,2
 2026-10-17,Owen Michaels,5009,EDM,UTA,C,2026-27,0,1,0,0,1,0,0,3.2,3
 2026-10-17,Ondrej Palat,5906,NYI,TOR,W,2026-27,0,0,0,0,0,0,0,0,3
-2026-10-17,Oliver Moore,4927,CHI,DAL,C,2026-27,0,1,0,0,2,0,0,4.8,1
+2026-10-17,Oliver Moore,4927,CHI,DAL,W,2026-27,0,1,0,0,2,0,0,4.8,1
 2026-10-17,Oliver Kapanen,4887,MON,BUF,C,2026-27,0,1,0,0,3,0,0,6.4,2
 2026-10-17,Oliver Ekman-Larsson,4859,TOR,NYI,D,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-17,Oliver Bonk,6440,PHI,OTT,D,2026-27,0,1,0,0,0,0,0,1.6,3
@@ -1475,7 +1475,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-17,Damon Severson,6483,CBJ,NYR,D,2026-27,0,1,0,0,0,0,0,1.6,3
 2026-10-17,Dalibor Dvorsky,5758,STL,NSH,C,2026-27,0,0,0,0,2,0,0,3.2,3
 2026-10-17,Corey Perry,5893,LA,BOS,W,2026-27,0,4,0,0,0,0,0,6.4,3
-2026-10-17,Conor Geekie,5470,TB,VAN,W,2026-27,0,2,0,0,1,0,0,4.8,2
+2026-10-17,Conor Geekie,5470,TB,VAN,C,2026-27,0,2,0,0,1,0,0,4.8,2
 2026-10-17,Conor Garland,5367,CBJ,NYR,W,2026-27,0,0,0,0,2,0,0,3.2,3
 2026-10-17,Connor Murphy,4888,EDM,UTA,D,2026-27,0,4,0,0,2,0,0,9.6,3
 2026-10-17,Connor McMichael,5716,STL,NSH,W,2026-27,0,0,0,0,0,0,0,0,3
@@ -1597,7 +1597,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-16,Tommy Novak,5863,PIT,COL,C,2026-27,0,1,0,0,4,0,0,8,4
 2026-10-16,Tim Washe,5791,ANH,BOS,C,2026-27,0,1,1,0,1,0,0,15.2,4
 2026-10-16,Tanner Jeannot,4920,BOS,ANH,W,2026-27,0,1,0,0,0,0,0,1.6,4
-2026-10-16,T.J. Hughes,5903,COL,PIT,C,2026-27,0,0,1,0,2,0,0,15.2,3
+2026-10-16,T.J. Hughes,5903,COL,PIT,W,2026-27,0,0,1,0,2,0,0,15.2,3
 2026-10-16,Spencer Stastney,4990,PIT,COL,D,2026-27,0,0,0,0,1,0,0,1.6,4
 2026-10-16,Sidney Crosby,5823,PIT,COL,C,2026-27,1,0,0,0,2,0,0,11.2,4
 2026-10-16,Samuel Girard,5888,PIT,COL,D,2026-27,1,3,0,0,2,0,0,16,2
@@ -1767,7 +1767,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-15,Owen Power,5394,BUF,TOR,D,2026-27,0,0,1,0,2,0,0,15.2,3
 2026-10-15,Owen Michaels,5009,EDM,UTA,C,2026-27,1,0,0,0,0,0,0,8,4
 2026-10-15,Ondrej Palat,5906,NYI,OTT,W,2026-27,0,0,0,0,2,0,0,3.2,4
-2026-10-15,Oliver Moore,4927,CHI,WPG,C,2026-27,1,0,0,0,3,0,0,12.8,2
+2026-10-15,Oliver Moore,4927,CHI,WPG,W,2026-27,1,0,0,0,3,0,0,12.8,2
 2026-10-15,Oliver Ekman-Larsson,4859,TOR,BUF,D,2026-27,0,1,0,0,0,0,0,1.6,5
 2026-10-15,Oliver Bonk,6440,PHI,DET,D,2026-27,0,3,0,0,2,0,0,8,4
 2026-10-15,Oliver Bjorkstrand,4913,NYR,NJ,W,2026-27,0,0,0,0,3,0,0,4.8,4
@@ -1969,7 +1969,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-15,Daniil But,5510,UTA,EDM,W,2026-27,0,0,0,0,1,0,0,1.6,4
 2026-10-15,Dalibor Dvorsky,5758,STL,MIN,C,2026-27,1,0,0,0,1,0,0,9.6,4
 2026-10-15,Daemon Hunt,5482,MIN,STL,D,2026-27,0,0,0,0,2,0,0,3.2,4
-2026-10-15,Conor Geekie,5470,TB,SEA,W,2026-27,0,0,0,0,0,0,0,0,3
+2026-10-15,Conor Geekie,5470,TB,SEA,C,2026-27,0,0,0,0,0,0,0,0,3
 2026-10-15,Connor Murphy,4888,EDM,UTA,D,2026-27,0,1,0,0,1,0,0,3.2,4
 2026-10-15,Connor McMichael,5716,STL,MIN,W,2026-27,0,0,0,0,0,0,0,0,4
 2026-10-15,Connor McDavid,4725,EDM,UTA,C,2026-27,1,0,0,0,2,0,0,11.2,4
@@ -2058,7 +2058,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-14,Tom Wilson,5696,WSH,MON,W,2026-27,0,0,0,0,5,0,0,8,3
 2026-10-14,Timothy Liljegren,5763,WSH,MON,D,2026-27,0,1,0,0,0,0,0,1.6,3
 2026-10-14,Thomas Harley,5711,DAL,COL,D,2026-27,1,5,0,0,3,0,0,20.8,4
-2026-10-14,T.J. Hughes,5903,COL,DAL,C,2026-27,0,1,0,0,0,0,0,1.6,4
+2026-10-14,T.J. Hughes,5903,COL,DAL,W,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-14,Sam Steel,5744,DAL,COL,W,2026-27,0,0,0,0,0,0,0,0,4
 2026-10-14,Sam Malinski,5855,COL,DAL,D,2026-27,1,2,0,0,4,0,0,17.6,4
 2026-10-14,Ryan Leonard,5718,WSH,MON,W,2026-27,0,0,0,0,1,0,0,1.6,3
@@ -2191,7 +2191,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-13,Taylor Hall,4807,CAR,WSH,W,2026-27,0,0,0,0,0,0,0,0,1
 2026-10-13,Tanner Jeannot,4920,BOS,SJ,W,2026-27,0,0,0,0,0,0,0,0,5
 2026-10-13,Tage Thompson,5295,BUF,MON,C,2026-27,0,1,0,0,1,0,0,3.2,4
-2026-10-13,T.J. Hughes,5903,COL,DAL,C,2026-27,0,1,0,0,1,0,0,3.2,5
+2026-10-13,T.J. Hughes,5903,COL,DAL,W,2026-27,0,1,0,0,1,0,0,3.2,5
 2026-10-13,Steven Stamkos,5322,NSH,VGK,W,2026-27,0,0,0,0,1,0,0,1.6,4
 2026-10-13,Stephen Halliday,5897,OTT,STL,C,2026-27,1,0,0,0,0,0,0,8,5
 2026-10-13,Stefan Noesen,5495,NJ,DET,W,2026-27,1,0,0,0,1,0,0,9.6,3
@@ -2272,7 +2272,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-13,Oskar Bäck,5788,DAL,COL,W,2026-27,0,0,0,0,0,0,0,0,2
 2026-10-13,Ondrej Palat,5906,NYI,VAN,W,2026-27,0,1,0,0,0,0,0,1.6,5
 2026-10-13,Olli Määttä,5413,MIN,WPG,D,2026-27,0,1,0,0,0,0,0,1.6,2
-2026-10-13,Oliver Moore,4927,CHI,PIT,C,2026-27,0,0,0,0,0,0,0,0,3
+2026-10-13,Oliver Moore,4927,CHI,PIT,W,2026-27,0,0,0,0,0,0,0,0,3
 2026-10-13,Oliver Ekman-Larsson,4859,TOR,UTA,D,2026-27,0,0,0,0,0,0,0,0,6
 2026-10-13,Oliver Bonk,6440,PHI,SEA,D,2026-27,1,1,0,0,1,0,0,11.2,5
 2026-10-13,Oliver Bjorkstrand,4913,NYR,TB,W,2026-27,0,1,0,0,0,0,0,1.6,5
@@ -2560,7 +2560,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-13,Dalibor Dvorsky,5758,STL,OTT,C,2026-27,0,0,0,0,1,0,0,1.6,5
 2026-10-13,Daemon Hunt,5482,MIN,WPG,D,2026-27,0,3,0,0,0,0,0,4.8,5
 2026-10-13,Corey Perry,5893,LA,EDM,W,2026-27,0,0,0,0,2,0,0,3.2,4
-2026-10-13,Conor Geekie,5470,TB,NYR,W,2026-27,0,1,0,0,0,0,0,1.6,4
+2026-10-13,Conor Geekie,5470,TB,NYR,C,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-13,Conor Garland,5367,CBJ,FLA,W,2026-27,0,1,0,0,2,0,0,4.8,4
 2026-10-13,Connor Murphy,4888,EDM,LA,D,2026-27,0,1,0,0,0,0,0,1.6,5
 2026-10-13,Connor McMichael,5716,STL,OTT,W,2026-27,2,0,0,0,0,0,0,16,5
@@ -2959,7 +2959,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-10,Taylor Hall,4807,CAR,CHI,W,2026-27,0,0,1,0,4,0,0,18.4,3
 2026-10-10,Tanner Jeannot,4920,BOS,PHI,W,2026-27,0,0,0,0,0,0,0,0,6
 2026-10-10,Tage Thompson,5295,BUF,UTA,C,2026-27,0,1,1,1,6,0,0,23.7,6
-2026-10-10,T.J. Hughes,5903,COL,TOR,C,2026-27,0,1,0,0,3,0,0,6.4,6
+2026-10-10,T.J. Hughes,5903,COL,TOR,W,2026-27,0,1,0,0,3,0,0,6.4,6
 2026-10-10,Steven Stamkos,5322,NSH,OTT,W,2026-27,1,2,0,0,0,0,0,11.2,5
 2026-10-10,Stephen Halliday,5897,OTT,NSH,C,2026-27,0,1,0,0,0,0,0,1.6,7
 2026-10-10,Spencer Stastney,4990,PIT,DAL,D,2026-27,0,1,0,0,1,0,0,3.2,6
@@ -3038,7 +3038,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-10,Oskar Bäck,5788,DAL,PIT,W,2026-27,0,2,0,0,1,0,0,4.8,3
 2026-10-10,Ondrej Palat,5906,NYI,TB,W,2026-27,1,3,0,0,0,0,0,12.8,6
 2026-10-10,Olli Määttä,5413,MIN,FLA,D,2026-27,0,1,0,0,0,0,0,1.6,4
-2026-10-10,Oliver Moore,4927,CHI,CAR,C,2026-27,0,0,1,0,2,0,0,15.2,4
+2026-10-10,Oliver Moore,4927,CHI,CAR,W,2026-27,0,0,1,0,2,0,0,15.2,4
 2026-10-10,Oliver Ekman-Larsson,4859,TOR,COL,D,2026-27,0,0,0,0,0,0,0,0,7
 2026-10-10,Olen Zellweger,5463,BUF,UTA,D,2026-27,0,0,0,0,0,0,0,0,6
 2026-10-10,Noel Acciari,5448,PHI,BOS,W,2026-27,0,1,0,0,0,0,0,1.6,7
@@ -3289,7 +3289,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-10,Daemon Hunt,5482,MIN,FLA,D,2026-27,0,1,0,0,1,0,0,3.2,7
 2026-10-10,Cutter Gauthier,5683,ANH,CGY,W,2026-27,0,0,0,0,0,0,0,0,5
 2026-10-10,Corey Perry,5893,LA,VGK,W,2026-27,0,1,0,0,1,0,0,3.2,5
-2026-10-10,Conor Geekie,5470,TB,NYI,W,2026-27,0,0,0,0,1,0,0,1.6,5
+2026-10-10,Conor Geekie,5470,TB,NYI,C,2026-27,0,0,0,0,1,0,0,1.6,5
 2026-10-10,Conor Garland,5367,CBJ,STL,W,2026-27,0,0,0,0,1,0,0,1.6,5
 2026-10-10,Connor Murphy,4888,EDM,SJ,D,2026-27,1,1,0,0,0,0,0,9.6,6
 2026-10-10,Connor McMichael,5716,STL,CBJ,W,2026-27,0,1,0,0,1,0,0,3.2,6
@@ -3585,7 +3585,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-08,Taylor Hall,4807,CAR,VAN,W,2026-27,2,0,0,0,2,0,0,19.2,4
 2026-10-08,Tanner Jeannot,4920,BOS,UTA,W,2026-27,0,3,0,0,0,0,0,4.8,7
 2026-10-08,Tage Thompson,5295,BUF,DAL,C,2026-27,0,0,0,0,6,0,0,9.6,7
-2026-10-08,T.J. Hughes,5903,COL,CGY,C,2026-27,1,0,0,0,6,0,0,17.6,7
+2026-10-08,T.J. Hughes,5903,COL,CGY,W,2026-27,1,0,0,0,6,0,0,17.6,7
 2026-10-08,Steven Stamkos,5322,NSH,MON,W,2026-27,2,0,0,0,2,0,0,19.2,6
 2026-10-08,Stephen Halliday,5897,OTT,PHI,C,2026-27,0,1,0,0,1,0,0,3.2,8
 2026-10-08,Simon Nemec,5363,CGY,COL,D,2026-27,0,2,0,0,1,0,0,4.8,6
@@ -3638,7 +3638,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-08,Owen Power,5394,BUF,DAL,D,2026-27,0,0,0,0,2,0,0,3.2,7
 2026-10-08,Oskar Bäck,5788,DAL,BUF,W,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-08,Ondrej Palat,5906,NYI,CHI,W,2026-27,0,0,0,0,0,0,0,0,7
-2026-10-08,Oliver Moore,4927,CHI,NYI,C,2026-27,0,1,0,0,1,0,0,3.2,5
+2026-10-08,Oliver Moore,4927,CHI,NYI,W,2026-27,0,1,0,0,1,0,0,3.2,5
 2026-10-08,Oliver Ekman-Larsson,4859,TOR,VGK,D,2026-27,0,0,0,0,0,0,0,0,8
 2026-10-08,Olen Zellweger,5463,BUF,DAL,D,2026-27,0,0,0,0,0,0,0,0,7
 2026-10-08,Noel Acciari,5448,PHI,OTT,W,2026-27,0,0,0,0,0,0,0,0,8
@@ -3822,7 +3822,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-08,Daniil But,5510,UTA,BOS,W,2026-27,0,0,0,0,3,0,0,4.8,7
 2026-10-08,Dalibor Dvorsky,5758,STL,SJ,C,2026-27,0,0,0,0,2,0,0,3.2,7
 2026-10-08,Daemon Hunt,5482,MIN,TB,D,2026-27,0,0,0,0,0,0,0,0,8
-2026-10-08,Conor Geekie,5470,TB,MIN,W,2026-27,0,0,0,0,3,0,0,4.8,6
+2026-10-08,Conor Geekie,5470,TB,MIN,C,2026-27,0,0,0,0,3,0,0,4.8,6
 2026-10-08,Connor McMichael,5716,STL,SJ,W,2026-27,0,0,1,0,2,0,0,15.2,7
 2026-10-08,Connor Clifton,4938,BOS,UTA,D,2026-27,0,1,0,0,0,0,0,1.6,2
 2026-10-08,Colton Sissons,4928,TOR,VGK,C,2026-27,0,0,0,0,0,0,0,0,8
@@ -3906,7 +3906,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-07,Tom Wilson,5696,WSH,PIT,W,2026-27,2,2,1,0,2,0,0,34.4,7
 2026-10-07,Timothy Liljegren,5763,WSH,PIT,D,2026-27,0,2,0,0,1,0,0,4.8,7
 2026-10-07,Tim Washe,5791,ANH,EDM,C,2026-27,0,2,0,0,1,0,0,4.8,8
-2026-10-07,T.J. Hughes,5903,COL,WPG,C,2026-27,0,0,0,0,1,0,0,1.6,8
+2026-10-07,T.J. Hughes,5903,COL,WPG,W,2026-27,0,0,0,0,1,0,0,1.6,8
 2026-10-07,Sidney Crosby,5823,PIT,WSH,C,2026-27,0,0,0,0,2,0,0,3.2,8
 2026-10-07,Samuel Girard,5888,PIT,WSH,D,2026-27,1,0,0,0,1,0,0,9.6,6
 2026-10-07,Sam Malinski,5855,COL,WPG,D,2026-27,0,0,0,0,1,0,0,1.6,7
@@ -4080,7 +4080,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-06,Owen Power,5394,BUF,MIN,D,2026-27,1,0,1,0,2,0,0,23.2,8
 2026-10-06,Ondrej Palat,5906,NYI,NYR,W,2026-27,0,2,0,0,1,0,0,4.8,8
 2026-10-06,Olli Määttä,5413,MIN,BUF,D,2026-27,0,2,0,0,0,0,0,3.2,5
-2026-10-06,Oliver Moore,4927,CHI,STL,C,2026-27,0,0,0,0,0,0,0,0,6
+2026-10-06,Oliver Moore,4927,CHI,STL,W,2026-27,0,0,0,0,0,0,0,0,6
 2026-10-06,Oliver Ekman-Larsson,4859,TOR,NSH,D,2026-27,0,0,0,0,0,0,0,0,9
 2026-10-06,Oliver Bjorkstrand,4913,NYR,NYI,W,2026-27,0,1,2,1,3,0,0,30.9,8
 2026-10-06,Olen Zellweger,5463,BUF,MIN,D,2026-27,0,1,0,0,0,0,0,1.6,8
@@ -4433,7 +4433,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-05,Declan Carlile,5877,PIT,WPG,D,2026-27,1,3,1,0,3,0,0,29.6,9
 2026-10-05,David Pastrnak,4727,BOS,OTT,W,2026-27,0,0,0,0,2,0,0,3.2,8
 2026-10-05,Darnell Nurse,5377,SJ,DAL,D,2026-27,0,3,0,0,3,0,0,9.6,8
-2026-10-05,Conor Geekie,5470,TB,PHI,W,2026-27,0,0,0,0,2,0,0,3.2,7
+2026-10-05,Conor Geekie,5470,TB,PHI,C,2026-27,0,0,0,0,2,0,0,3.2,7
 2026-10-05,Connor Dewar,5874,PIT,WPG,C,2026-27,0,0,0,0,4,0,0,6.4,9
 2026-10-05,Connor Clifton,4938,BOS,OTT,D,2026-27,0,1,0,0,1,0,0,3.2,3
 2026-10-05,Collin Graf,5351,SJ,DAL,W,2026-27,0,1,0,0,0,0,0,1.6,9
@@ -4691,7 +4691,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-03,Taylor Hall,4807,CAR,PHI,W,2026-27,0,0,0,0,2,0,0,3.2,6
 2026-10-03,Tanner Jeannot,4920,BOS,MIN,W,2026-27,0,0,1,0,1,0,0,13.6,9
 2026-10-03,Tage Thompson,5295,BUF,CHI,C,2026-27,1,1,1,0,4,0,0,28,9
-2026-10-03,T.J. Hughes,5903,COL,STL,C,2026-27,0,0,0,0,2,0,0,3.2,9
+2026-10-03,T.J. Hughes,5903,COL,STL,W,2026-27,0,0,0,0,2,0,0,3.2,9
 2026-10-03,Steven Stamkos,5322,NSH,DAL,W,2026-27,0,0,1,1,4,0,0,18.9,8
 2026-10-03,Stephen Halliday,5897,OTT,TOR,C,2026-27,0,2,1,0,2,0,0,18.4,11
 2026-10-03,Stefan Noesen,5495,NJ,NYI,W,2026-27,0,0,0,0,2,0,0,3.2,4
@@ -4755,7 +4755,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-03,Oskar Bäck,5788,DAL,NSH,W,2026-27,0,1,0,0,2,0,0,4.8,6
 2026-10-03,Ondrej Palat,5906,NYI,NJ,W,2026-27,0,1,1,0,4,0,0,20,9
 2026-10-03,Olli Määttä,5413,MIN,BOS,D,2026-27,0,0,0,0,1,0,0,1.6,6
-2026-10-03,Oliver Moore,4927,CHI,BUF,C,2026-27,0,0,1,0,1,0,0,13.6,7
+2026-10-03,Oliver Moore,4927,CHI,BUF,W,2026-27,0,0,1,0,1,0,0,13.6,7
 2026-10-03,Oliver Ekman-Larsson,4859,TOR,OTT,D,2026-27,0,0,0,0,0,0,0,0,10
 2026-10-03,Olen Zellweger,5463,BUF,CHI,D,2026-27,0,0,0,0,1,0,0,1.6,9
 2026-10-03,Nolan Allan,5517,SJ,LA,D,2026-27,0,1,1,0,2,0,0,16.8,5
@@ -4990,7 +4990,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-03,Dalibor Dvorsky,5758,STL,COL,C,2026-27,0,0,1,0,3,0,0,16.8,9
 2026-10-03,Daemon Hunt,5482,MIN,BOS,D,2026-27,0,1,0,0,1,0,0,3.2,10
 2026-10-03,Corey Perry,5893,LA,SJ,W,2026-27,0,0,0,0,3,0,0,4.8,7
-2026-10-03,Conor Geekie,5470,TB,WSH,W,2026-27,0,0,1,0,2,0,0,15.2,8
+2026-10-03,Conor Geekie,5470,TB,WSH,C,2026-27,0,0,1,0,2,0,0,15.2,8
 2026-10-03,Conor Garland,5367,CBJ,UTA,W,2026-27,0,0,0,0,0,0,0,0,7
 2026-10-03,Connor Murphy,4888,EDM,SEA,D,2026-27,0,2,0,0,0,0,0,3.2,8
 2026-10-03,Connor McMichael,5716,STL,COL,W,2026-27,0,0,0,0,2,0,0,3.2,9
@@ -5352,7 +5352,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-01,Owen Power,5394,BUF,CBJ,D,2026-27,2,0,0,0,0,0,0,16,10
 2026-10-01,Owen Michaels,5009,EDM,VAN,C,2026-27,0,0,1,0,1,0,0,13.6,9
 2026-10-01,Olli Määttä,5413,MIN,NSH,D,2026-27,1,1,0,0,0,0,0,9.6,7
-2026-10-01,Oliver Moore,4927,CHI,UTA,C,2026-27,0,0,0,0,2,0,0,3.2,8
+2026-10-01,Oliver Moore,4927,CHI,UTA,W,2026-27,0,0,0,0,2,0,0,3.2,8
 2026-10-01,Oliver Bjorkstrand,4913,NYR,TB,W,2026-27,1,0,0,0,1,0,0,9.6,11
 2026-10-01,Nolan Allan,5517,SJ,FLA,D,2026-27,0,1,0,0,1,0,0,3.2,6
 2026-10-01,Noel Acciari,5448,PHI,NJ,W,2026-27,0,2,0,0,0,0,0,3.2,11
@@ -5493,7 +5493,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-01,Daniil But,5510,UTA,CHI,W,2026-27,0,0,1,0,1,0,0,13.6,11
 2026-10-01,Daemon Hunt,5482,MIN,NSH,D,2026-27,0,0,0,0,0,0,0,0,11
 2026-10-01,Curtis Douglas,5498,SEA,CGY,W,2026-27,0,0,0,0,0,0,0,0,2
-2026-10-01,Conor Geekie,5470,TB,NYR,W,2026-27,0,0,0,0,0,0,0,0,9
+2026-10-01,Conor Geekie,5470,TB,NYR,C,2026-27,0,0,0,0,0,0,0,0,9
 2026-10-01,Conor Garland,5367,CBJ,BUF,W,2026-27,0,1,0,0,0,0,0,1.6,8
 2026-10-01,Connor Zary,5420,CGY,SEA,W,2026-27,1,0,0,0,1,0,0,9.6,2
 2026-10-01,Connor Murphy,4888,EDM,VAN,D,2026-27,0,6,0,0,1,0,0,11.2,9
@@ -5568,7 +5568,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-09-30,Tony DeAngelo,5872,NYI,TOR,D,2026-27,0,1,0,0,0,0,0,1.6,10
 2026-09-30,Tommy Novak,5863,PIT,PHI,C,2026-27,1,1,0,0,0,0,0,9.6,11
 2026-09-30,Teddy Blueger,4875,TOR,NYI,C,2026-27,0,1,0,0,0,0,0,1.6,11
-2026-09-30,T.J. Hughes,5903,COL,LA,C,2026-27,0,0,0,0,2,0,0,3.2,10
+2026-09-30,T.J. Hughes,5903,COL,LA,W,2026-27,0,0,0,0,2,0,0,3.2,10
 2026-09-30,Simon Holmstrom,5880,NYI,TOR,W,2026-27,0,0,0,0,0,0,0,0,10
 2026-09-30,Simon Benoit,5472,PHI,PIT,D,2026-27,0,0,0,0,0,0,0,0,10
 2026-09-30,Sidney Crosby,5823,PIT,PHI,C,2026-27,1,0,0,0,3,0,0,12.8,11
@@ -5711,7 +5711,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-09-29,Patrick Kane,4805,CHI,VGK,W,2026-27,0,0,1,0,4,0,0,18.4,9
 2026-09-29,Parker Wotherspoon,4885,VGK,CHI,D,2026-27,0,0,0,0,1,0,0,1.6,6
 2026-09-29,Owen Michaels,5009,EDM,VAN,C,2026-27,0,1,0,0,0,0,0,1.6,10
-2026-09-29,Oliver Moore,4927,CHI,VGK,C,2026-27,0,0,0,0,2,0,0,3.2,9
+2026-09-29,Oliver Moore,4927,CHI,VGK,W,2026-27,0,0,0,0,2,0,0,3.2,9
 2026-09-29,Oliver Ekman-Larsson,4859,TOR,MON,D,2026-27,0,2,0,0,1,0,0,4.8,12
 2026-09-29,Oliver Bjorkstrand,4913,NYR,BOS,W,2026-27,0,0,0,0,4,0,0,6.4,12
 2026-09-29,Noah Laba,4923,NYR,BOS,C,2026-27,0,0,0,0,0,0,0,0,12
