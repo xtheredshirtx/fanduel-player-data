@@ -1,8 +1,8 @@
-# MLB player data - As of 10/22/2026
+# MLB player data - As of 10/23/2026
 
 Every MLB player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`MLB_player_data_as_of_2026-10-22.xlsx`](MLB_player_data_as_of_2026-10-22.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`MLB_player_data_as_of_2026-10-23.xlsx`](MLB_player_data_as_of_2026-10-23.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
@@ -22,12 +22,12 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | MLB Pitchers | 2025 | 2025-03-18 | 2025-09-28 | 14,509 | 560 |
 
 ## CSV files
-- [`MLB_hitters_game_log_2025_as_of_2026-10-22.csv`](csv/MLB_hitters_game_log_2025_as_of_2026-10-22.csv)
-- [`MLB_hitters_game_log_2026_as_of_2026-10-22.csv`](csv/MLB_hitters_game_log_2026_as_of_2026-10-22.csv)
-- [`MLB_hitters_summary_as_of_2026-10-22.csv`](csv/MLB_hitters_summary_as_of_2026-10-22.csv)
-- [`MLB_pitchers_game_log_2025_as_of_2026-10-22.csv`](csv/MLB_pitchers_game_log_2025_as_of_2026-10-22.csv)
-- [`MLB_pitchers_game_log_2026_as_of_2026-10-22.csv`](csv/MLB_pitchers_game_log_2026_as_of_2026-10-22.csv)
-- [`MLB_pitchers_summary_as_of_2026-10-22.csv`](csv/MLB_pitchers_summary_as_of_2026-10-22.csv)
+- [`MLB_hitters_game_log_2025_as_of_2026-10-23.csv`](csv/MLB_hitters_game_log_2025_as_of_2026-10-23.csv)
+- [`MLB_hitters_game_log_2026_as_of_2026-10-23.csv`](csv/MLB_hitters_game_log_2026_as_of_2026-10-23.csv)
+- [`MLB_hitters_summary_as_of_2026-10-23.csv`](csv/MLB_hitters_summary_as_of_2026-10-23.csv)
+- [`MLB_pitchers_game_log_2025_as_of_2026-10-23.csv`](csv/MLB_pitchers_game_log_2025_as_of_2026-10-23.csv)
+- [`MLB_pitchers_game_log_2026_as_of_2026-10-23.csv`](csv/MLB_pitchers_game_log_2026_as_of_2026-10-23.csv)
+- [`MLB_pitchers_summary_as_of_2026-10-23.csv`](csv/MLB_pitchers_summary_as_of_2026-10-23.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
