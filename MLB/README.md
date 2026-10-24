@@ -1,33 +1,33 @@
-# MLB player data - As of 10/23/2026
+# MLB player data - As of 10/24/2026
 
 Every MLB player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`MLB_player_data_as_of_2026-10-23.xlsx`](MLB_player_data_as_of_2026-10-23.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`MLB_player_data_as_of_2026-10-24.xlsx`](MLB_player_data_as_of_2026-10-24.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
 | Hitters Summary | MLB Hitters: one row per player per season (season totals) | 1,118 |
-| Hitters Game Log | MLB Hitters: one row per player per game | 85,998 |
+| Hitters Game Log | MLB Hitters: one row per player per game | 86,018 |
 | Pitchers Summary | MLB Pitchers: one row per player per season (season totals) | 1,407 |
-| Pitchers Game Log | MLB Pitchers: one row per player per game | 35,358 |
+| Pitchers Game Log | MLB Pitchers: one row per player per game | 35,367 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| MLB Hitters | 2026 | 2026-03-25 | 2026-10-19 | 49,914 | 650 |
+| MLB Hitters | 2026 | 2026-03-25 | 2026-10-23 | 49,934 | 650 |
 | MLB Hitters | 2025 | 2025-03-18 | 2025-09-28 | 36,084 | 468 |
-| MLB Pitchers | 2026 | 2026-03-25 | 2026-10-19 | 20,849 | 847 |
+| MLB Pitchers | 2026 | 2026-03-25 | 2026-10-23 | 20,858 | 847 |
 | MLB Pitchers | 2025 | 2025-03-18 | 2025-09-28 | 14,509 | 560 |
 
 ## CSV files
-- [`MLB_hitters_game_log_2025_as_of_2026-10-23.csv`](csv/MLB_hitters_game_log_2025_as_of_2026-10-23.csv)
-- [`MLB_hitters_game_log_2026_as_of_2026-10-23.csv`](csv/MLB_hitters_game_log_2026_as_of_2026-10-23.csv)
-- [`MLB_hitters_summary_as_of_2026-10-23.csv`](csv/MLB_hitters_summary_as_of_2026-10-23.csv)
-- [`MLB_pitchers_game_log_2025_as_of_2026-10-23.csv`](csv/MLB_pitchers_game_log_2025_as_of_2026-10-23.csv)
-- [`MLB_pitchers_game_log_2026_as_of_2026-10-23.csv`](csv/MLB_pitchers_game_log_2026_as_of_2026-10-23.csv)
-- [`MLB_pitchers_summary_as_of_2026-10-23.csv`](csv/MLB_pitchers_summary_as_of_2026-10-23.csv)
+- [`MLB_hitters_game_log_2025_as_of_2026-10-24.csv`](csv/MLB_hitters_game_log_2025_as_of_2026-10-24.csv)
+- [`MLB_hitters_game_log_2026_as_of_2026-10-24.csv`](csv/MLB_hitters_game_log_2026_as_of_2026-10-24.csv)
+- [`MLB_hitters_summary_as_of_2026-10-24.csv`](csv/MLB_hitters_summary_as_of_2026-10-24.csv)
+- [`MLB_pitchers_game_log_2025_as_of_2026-10-24.csv`](csv/MLB_pitchers_game_log_2025_as_of_2026-10-24.csv)
+- [`MLB_pitchers_game_log_2026_as_of_2026-10-24.csv`](csv/MLB_pitchers_game_log_2026_as_of_2026-10-24.csv)
+- [`MLB_pitchers_summary_as_of_2026-10-24.csv`](csv/MLB_pitchers_summary_as_of_2026-10-24.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
