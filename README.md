@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 10/24/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 258,907 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 258,925 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -29,7 +29,7 @@ in this repository's commit history.
 | [NHL](NHL/) | 852 | 54,433 | [NHL_player_data_as_of_2026-10-24.xlsx](NHL/NHL_player_data_as_of_2026-10-24.xlsx) |
 | [NFL](NFL/) | 657 | 7,558 | [NFL_player_data_as_of_2026-10-24.xlsx](NFL/NFL_player_data_as_of_2026-10-24.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,385 | [MLB_player_data_as_of_2026-10-24.xlsx](MLB/MLB_player_data_as_of_2026-10-24.xlsx) |
-| [WNBA](WNBA/) | 220 | 11,344 | [WNBA_player_data_as_of_2026-10-24.xlsx](WNBA/WNBA_player_data_as_of_2026-10-24.xlsx) |
+| [WNBA](WNBA/) | 220 | 11,362 | [WNBA_player_data_as_of_2026-10-24.xlsx](WNBA/WNBA_player_data_as_of_2026-10-24.xlsx) |
 | [PGA](PGA/) | 144 | 2,455 | [PGA_player_data_as_of_2026-10-24.xlsx](PGA/PGA_player_data_as_of_2026-10-24.xlsx) |
 | [NASCAR](NASCAR/) | 42 | 4,626 | [NASCAR_player_data_as_of_2026-10-24.xlsx](NASCAR/NASCAR_player_data_as_of_2026-10-24.xlsx) |
 
@@ -55,7 +55,7 @@ in this repository's commit history.
 | MLB Hitters | 2025 | 2025-03-18 | 2025-09-28 | 36,084 | 468 |
 | MLB Pitchers | 2026 | 2026-03-25 | 2026-10-23 | 20,858 | 847 |
 | MLB Pitchers | 2025 | 2025-03-18 | 2025-09-28 | 14,509 | 560 |
-| WNBA | 2026 | 2026-04-25 | 2026-10-21 | 5,935 | 214 |
+| WNBA | 2026 | 2026-04-25 | 2026-10-24 | 5,953 | 214 |
 | WNBA | 2025 | 2025-05-02 | 2025-10-10 | 5,409 | 148 |
 | PGA | 2026 | 2026-01-15 | 2026-10-08 | 2,455 | 144 |
 | NASCAR | 2026 | 2026-02-04 | 2026-10-18 | 1,283 | 42 |
