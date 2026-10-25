@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 10/25/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 259,575 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 259,597 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -27,7 +27,7 @@ in this repository's commit history.
 |---|---|---|---|
 | [NBA](NBA/) | 727 | 57,274 | [NBA_player_data_as_of_2026-10-25.xlsx](NBA/NBA_player_data_as_of_2026-10-25.xlsx) |
 | [NHL](NHL/) | 852 | 54,883 | [NHL_player_data_as_of_2026-10-25.xlsx](NHL/NHL_player_data_as_of_2026-10-25.xlsx) |
-| [NFL](NFL/) | 657 | 7,558 | [NFL_player_data_as_of_2026-10-25.xlsx](NFL/NFL_player_data_as_of_2026-10-25.xlsx) |
+| [NFL](NFL/) | 658 | 7,580 | [NFL_player_data_as_of_2026-10-25.xlsx](NFL/NFL_player_data_as_of_2026-10-25.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,417 | [MLB_player_data_as_of_2026-10-25.xlsx](MLB/MLB_player_data_as_of_2026-10-25.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,362 | [WNBA_player_data_as_of_2026-10-25.xlsx](WNBA/WNBA_player_data_as_of_2026-10-25.xlsx) |
 | [PGA](PGA/) | 144 | 2,455 | [PGA_player_data_as_of_2026-10-25.xlsx](PGA/PGA_player_data_as_of_2026-10-25.xlsx) |
@@ -45,11 +45,11 @@ in this repository's commit history.
 | NHL Goalies | 2026-27 | 2026-09-29 | 2026-10-24 | 376 | 69 |
 | NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,588 | 73 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
-| NFL Offense | 2026 | 2026-09-10 | 2026-10-23 | 1,689 | 452 |
+| NFL Offense | 2026 | 2026-09-10 | 2026-10-25 | 1,707 | 453 |
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,748 | 525 |
-| NFL Defense-ST | 2026 | 2026-09-10 | 2026-10-23 | 188 | 32 |
+| NFL Defense-ST | 2026 | 2026-09-10 | 2026-10-25 | 190 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
-| NFL Kickers | 2026 | 2026-09-10 | 2026-10-23 | 124 | 21 |
+| NFL Kickers | 2026 | 2026-09-10 | 2026-10-25 | 126 | 21 |
 | NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 265 | 18 |
 | MLB Hitters | 2026 | 2026-03-25 | 2026-10-24 | 49,954 | 650 |
 | MLB Hitters | 2025 | 2025-03-18 | 2025-09-28 | 36,084 | 468 |
