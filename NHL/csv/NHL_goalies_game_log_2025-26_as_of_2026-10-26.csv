@@ -180,6 +180,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-15,Yaroslav Askarov,5312,SJ,CHI,G,2025-26,5,0,19,0,-4.8,8
 2026-04-15,Kevin Lankinen,4771,VAN,LA,G,2025-26,3,0,31,1,24.8,10
 2026-04-15,John Gibson,5674,DET,FLA,G,2025-26,4,0,11,0,-7.2,9
+2026-04-15,James Reimer,6642,OTT,TOR,G,2025-26,1,0,19,1,23.2,1
 2026-04-15,Jake Oettinger,5676,DAL,BUF,G,2025-26,3,0,21,1,16.8,16
 2026-04-15,Dylan Garand,4754,NYR,TB,G,2025-26,2,0,29,1,27.2,10
 2026-04-15,Dennis Hildeby,5278,TOR,OTT,G,2025-26,2,0,35,0,20,4
@@ -225,6 +226,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-12,Kevin Lankinen,4771,VAN,SJ,G,2025-26,3,0,29,1,23.2,11
 2026-04-12,Joonas Korpisalo,4756,,CBJ,G,2025-26,2,0,33,1,30.4,2
 2026-04-12,Jet Greaves,5299,CBJ,BOS,G,2025-26,3,0,19,0,3.2,8
+2026-04-12,James Reimer,6642,OTT,NJ,G,2025-26,4,0,26,0,4.8,2
 2026-04-12,Jacob Fowler,4752,MON,NYI,G,2025-26,1,0,32,1,33.6,8
 2026-04-12,Ilya Sorokin,5820,NYI,MON,G,2025-26,4,0,18,0,-1.6,9
 2026-04-12,Dustin Wolf,5300,CGY,UTA,G,2025-26,1,0,28,1,30.4,7
@@ -409,6 +411,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-31,Joonas Korpisalo,4756,,DAL,G,2025-26,3,0,13,1,10.4,5
 2026-03-31,John Gibson,5674,DET,PIT,G,2025-26,3,0,11,0,-3.2,15
 2026-03-31,Jet Greaves,5299,CBJ,CAR,G,2025-26,4,0,28,0,6.4,13
+2026-03-31,James Reimer,6642,OTT,FLA,G,2025-26,1,0,12,0,5.6,3
 2026-03-31,Jakub Dobes,4750,MON,TB,G,2025-26,1,0,36,1,36.8,30
 2026-03-31,Jake Oettinger,5676,DAL,BOS,G,2025-26,4,0,18,0,-1.6,21
 2026-03-31,Jacob Markstrom,4761,NJ,NYR,G,2025-26,4,0,19,0,-0.8,9
@@ -456,6 +459,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-28,Jordan Binnington,5690,STL,TOR,G,2025-26,1,0,12,1,17.6,7
 2026-03-28,John Gibson,5674,DET,PHI,G,2025-26,4,0,17,0,-2.4,16
 2026-03-28,Jeremy Swayman,4743,,MIN,G,2025-26,3,0,31,1,24.8,22
+2026-03-28,James Reimer,6642,OTT,TB,G,2025-26,4,0,23,0,2.4,4
 2026-03-28,Jake Oettinger,5676,DAL,PIT,G,2025-26,3,0,9,1,7.2,22
 2026-03-28,Jacob Markstrom,4761,NJ,CAR,G,2025-26,4,0,29,0,7.2,10
 2026-03-28,Jacob Fowler,4752,,NSH,G,2025-26,1,0,23,1,26.4,11
@@ -531,6 +535,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-24,Anthony Stolarz,4746,TOR,BOS,G,2025-26,2,0,18,1,18.4,9
 2026-03-24,Andrei Vasilevskiy,5277,TB,MIN,G,2025-26,3,0,21,1,16.8,25
 2026-03-24,Alex Nedeljkovic,5314,SJ,NSH,G,2025-26,6,0,13,0,-13.6,13
+2026-03-23,James Reimer,6642,OTT,NYR,G,2025-26,1,0,9,1,15.2,5
 2026-03-23,Igor Shesterkin,4755,NYR,OTT,G,2025-26,2,0,31,0,16.8,13
 2026-03-22,Ville Husso,5685,ANH,BUF,G,2025-26,5,0,24,1,11.2,11
 2026-03-22,Stuart Skinner,5688,PIT,CAR,G,2025-26,4,0,21,0,0.8,19
@@ -589,6 +594,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-19,Jet Greaves,5299,CBJ,NYR,G,2025-26,3,0,22,1,17.6,18
 2026-03-19,Jesper Wallstedt,5279,MIN,CHI,G,2025-26,2,0,24,0,11.2,27
 2026-03-19,Jeremy Swayman,4743,,WPG,G,2025-26,1,0,23,1,26.4,25
+2026-03-19,James Reimer,6642,OTT,NYI,G,2025-26,2,0,17,1,17.6,6
 2026-03-19,Jakub Dobes,4750,MON,DET,G,2025-26,2,0,25,0,12,34
 2026-03-19,Ilya Sorokin,5820,NYI,OTT,G,2025-26,3,0,24,0,7.2,21
 2026-03-19,Igor Shesterkin,4755,,CBJ,G,2025-26,5,0,31,0,4.8,14
@@ -729,6 +735,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-09,Samuel Ersson,5816,PHI,NYR,G,2025-26,0,0,3,0,2.4,13
 2026-03-09,Logan Thompson,5680,WSH,CGY,G,2025-26,3,0,23,1,18.4,22
 2026-03-09,Jet Greaves,5299,CBJ,LA,G,2025-26,5,0,26,0,0.8,21
+2026-03-09,James Reimer,6642,OTT,VAN,G,2025-26,0,1,16,1,32.8,7
 2026-03-09,Igor Shesterkin,4755,,PHI,G,2025-26,2,0,32,1,29.6,18
 2026-03-09,Devin Cooley,5301,CGY,WSH,G,2025-26,6,0,22,0,-6.4,14
 2026-03-09,Dan Vladar,5305,PHI,NYR,G,2025-26,6,0,18,0,-9.6,30
@@ -929,6 +936,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-02-05,Kevin Lankinen,4771,VAN,VGK,G,2025-26,5,0,26,0,0.8,24
 2026-02-05,Justus Annunen,5302,NSH,WSH,G,2025-26,4,0,26,0,4.8,13
 2026-02-05,Joonas Korpisalo,4756,BOS,FLA,G,2025-26,4,0,22,0,1.6,11
+2026-02-05,James Reimer,6642,OTT,PHI,G,2025-26,1,0,15,1,20,8
 2026-02-05,Jake Allen,5290,NJ,NYI,G,2025-26,2,0,11,0,0.8,17
 2026-02-05,Ilya Sorokin,5820,NYI,NJ,G,2025-26,1,0,23,1,26.4,29
 2026-02-05,Daniil Tarasov,5673,FLA,TB,G,2025-26,5,0,20,0,-4,19
@@ -958,6 +966,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-02-03,Philipp Grubauer,5297,SEA,ANH,G,2025-26,4,0,27,0,5.6,18
 2026-02-03,Lukas Dostal,5684,ANH,SEA,G,2025-26,2,0,26,1,24.8,39
 2026-02-03,Kevin Lankinen,4771,,UTA,G,2025-26,6,0,13,0,-13.6,25
+2026-02-03,James Reimer,6642,OTT,CAR,G,2025-26,4,0,15,0,-4,9
 2026-02-03,Ilya Sorokin,5820,NYI,PIT,G,2025-26,4,0,31,1,20.8,30
 2026-02-03,Dan Vladar,5305,PHI,WSH,G,2025-26,2,0,26,1,24.8,37
 2026-02-03,Colten Ellis,5292,BUF,TB,G,2025-26,4,0,31,0,8.8,7
@@ -1047,6 +1056,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-28,Nikita Tolopilo,4770,,SJ,G,2025-26,2,0,25,0,12,15
 2026-01-28,Mackenzie Blackwood,5810,COL,OTT,G,2025-26,3,0,18,0,2.4,32
 2026-01-28,Kevin Lankinen,4771,,SJ,G,2025-26,3,0,3,0,-9.6,27
+2026-01-28,James Reimer,6642,OTT,COL,G,2025-26,2,0,16,1,16.8,10
 2026-01-28,Dan Vladar,5305,PHI,CBJ,G,2025-26,4,0,26,0,4.8,40
 2026-01-28,Akira Schmid,4760,,MON,G,2025-26,3,0,23,0,6.4,14
 2026-01-27,Yaroslav Askarov,5312,SJ,VAN,G,2025-26,2,0,23,1,22.4,23
@@ -1094,6 +1104,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-24,Joel Hofer,5689,STL,LA,G,2025-26,4,0,24,0,3.2,27
 2026-01-24,Jet Greaves,5299,CBJ,TB,G,2025-26,5,0,25,1,12,27
 2026-01-24,Jeremy Swayman,4743,BOS,MON,G,2025-26,3,0,22,1,17.6,36
+2026-01-24,James Reimer,6642,OTT,CAR,G,2025-26,4,0,15,0,-4,11
 2026-01-24,Jacob Markstrom,4761,NJ,VAN,G,2025-26,4,0,21,1,12.8,24
 2026-01-24,Darcy Kuemper,5814,LA,STL,G,2025-26,4,0,25,1,16,24
 2026-01-24,Charlie Lindgren,5679,WSH,EDM,G,2025-26,6,0,34,0,3.2,8
@@ -1121,6 +1132,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-22,Kevin Lankinen,4771,,WSH,G,2025-26,3,0,29,1,23.2,30
 2026-01-22,Juuse Saros,5304,NSH,OTT,G,2025-26,3,0,23,1,18.4,29
 2026-01-22,Jet Greaves,5299,CBJ,DAL,G,2025-26,0,1,28,1,42.4,28
+2026-01-22,James Reimer,6642,OTT,NSH,G,2025-26,4,0,22,0,1.6,12
 2026-01-22,Frederik Andersen,4731,CAR,CHI,G,2025-26,3,0,19,0,3.2,31
 2026-01-22,Daniil Tarasov,5673,FLA,WPG,G,2025-26,1,0,17,1,21.6,22
 2026-01-22,Casey DeSmith,5677,DAL,CBJ,G,2025-26,1,0,21,0,12.8,13
@@ -1148,6 +1160,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-20,Jet Greaves,5299,CBJ,OTT,G,2025-26,1,0,12,0,5.6,29
 2026-01-20,Jesper Wallstedt,5279,MIN,MON,G,2025-26,4,0,29,0,7.2,36
 2026-01-20,Jeremy Swayman,4743,BOS,DAL,G,2025-26,6,0,28,0,-1.6,37
+2026-01-20,James Reimer,6642,OTT,CBJ,G,2025-26,1,0,21,1,24.8,13
 2026-01-20,Jakub Dobes,4750,MON,MIN,G,2025-26,3,0,17,1,13.6,45
 2026-01-20,Jake Oettinger,5676,DAL,BOS,G,2025-26,2,0,16,1,16.8,38
 2026-01-20,Jake Allen,5290,NJ,EDM,G,2025-26,1,0,22,1,25.6,20
@@ -1178,6 +1191,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-18,Jordan Binnington,5690,STL,EDM,G,2025-26,5,0,23,0,-1.6,17
 2026-01-18,Joonas Korpisalo,4756,BOS,CHI,G,2025-26,2,0,22,1,21.6,15
 2026-01-18,John Gibson,5674,DET,OTT,G,2025-26,3,0,19,1,15.2,36
+2026-01-18,James Reimer,6642,OTT,DET,G,2025-26,4,0,30,0,8,14
 2026-01-18,Jake Oettinger,5676,DAL,TB,G,2025-26,3,0,22,0,5.6,39
 2026-01-18,Jacob Markstrom,4761,NJ,CAR,G,2025-26,4,0,31,0,8.8,26
 2026-01-18,Arvid Soderblom,4768,CHI,BOS,G,2025-26,5,0,18,0,-5.6,14
