@@ -9,12 +9,12 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | NASCAR: one row per player per season (per-race averages) | 156 |
-| Game Log | NASCAR: one row per player per race | 4,626 |
+| Game Log | NASCAR: one row per player per race | 4,666 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NASCAR | 2026 | 2026-02-04 | 2026-10-18 | 1,283 | 42 |
+| NASCAR | 2026 | 2026-02-04 | 2026-10-25 | 1,323 | 42 |
 | NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,304 | 40 |
 | NASCAR | 2024 | 2024-02-19 | 2024-11-10 | 1,065 | 37 |
 | NASCAR | 2023 | 2023-02-19 | 2023-11-05 | 974 | 37 |

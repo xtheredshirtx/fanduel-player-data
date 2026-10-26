@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 10/26/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 260,425 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 262,892 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -30,8 +30,8 @@ in this repository's commit history.
 | [NFL](NFL/) | 662 | 7,808 | [NFL_player_data_as_of_2026-10-26.xlsx](NFL/NFL_player_data_as_of_2026-10-26.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,417 | [MLB_player_data_as_of_2026-10-26.xlsx](MLB/MLB_player_data_as_of_2026-10-26.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,362 | [WNBA_player_data_as_of_2026-10-26.xlsx](WNBA/WNBA_player_data_as_of_2026-10-26.xlsx) |
-| [PGA](PGA/) | 153 | 2,702 | [PGA_player_data_as_of_2026-10-26.xlsx](PGA/PGA_player_data_as_of_2026-10-26.xlsx) |
-| [NASCAR](NASCAR/) | 42 | 4,626 | [NASCAR_player_data_as_of_2026-10-26.xlsx](NASCAR/NASCAR_player_data_as_of_2026-10-26.xlsx) |
+| [PGA](PGA/) | 153 | 5,129 | [PGA_player_data_as_of_2026-10-26.xlsx](PGA/PGA_player_data_as_of_2026-10-26.xlsx) |
+| [NASCAR](NASCAR/) | 42 | 4,666 | [NASCAR_player_data_as_of_2026-10-26.xlsx](NASCAR/NASCAR_player_data_as_of_2026-10-26.xlsx) |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
@@ -58,7 +58,8 @@ in this repository's commit history.
 | WNBA | 2026 | 2026-04-25 | 2026-10-24 | 5,953 | 214 |
 | WNBA | 2025 | 2025-05-02 | 2025-10-10 | 5,409 | 148 |
 | PGA | 2026 | 2026-01-15 | 2026-10-22 | 2,702 | 153 |
-| NASCAR | 2026 | 2026-02-04 | 2026-10-18 | 1,283 | 42 |
+| PGA | 2025 | 2025-01-02 | 2025-12-11 | 2,427 | 129 |
+| NASCAR | 2026 | 2026-02-04 | 2026-10-25 | 1,323 | 42 |
 | NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,304 | 40 |
 | NASCAR | 2024 | 2024-02-19 | 2024-11-10 | 1,065 | 37 |
 | NASCAR | 2023 | 2023-02-19 | 2023-11-05 | 974 | 37 |
