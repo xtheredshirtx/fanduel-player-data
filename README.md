@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 10/27/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 263,288 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 263,345 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -26,7 +26,7 @@ in this repository's commit history.
 | Sport | Players | Player-games | Workbook |
 |---|---|---|---|
 | [NBA](NBA/) | 733 | 57,639 | [NBA_player_data_as_of_2026-10-27.xlsx](NBA/NBA_player_data_as_of_2026-10-27.xlsx) |
-| [NHL](NHL/) | 853 | 55,196 | [NHL_player_data_as_of_2026-10-27.xlsx](NHL/NHL_player_data_as_of_2026-10-27.xlsx) |
+| [NHL](NHL/) | 854 | 55,253 | [NHL_player_data_as_of_2026-10-27.xlsx](NHL/NHL_player_data_as_of_2026-10-27.xlsx) |
 | [NFL](NFL/) | 663 | 7,829 | [NFL_player_data_as_of_2026-10-27.xlsx](NFL/NFL_player_data_as_of_2026-10-27.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,450 | [MLB_player_data_as_of_2026-10-27.xlsx](MLB/MLB_player_data_as_of_2026-10-27.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,379 | [WNBA_player_data_as_of_2026-10-27.xlsx](WNBA/WNBA_player_data_as_of_2026-10-27.xlsx) |
@@ -43,7 +43,7 @@ in this repository's commit history.
 | NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 45,401 | 735 |
 | NHL Skaters | 2024-25 | 2024-10-15 | 2025-06-18 | 168 | 12 |
 | NHL Goalies | 2026-27 | 2026-09-29 | 2026-10-26 | 393 | 70 |
-| NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,602 | 74 |
+| NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,659 | 75 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
 | NFL Offense | 2026 | 2026-09-10 | 2026-10-27 | 1,918 | 467 |
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,748 | 525 |
