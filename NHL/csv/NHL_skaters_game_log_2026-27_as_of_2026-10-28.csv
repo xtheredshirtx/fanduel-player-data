@@ -567,6 +567,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-25,Marco Rossi,4824,VAN,MIN,C,2026-27,0,0,0,0,0,0,0,0,2
 2026-10-25,Luke Schenn,5097,VAN,MIN,D,2026-27,0,2,0,0,1,0,0,4.8,1
 2026-10-25,Logan Stanley,5907,NYI,DAL,D,2026-27,0,1,0,0,1,0,0,3.2,2
+2026-10-25,Logan O'Connor,6692,COL,NSH,W,2026-27,0,0,0,0,1,0,0,1.6,1
 2026-10-25,Linus Karlsson,4848,VAN,MIN,W,2026-27,0,0,0,0,1,0,0,1.6,2
 2026-10-25,Lian Bichsel,5780,DAL,NYI,D,2026-27,1,1,0,0,0,0,0,9.6,2
 2026-10-25,Liam Öhgren,4946,VAN,MIN,W,2026-27,0,1,0,0,1,0,0,3.2,2
@@ -1120,6 +1121,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-23,Mike Matheson,4835,MON,CHI,D,2026-27,0,1,1,0,3,0,0,18.4,3
 2026-10-23,Maxwell Crozier,5504,TB,COL,D,2026-27,1,1,0,0,3,0,0,14.4,1
 2026-10-23,Martin Necas,5813,COL,TB,W,2026-27,2,2,1,0,1,0,0,32.8,2
+2026-10-23,Logan O'Connor,6692,COL,TB,W,2026-27,0,0,0,0,3,0,0,4.8,2
 2026-10-23,Lane Hutson,4795,MON,CHI,D,2026-27,0,0,0,0,0,0,0,0,3
 2026-10-23,Kirby Dach,4890,MON,CHI,W,2026-27,1,0,0,0,1,0,0,9.6,3
 2026-10-23,Kaiden Guhle,4880,MON,CHI,D,2026-27,1,2,1,0,2,0,0,26.4,3
@@ -2521,7 +2523,6 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-17,Jonatan Berggren,5754,STL,NSH,W,2026-27,0,0,0,0,2,0,0,3.2,5
 2026-10-17,Jonas Siegenthaler,5395,NJ,WSH,D,2026-27,0,1,0,0,0,0,0,1.6,5
 2026-10-17,Johnathan Kovacevic,6430,NJ,WSH,D,2026-27,0,0,0,0,0,0,0,0,5
-2026-10-17,John St. Ivany,5789,WPG,CAR,D,2026-27,0,1,0,0,0,0,0,1.6,1
 2026-10-17,John Marino,5418,UTA,EDM,D,2026-27,0,0,1,0,2,0,0,15.2,1
 2026-10-17,John Carlson,5334,TB,VAN,D,2026-27,0,1,0,0,4,0,0,8,4
 2026-10-17,Joel Kiviranta,5786,DAL,CHI,W,2026-27,0,1,0,0,1,0,0,3.2,5
@@ -2552,6 +2553,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-17,Jacob Trouba,5382,SJ,DET,D,2026-27,0,5,0,0,1,0,0,9.6,6
 2026-10-17,Jackson Blake,4801,CAR,WPG,W,2026-27,0,0,0,0,4,0,0,6.4,6
 2026-10-17,Jack Studnicka,6477,PHI,OTT,C,2026-27,0,0,0,0,0,0,0,0,1
+2026-10-17,Jack St. Ivany,5789,WPG,CAR,D,2026-27,0,1,0,0,0,0,0,1.6,1
 2026-10-17,Jack Roslovic,4831,TOR,NYI,W,2026-27,0,3,0,0,5,0,0,12.8,6
 2026-10-17,Jack Quinn,5354,BUF,MON,W,2026-27,0,0,1,0,2,0,0,15.2,4
 2026-10-17,Jack McBain,5439,UTA,EDM,W,2026-27,0,0,0,0,1,0,0,1.6,5
@@ -3048,7 +3050,6 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-15,Jonas Brodin,5422,MIN,STL,D,2026-27,0,4,0,0,2,0,0,9.6,7
 2026-10-15,Johnathan Kovacevic,6430,NJ,NYR,D,2026-27,0,1,0,0,2,0,0,4.8,6
 2026-10-15,John Tavares,4777,TOR,BUF,C,2026-27,2,1,0,0,0,0,0,17.6,1
-2026-10-15,John St. Ivany,5789,WPG,CHI,D,2026-27,0,2,0,0,1,0,0,4.8,2
 2026-10-15,John Marino,5418,UTA,EDM,D,2026-27,1,1,0,0,0,0,0,9.6,2
 2026-10-15,John Carlson,5334,TB,SEA,D,2026-27,0,1,0,0,1,0,0,3.2,5
 2026-10-15,Joel Farabee,5390,CGY,VGK,W,2026-27,1,1,0,0,3,0,0,14.4,5
@@ -3071,6 +3072,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-15,Jacob Trouba,5382,SJ,NSH,D,2026-27,0,2,0,0,1,0,0,4.8,7
 2026-10-15,Jacob Middleton,5410,CGY,VGK,D,2026-27,0,1,1,0,2,0,0,16.8,5
 2026-10-15,Jack Studnicka,6477,PHI,DET,C,2026-27,0,3,0,0,0,0,0,4.8,2
+2026-10-15,Jack St. Ivany,5789,WPG,CHI,D,2026-27,0,2,0,0,1,0,0,4.8,2
 2026-10-15,Jack Roslovic,4831,TOR,BUF,W,2026-27,1,1,0,0,5,0,0,17.6,7
 2026-10-15,Jack Quinn,5354,BUF,TOR,W,2026-27,2,0,2,0,4,0,0,46.4,5
 2026-10-15,Jack McBain,5439,UTA,EDM,W,2026-27,0,0,0,0,0,0,0,0,6
@@ -5112,13 +5114,13 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-07,Josh Morrissey,5702,WPG,COL,D,2026-27,0,1,0,0,1,0,0,3.2,1
 2026-10-07,Josh Manson,5881,COL,WPG,D,2026-27,0,0,0,0,0,0,0,0,10
 2026-10-07,Jordan Kyrou,5713,WSH,PIT,W,2026-27,1,0,0,0,1,0,0,9.6,8
-2026-10-07,John St. Ivany,5789,WPG,COL,D,2026-27,0,1,0,0,0,0,0,1.6,3
 2026-10-07,Jeff Malott,5793,ANH,EDM,W,2026-27,0,0,0,0,2,0,0,3.2,9
 2026-10-07,Jason Dickinson,4858,EDM,ANH,C,2026-27,0,1,0,0,1,0,0,3.2,3
 2026-10-07,Jakob Chychrun,5697,WSH,PIT,D,2026-27,0,1,0,0,1,0,0,3.2,8
 2026-10-07,Jake Walman,4830,EDM,ANH,D,2026-27,0,3,0,0,1,0,0,6.4,6
 2026-10-07,Jaden Schwartz,5851,COL,WPG,W,2026-27,1,0,1,0,2,0,0,23.2,10
 2026-10-07,Jackson LaCombe,5710,ANH,EDM,D,2026-27,1,2,0,0,0,0,0,11.2,10
+2026-10-07,Jack St. Ivany,5789,WPG,COL,D,2026-27,0,1,0,0,0,0,0,1.6,3
 2026-10-07,Isak Rosen,5750,WPG,COL,W,2026-27,0,1,0,0,1,0,0,3.2,9
 2026-10-07,Isaac Howard,4969,EDM,ANH,W,2026-27,0,0,0,0,0,0,0,0,8
 2026-10-07,Ilya Protas,5721,WSH,PIT,W,2026-27,0,0,0,0,1,0,0,1.6,8
@@ -5561,7 +5563,6 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-05,Justin Hryckowian,5720,DAL,SJ,W,2026-27,0,1,0,0,0,0,0,1.6,10
 2026-10-05,Josh Morrissey,5702,WPG,PIT,D,2026-27,1,0,0,0,0,0,0,8,2
 2026-10-05,Jordan Spence,5856,OTT,BOS,D,2026-27,0,2,0,0,1,0,0,4.8,12
-2026-10-05,John St. Ivany,5789,WPG,PIT,D,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-05,John Carlson,5334,TB,PHI,D,2026-27,1,0,0,0,1,0,0,9.6,9
 2026-10-05,Joel Kiviranta,5786,DAL,SJ,W,2026-27,0,0,1,0,1,0,0,13.6,7
 2026-10-05,Jeffrey Viel,5507,TB,PHI,W,2026-27,0,0,0,0,1,0,0,1.6,6
@@ -5571,6 +5572,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-10-05,James Hagens,4942,BOS,OTT,W,2026-27,0,1,1,0,2,0,0,16.8,10
 2026-10-05,Jake Guentzel,5310,TB,PHI,W,2026-27,0,0,0,0,5,0,0,8,9
 2026-10-05,Jacob Trouba,5382,SJ,DAL,D,2026-27,0,3,0,0,0,0,0,4.8,11
+2026-10-05,Jack St. Ivany,5789,WPG,PIT,D,2026-27,0,1,0,0,0,0,0,1.6,4
 2026-10-05,JJ Peterka,4849,BOS,OTT,W,2026-27,0,1,0,0,0,0,0,1.6,10
 2026-10-05,J.J. Moser,5366,TB,PHI,D,2026-27,0,1,0,0,3,0,0,6.4,9
 2026-10-05,Ivar Stenberg,5457,SJ,DAL,W,2026-27,0,0,0,0,1,0,0,1.6,11
