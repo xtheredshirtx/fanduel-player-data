@@ -1,26 +1,26 @@
-# WNBA player data - As of 10/29/2026
+# WNBA player data - As of 10/30/2026
 
 Every WNBA player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`WNBA_player_data_as_of_2026-10-29.xlsx`](WNBA_player_data_as_of_2026-10-29.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`WNBA_player_data_as_of_2026-10-30.xlsx`](WNBA_player_data_as_of_2026-10-30.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | WNBA: one row per player per season (per-game averages) | 362 |
-| Game Log | WNBA: one row per player per game | 11,379 |
+| Game Log | WNBA: one row per player per game | 11,395 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| WNBA | 2026 | 2026-04-25 | 2026-10-26 | 5,970 | 214 |
+| WNBA | 2026 | 2026-04-25 | 2026-10-29 | 5,986 | 214 |
 | WNBA | 2025 | 2025-05-02 | 2025-10-10 | 5,409 | 148 |
 
 ## CSV files
-- [`WNBA_players_game_log_2025_as_of_2026-10-29.csv`](csv/WNBA_players_game_log_2025_as_of_2026-10-29.csv)
-- [`WNBA_players_game_log_2026_as_of_2026-10-29.csv`](csv/WNBA_players_game_log_2026_as_of_2026-10-29.csv)
-- [`WNBA_players_summary_as_of_2026-10-29.csv`](csv/WNBA_players_summary_as_of_2026-10-29.csv)
+- [`WNBA_players_game_log_2025_as_of_2026-10-30.csv`](csv/WNBA_players_game_log_2025_as_of_2026-10-30.csv)
+- [`WNBA_players_game_log_2026_as_of_2026-10-30.csv`](csv/WNBA_players_game_log_2026_as_of_2026-10-30.csv)
+- [`WNBA_players_summary_as_of_2026-10-30.csv`](csv/WNBA_players_summary_as_of_2026-10-30.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
