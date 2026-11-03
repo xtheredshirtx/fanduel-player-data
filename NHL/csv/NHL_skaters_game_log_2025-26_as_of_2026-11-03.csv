@@ -2276,6 +2276,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-22,Kris Letang,5861,PIT,PHI,D,2025-26,0,1,0,0,1,0,0,3.2,18
 2026-04-22,Kirill Kaprizov,5283,MIN,DAL,W,2025-26,0,1,0,0,2,0,0,4.8,25
 2026-04-22,Justin Hryckowian,5720,DAL,MIN,W,2025-26,0,1,0,0,0,0,0,1.6,18
+2026-04-22,Justin Brazeau,6706,PIT,PHI,W,2025-26,0,1,0,0,0,0,0,1.6,1
 2026-04-22,Jonas Brodin,5422,MIN,DAL,D,2025-26,1,4,0,0,4,0,0,20.8,19
 2026-04-22,John Carlson,5334,ANH,EDM,D,2025-26,0,3,0,0,0,0,0,4.8,24
 2026-04-22,Joel Eriksson Ek,5321,MIN,DAL,C,2025-26,0,0,1,0,4,0,0,18.4,20
@@ -3145,6 +3146,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-15,Jamie Benn,5739,DAL,BUF,W,2025-26,1,0,0,0,0,0,0,8,21
 2026-04-15,Jake McCabe,4847,TOR,OTT,D,2025-26,0,2,0,0,1,0,0,4.8,17
 2026-04-15,Jake DeBrusk,4817,VAN,LA,W,2025-26,0,0,2,1,6,0,0,34.1,16
+2026-04-15,Jacob Quillan,6707,TOR,OTT,C,2025-26,1,1,0,0,0,0,0,9.6,2
 2026-04-15,Jack Quinn,5354,BUF,DAL,W,2025-26,0,0,0,0,5,0,0,8,28
 2026-04-15,JJ Peterka,4849,UTA,WPG,W,2025-26,0,0,1,0,4,0,0,18.4,24
 2026-04-15,J.T. Miller,4798,NYR,TB,C,2025-26,2,1,0,0,2,0,0,20.8,16
@@ -3350,6 +3352,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-14,Kailer Yamamoto,5438,UTA,WPG,W,2025-26,0,0,0,0,3,0,0,4.8,17
 2026-04-14,Kaiden Guhle,4880,MON,PHI,D,2025-26,1,0,0,0,3,0,0,12.8,30
 2026-04-14,Justin Sourdif,5769,WSH,CBJ,C,2025-26,0,0,0,0,0,0,0,0,12
+2026-04-14,Justin Brazeau,6706,PIT,STL,W,2025-26,0,2,0,0,1,0,0,4.8,2
 2026-04-14,Juraj Slafkovsky,4773,MON,PHI,W,2025-26,0,0,0,0,2,0,0,3.2,34
 2026-04-14,Josh Samanski,4964,EDM,COL,C,2025-26,0,3,0,0,1,0,0,6.4,13
 2026-04-14,Josh Morrissey,5702,WPG,UTA,D,2025-26,0,2,0,0,2,0,0,6.4,6
@@ -3689,6 +3692,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-13,Jake Guentzel,5310,TB,DET,W,2025-26,0,0,1,0,2,0,0,15.2,21
 2026-04-13,Jake DeBrusk,4817,VAN,ANH,W,2025-26,0,0,1,1,2,0,0,15.7,17
 2026-04-13,Jaden Schwartz,5851,SEA,LA,W,2025-26,1,0,0,0,2,0,0,11.2,16
+2026-04-13,Jacob Quillan,6707,TOR,DAL,C,2025-26,0,0,1,0,2,0,0,15.2,3
 2026-04-13,Jacob Middleton,5410,MIN,STL,D,2025-26,0,3,0,0,2,0,0,8,28
 2026-04-13,Jackson Blake,4801,CAR,PHI,W,2025-26,1,1,0,0,3,0,0,14.4,37
 2026-04-13,Jack Quinn,5354,BUF,CHI,W,2025-26,0,0,0,0,1,0,0,1.6,29
@@ -3905,6 +3909,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-12,Kailer Yamamoto,5438,UTA,CGY,W,2025-26,0,1,0,0,1,0,0,3.2,18
 2026-04-12,Kaiden Guhle,4880,MON,NYI,D,2025-26,0,1,0,0,2,0,0,4.8,31
 2026-04-12,Justin Sourdif,5769,WSH,PIT,C,2025-26,0,0,0,0,1,0,0,1.6,13
+2026-04-12,Justin Brazeau,6706,PIT,WSH,W,2025-26,0,1,0,0,2,0,0,4.8,3
 2026-04-12,Juraj Slafkovsky,4773,MON,NYI,W,2025-26,1,1,0,0,1,0,0,11.2,35
 2026-04-12,Josh Anderson,4852,MON,NYI,W,2025-26,0,0,0,0,0,0,0,0,34
 2026-04-12,Jordan Spence,5856,OTT,NJ,D,2025-26,0,1,0,0,5,0,0,9.6,22
@@ -4231,6 +4236,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-11,Justin Sourdif,5769,WSH,PIT,C,2025-26,1,1,0,0,0,0,0,9.6,14
 2026-04-11,Justin Hryckowian,5720,DAL,NYR,W,2025-26,0,3,0,0,2,0,0,8,23
 2026-04-11,Justin Faulk,5715,DET,NJ,D,2025-26,0,3,1,0,3,0,0,21.6,18
+2026-04-11,Justin Brazeau,6706,PIT,WSH,W,2025-26,0,1,0,0,0,0,0,1.6,4
 2026-04-11,Justin Barron,5751,NSH,MIN,D,2025-26,0,0,0,0,0,0,0,0,14
 2026-04-11,Juraj Slafkovsky,4773,,CBJ,W,2025-26,1,0,0,0,4,0,0,14.4,36
 2026-04-11,Josiah Slavin,5012,CAR,UTA,W,2025-26,0,0,0,0,0,0,0,0,1
@@ -4277,6 +4283,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-11,Jake Evans,4877,,CBJ,C,2025-26,1,3,0,0,0,0,0,12.8,36
 2026-04-11,Jake Christiansen,5423,CBJ,MON,D,2025-26,1,0,0,0,0,0,0,8,13
 2026-04-11,Jaden Schwartz,5851,SEA,CGY,W,2025-26,1,0,0,0,0,0,0,8,17
+2026-04-11,Jacob Quillan,6707,TOR,FLA,C,2025-26,0,0,0,0,1,0,0,1.6,4
 2026-04-11,Jacob Middleton,5410,MIN,NSH,D,2025-26,0,3,0,0,1,0,0,6.4,29
 2026-04-11,Jacob Bernard-Docker,6426,DET,NJ,D,2025-26,0,1,0,0,0,0,0,1.6,1
 2026-04-11,Jack St. Ivany,5789,PIT,WSH,D,2025-26,0,1,0,0,0,0,0,1.6,10
@@ -4716,6 +4723,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-09,Kaapo Kakko,5362,SEA,VGK,W,2025-26,0,1,0,0,0,0,0,1.6,19
 2026-04-09,Justin Hryckowian,5720,DAL,MIN,W,2025-26,1,0,0,0,0,0,0,8,24
 2026-04-09,Justin Faulk,5715,DET,PHI,D,2025-26,0,3,0,0,2,0,0,8,19
+2026-04-09,Justin Brazeau,6706,PIT,NJ,W,2025-26,0,0,0,0,0,0,0,0,5
 2026-04-09,Justin Barron,5751,NSH,UTA,D,2025-26,0,1,0,0,2,0,0,4.8,15
 2026-04-09,Juraj Slafkovsky,4773,MON,TB,W,2025-26,1,0,1,0,3,0,0,24.8,37
 2026-04-09,Joshua Mahura,5508,SEA,VGK,D,2025-26,0,0,0,0,1,0,0,1.6,13
@@ -4766,6 +4774,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-09,Jake Evans,4877,MON,TB,C,2025-26,0,0,0,0,1,0,0,1.6,37
 2026-04-09,Jaden Schwartz,5851,SEA,VGK,W,2025-26,0,1,0,0,0,0,0,1.6,18
 2026-04-09,Jacob Trouba,5382,ANH,SJ,D,2025-26,0,8,0,0,2,0,0,16,32
+2026-04-09,Jacob Quillan,6707,TOR,NYI,C,2025-26,0,1,0,0,0,0,0,1.6,5
 2026-04-09,Jacob Middleton,5410,MIN,DAL,D,2025-26,0,1,0,0,1,0,0,3.2,30
 2026-04-09,Jacob Bernard-Docker,6426,DET,PHI,D,2025-26,0,1,0,0,0,0,0,1.6,2
 2026-04-09,Jackson LaCombe,5710,ANH,SJ,D,2025-26,0,0,0,0,0,0,0,0,30
@@ -4997,6 +5006,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-08,Jake Walman,4830,EDM,UTA,D,2025-26,0,0,0,0,2,0,0,3.2,20
 2026-04-08,Jake McCabe,4847,TOR,WSH,D,2025-26,0,0,0,0,0,0,0,0,21
 2026-04-08,Jake DeBrusk,4817,VAN,VGK,W,2025-26,0,3,0,0,1,0,0,6.4,20
+2026-04-08,Jacob Quillan,6707,TOR,WSH,C,2025-26,0,0,0,0,1,0,0,1.6,6
 2026-04-08,Jack Roslovic,4831,EDM,UTA,W,2025-26,0,3,0,0,0,0,0,4.8,27
 2026-04-08,Jack Quinn,5354,BUF,NYR,W,2025-26,0,0,0,0,1,0,0,1.6,31
 2026-04-08,JJ Peterka,4849,UTA,EDM,W,2025-26,0,0,1,0,3,0,0,16.8,28
@@ -5625,6 +5635,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-05,Kaiden Guhle,4880,MON,NJ,D,2025-26,0,1,0,0,1,0,0,3.2,32
 2026-04-05,K'Andre Miller,4842,CAR,OTT,D,2025-26,0,2,0,0,1,0,0,4.8,39
 2026-04-05,Justin Sourdif,5769,WSH,NYR,C,2025-26,0,0,0,0,2,0,0,3.2,16
+2026-04-05,Justin Brazeau,6706,PIT,FLA,W,2025-26,0,0,0,0,0,0,0,0,6
 2026-04-05,Juraj Slafkovsky,4773,MON,NJ,W,2025-26,0,2,0,0,2,0,0,6.4,39
 2026-04-05,Josh Samanski,4964,EDM,VGK,C,2025-26,0,1,0,0,0,0,0,1.6,16
 2026-04-05,Josh Manson,5881,COL,STL,D,2025-26,0,0,0,0,2,0,0,3.2,26
@@ -5979,6 +5990,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-04,K'Andre Miller,4842,CAR,NYI,D,2025-26,2,1,0,0,1,0,0,19.2,40
 2026-04-04,Justin Sourdif,5769,WSH,BUF,C,2025-26,1,0,0,0,0,0,0,8,17
 2026-04-04,Justin Hryckowian,5720,DAL,COL,W,2025-26,0,2,0,0,0,0,0,3.2,26
+2026-04-04,Justin Brazeau,6706,PIT,FLA,W,2025-26,0,0,0,0,1,0,0,1.6,7
 2026-04-04,Justin Barron,5751,NSH,SJ,D,2025-26,0,0,0,0,0,0,0,0,18
 2026-04-04,Josh Norris,5336,BUF,WSH,W,2025-26,1,1,0,0,4,0,0,16,30
 2026-04-04,Josh Morrissey,5702,WPG,CBJ,D,2025-26,0,0,0,0,2,0,0,3.2,11
@@ -6544,6 +6556,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-02,Justin Sourdif,5769,WSH,NJ,C,2025-26,0,1,0,0,0,0,0,1.6,18
 2026-04-02,Justin Hryckowian,5720,DAL,WPG,W,2025-26,0,1,0,0,3,0,0,6.4,27
 2026-04-02,Justin Faulk,5715,DET,PHI,D,2025-26,0,1,0,0,0,0,0,1.6,21
+2026-04-02,Justin Brazeau,6706,PIT,TB,W,2025-26,0,1,0,0,0,0,0,1.6,8
 2026-04-02,Justin Barron,5751,NSH,LA,D,2025-26,1,4,0,0,1,0,0,16,19
 2026-04-02,Juraj Slafkovsky,4773,MON,NYR,W,2025-26,1,1,0,0,2,0,0,12.8,40
 2026-04-02,Josh Norris,5336,BUF,OTT,W,2025-26,0,0,0,0,1,0,0,1.6,31
@@ -6583,6 +6596,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-02,Jake Evans,4877,MON,NYR,C,2025-26,0,0,0,0,0,0,0,0,40
 2026-04-02,Jake DeBrusk,4817,VAN,COL,W,2025-26,0,1,1,1,3,0,0,18.9,23
 2026-04-02,Jaden Schwartz,5851,SEA,UTA,W,2025-26,0,0,0,0,1,0,0,1.6,22
+2026-04-02,Jacob Quillan,6707,TOR,SJ,C,2025-26,0,0,0,0,0,0,0,0,7
 2026-04-02,Jacob Middleton,5410,MIN,VAN,D,2025-26,0,2,0,0,0,0,0,3.2,34
 2026-04-02,Jacob Bernard-Docker,6426,DET,PHI,D,2025-26,0,1,0,0,1,0,0,3.2,5
 2026-04-02,Jackson Blake,4801,CAR,CBJ,W,2025-26,1,0,0,0,1,0,0,9.6,42
@@ -7010,6 +7024,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-31,Justin Sourdif,5769,WSH,PHI,C,2025-26,0,0,0,0,1,0,0,1.6,19
 2026-03-31,Justin Hryckowian,5720,DAL,BOS,W,2025-26,0,1,0,0,1,0,0,3.2,28
 2026-03-31,Justin Faulk,5715,DET,PIT,D,2025-26,0,2,0,0,2,0,0,6.4,22
+2026-03-31,Justin Brazeau,6706,PIT,DET,W,2025-26,0,1,1,0,2,0,0,16.8,9
 2026-03-31,Juraj Slafkovsky,4773,MON,TB,W,2025-26,1,2,1,1,1,0,0,25.3,41
 2026-03-31,Josh Norris,5336,BUF,NYI,W,2025-26,2,0,0,0,1,0,0,17.6,32
 2026-03-31,Josh Morrissey,5702,WPG,CHI,D,2025-26,1,0,1,0,1,0,0,21.6,13
@@ -7259,6 +7274,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-30,Keegan Kolesar,5798,VGK,VAN,W,2025-26,0,0,0,0,1,0,0,1.6,44
 2026-03-30,Kaedan Korczak,5908,VGK,VAN,D,2025-26,0,0,0,0,1,0,0,1.6,33
 2026-03-30,Justin Holl,6447,STL,SJ,D,2025-26,0,1,0,0,1,0,0,3.2,6
+2026-03-30,Justin Brazeau,6706,PIT,NYI,W,2025-26,3,3,0,0,3,0,0,33.6,10
 2026-03-30,Josh Manson,5881,COL,CGY,D,2025-26,0,1,0,0,4,0,0,8,29
 2026-03-30,Jordan Kyrou,5713,STL,SJ,W,2025-26,1,0,0,0,0,0,0,8,23
 2026-03-30,Jonatan Berggren,5754,STL,SJ,W,2025-26,0,0,0,0,2,0,0,3.2,22
@@ -7270,6 +7286,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-30,Jean-Gabriel Pageau,5857,NYI,PIT,C,2025-26,1,0,0,0,0,0,0,8,22
 2026-03-30,Jake Neighbours,5743,STL,SJ,W,2025-26,2,0,0,0,2,0,0,19.2,24
 2026-03-30,Jacob Trouba,5382,ANH,TOR,D,2025-26,1,0,0,0,2,0,0,11.2,37
+2026-03-30,Jacob Quillan,6707,TOR,ANH,C,2025-26,0,0,0,0,1,0,0,1.6,8
 2026-03-30,Jackson LaCombe,5710,ANH,TOR,D,2025-26,2,1,0,0,1,0,0,19.2,35
 2026-03-30,Jack Eichel,4736,VGK,VAN,C,2025-26,0,0,0,0,3,0,0,4.8,46
 2026-03-30,Jack Drury,5489,COL,CGY,C,2025-26,2,0,1,0,3,0,0,32.8,37
@@ -7772,6 +7789,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-28,Justin Hryckowian,5720,DAL,PIT,W,2025-26,0,1,1,0,1,0,0,15.2,30
 2026-03-28,Justin Holl,6447,STL,TOR,D,2025-26,0,0,1,0,1,0,0,13.6,7
 2026-03-28,Justin Faulk,5715,DET,PHI,D,2025-26,1,0,0,0,1,0,0,9.6,23
+2026-03-28,Justin Brazeau,6706,PIT,DAL,W,2025-26,0,0,0,0,0,0,0,0,11
 2026-03-28,Justin Barron,5751,NSH,MON,D,2025-26,0,2,0,0,0,0,0,3.2,21
 2026-03-28,Juraj Slafkovsky,4773,MON,NSH,W,2025-26,0,0,0,0,4,0,0,6.4,43
 2026-03-28,Josh Samanski,4964,EDM,ANH,C,2025-26,0,3,0,0,1,0,0,6.4,19
@@ -7823,6 +7841,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-28,Jake Evans,4877,MON,NSH,C,2025-26,0,0,0,0,1,0,0,1.6,43
 2026-03-28,Jake Christiansen,5423,CBJ,SJ,D,2025-26,0,2,0,0,0,0,0,3.2,16
 2026-03-28,Jacob Trouba,5382,ANH,EDM,D,2025-26,0,1,0,0,2,0,0,4.8,38
+2026-03-28,Jacob Quillan,6707,TOR,STL,C,2025-26,1,1,0,0,0,0,0,9.6,9
 2026-03-28,Jacob Middleton,5410,MIN,BOS,D,2025-26,0,1,0,0,1,0,0,3.2,35
 2026-03-28,Jacob Bernard-Docker,6426,DET,PHI,D,2025-26,0,0,0,0,1,0,0,1.6,7
 2026-03-28,Jackson LaCombe,5710,ANH,EDM,D,2025-26,1,1,0,0,3,0,0,14.4,36
@@ -8304,6 +8323,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-26,Kaapo Kakko,5362,SEA,TB,W,2025-26,1,1,1,0,1,0,0,23.2,26
 2026-03-26,Justin Sourdif,5769,WSH,UTA,C,2025-26,0,0,0,0,0,0,0,0,21
 2026-03-26,Justin Hryckowian,5720,DAL,NYI,W,2025-26,0,1,0,0,1,0,0,3.2,31
+2026-03-26,Justin Brazeau,6706,PIT,OTT,W,2025-26,0,0,0,0,1,0,0,1.6,12
 2026-03-26,Juraj Slafkovsky,4773,MON,CBJ,W,2025-26,0,1,0,0,0,0,0,1.6,44
 2026-03-26,Josh Morrissey,5702,WPG,COL,D,2025-26,1,3,0,0,3,0,0,17.6,15
 2026-03-26,Josh Manson,5881,COL,WPG,D,2025-26,0,0,0,0,1,0,0,1.6,31
@@ -8575,6 +8595,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-25,Jake Walman,4830,EDM,UTA,D,2025-26,1,4,0,0,1,0,0,16,26
 2026-03-25,Jake McCabe,4847,TOR,NYR,D,2025-26,0,4,1,0,1,0,0,20,26
 2026-03-25,Jake DeBrusk,4817,VAN,ANH,W,2025-26,0,0,1,1,4,0,0,18.9,27
+2026-03-25,Jacob Quillan,6707,TOR,NYR,C,2025-26,0,2,0,0,1,0,0,4.8,10
 2026-03-25,Jack Roslovic,4831,EDM,UTA,W,2025-26,0,1,2,0,4,0,0,32,33
 2026-03-25,Jack Quinn,5354,BUF,BOS,W,2025-26,1,1,0,0,0,0,0,9.6,38
 2026-03-25,JJ Peterka,4849,UTA,EDM,W,2025-26,0,1,0,0,1,0,0,3.2,33
@@ -8834,6 +8855,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-24,Justin Hryckowian,5720,DAL,NJ,W,2025-26,1,0,0,0,0,0,0,8,32
 2026-03-24,Justin Holl,6447,STL,WSH,D,2025-26,0,1,0,0,1,0,0,3.2,8
 2026-03-24,Justin Faulk,5715,DET,OTT,D,2025-26,0,2,0,0,2,0,0,6.4,25
+2026-03-24,Justin Brazeau,6706,PIT,COL,W,2025-26,0,2,0,0,1,0,0,4.8,13
 2026-03-24,Juraj Slafkovsky,4773,MON,CAR,W,2025-26,1,3,1,0,1,0,0,26.4,45
 2026-03-24,Josh Morrissey,5702,WPG,VGK,D,2025-26,1,0,0,0,2,0,0,11.2,16
 2026-03-24,Josh Manson,5881,COL,PIT,D,2025-26,0,1,0,0,3,0,0,6.4,32
@@ -8878,6 +8900,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-24,Jake Guentzel,5310,TB,MIN,W,2025-26,1,0,1,0,3,0,0,24.8,32
 2026-03-24,Jake Evans,4877,MON,CAR,C,2025-26,0,0,1,0,2,0,0,15.2,45
 2026-03-24,Jacob Trouba,5382,ANH,VAN,D,2025-26,0,1,0,0,1,0,0,3.2,40
+2026-03-24,Jacob Quillan,6707,TOR,BOS,C,2025-26,0,1,0,0,1,0,0,3.2,11
 2026-03-24,Jacob Middleton,5410,MIN,TB,D,2025-26,0,2,0,0,1,0,0,4.8,37
 2026-03-24,Jacob Bernard-Docker,6426,DET,OTT,D,2025-26,0,2,0,0,0,0,0,3.2,9
 2026-03-24,Jackson LaCombe,5710,ANH,VAN,D,2025-26,1,0,0,0,3,0,0,12.8,38
@@ -9272,6 +9295,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-22,K'Andre Miller,4842,CAR,PIT,D,2025-26,0,2,0,0,1,0,0,4.8,46
 2026-03-22,Justin Sourdif,5769,WSH,COL,C,2025-26,0,2,1,0,2,0,0,18.4,23
 2026-03-22,Justin Hryckowian,5720,DAL,VGK,W,2025-26,0,1,1,0,1,0,0,15.2,33
+2026-03-22,Justin Brazeau,6706,PIT,CAR,W,2025-26,0,1,0,0,2,0,0,4.8,14
 2026-03-22,Josh Samanski,4964,EDM,TB,C,2025-26,0,1,1,0,0,0,0,13.6,22
 2026-03-22,Josh Norris,5336,BUF,ANH,W,2025-26,0,0,0,0,2,0,0,3.2,36
 2026-03-22,Josh Morrissey,5702,WPG,NYR,D,2025-26,1,0,0,0,4,0,0,14.4,17
@@ -9609,6 +9633,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-21,Justin Hryckowian,5720,DAL,MIN,W,2025-26,0,0,0,0,4,0,0,6.4,34
 2026-03-21,Justin Holl,6447,STL,VAN,D,2025-26,0,2,0,0,0,0,0,3.2,9
 2026-03-21,Justin Faulk,5715,DET,BOS,D,2025-26,0,3,0,0,1,0,0,6.4,26
+2026-03-21,Justin Brazeau,6706,PIT,WPG,W,2025-26,0,0,0,0,1,0,0,1.6,15
 2026-03-21,Justin Barron,5751,NSH,VGK,D,2025-26,0,1,0,0,0,0,0,1.6,22
 2026-03-21,Juraj Slafkovsky,4773,MON,NYI,W,2025-26,2,1,2,1,4,0,0,48.5,46
 2026-03-21,Josh Norris,5336,BUF,LA,W,2025-26,1,2,0,0,0,0,0,11.2,37
@@ -9641,6 +9666,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-21,Jake Guentzel,5310,TB,EDM,W,2025-26,0,0,1,1,2,0,0,15.7,34
 2026-03-21,Jake Evans,4877,MON,NYI,C,2025-26,0,0,0,0,0,0,0,0,46
 2026-03-21,Jake DeBrusk,4817,,STL,W,2025-26,0,0,0,0,0,0,0,0,28
+2026-03-21,Jacob Quillan,6707,TOR,OTT,C,2025-26,0,0,0,0,0,0,0,0,12
 2026-03-21,Jacob Middleton,5410,MIN,DAL,D,2025-26,0,4,0,0,2,0,0,9.6,38
 2026-03-21,Jacob Bernard-Docker,6426,DET,BOS,D,2025-26,0,0,0,0,0,0,0,0,10
 2026-03-21,Jack Quinn,5354,BUF,LA,W,2025-26,0,1,0,0,2,0,0,4.8,40
@@ -9908,6 +9934,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-20,Jake McCabe,4847,TOR,CAR,D,2025-26,1,1,0,0,1,0,0,11.2,29
 2026-03-20,Jake DeBrusk,4817,VAN,TB,W,2025-26,0,0,0,0,5,0,0,8,29
 2026-03-20,Jacob Trouba,5382,ANH,UTA,D,2025-26,0,5,0,0,0,0,0,8,42
+2026-03-20,Jacob Quillan,6707,TOR,CAR,C,2025-26,0,1,0,0,0,0,0,1.6,13
 2026-03-20,Jackson LaCombe,5710,ANH,UTA,D,2025-26,0,3,0,0,0,0,0,4.8,40
 2026-03-20,Jackson Blake,4801,CAR,TOR,W,2025-26,0,1,0,0,4,0,0,8,48
 2026-03-20,Jack Roslovic,4831,EDM,FLA,W,2025-26,0,0,0,0,2,0,0,3.2,35
@@ -10423,6 +10450,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-18,K'Andre Miller,4842,CAR,PIT,D,2025-26,0,2,1,0,1,0,0,16.8,48
 2026-03-18,Justin Sourdif,5769,WSH,OTT,C,2025-26,0,2,0,0,0,0,0,3.2,25
 2026-03-18,Justin Hryckowian,5720,DAL,COL,W,2025-26,0,2,0,0,0,0,0,3.2,35
+2026-03-18,Justin Brazeau,6706,PIT,CAR,W,2025-26,0,1,0,0,2,0,0,4.8,16
 2026-03-18,Josh Samanski,4964,,SJ,C,2025-26,0,0,0,0,0,0,0,0,24
 2026-03-18,Josh Manson,5881,COL,DAL,D,2025-26,0,1,0,0,1,0,0,3.2,35
 2026-03-18,Jordan Staal,4837,CAR,PIT,C,2025-26,1,2,0,0,0,0,0,11.2,36
@@ -10696,6 +10724,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-17,Jake McCabe,4847,,NYI,D,2025-26,0,2,0,0,2,0,0,6.4,30
 2026-03-17,Jake Guentzel,5310,TB,SEA,W,2025-26,1,0,0,0,2,0,0,11.2,36
 2026-03-17,Jake Evans,4877,MON,BOS,C,2025-26,0,0,0,0,5,0,0,8,48
+2026-03-17,Jacob Quillan,6707,TOR,NYI,C,2025-26,0,1,0,0,0,0,0,1.6,14
 2026-03-17,Jacob Middleton,5410,MIN,CHI,D,2025-26,0,1,0,0,1,0,0,3.2,40
 2026-03-17,Jackson Blake,4801,CAR,CBJ,W,2025-26,0,2,0,0,3,0,0,8,50
 2026-03-17,Jack Quinn,5354,BUF,VGK,W,2025-26,0,1,0,0,2,0,0,4.8,42
@@ -10890,6 +10919,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-16,Kailer Yamamoto,5438,UTA,DAL,W,2025-26,0,0,1,0,2,0,0,15.2,29
 2026-03-16,Justin Hryckowian,5720,DAL,UTA,W,2025-26,0,1,0,0,2,0,0,4.8,36
 2026-03-16,Justin Faulk,5715,DET,CGY,D,2025-26,0,3,0,0,2,0,0,8,28
+2026-03-16,Justin Brazeau,6706,PIT,COL,W,2025-26,0,0,0,0,1,0,0,1.6,17
 2026-03-16,Josh Samanski,4964,,NSH,C,2025-26,0,0,0,0,0,0,0,0,25
 2026-03-16,Josh Manson,5881,COL,PIT,D,2025-26,1,2,0,0,1,0,0,12.8,36
 2026-03-16,Jonas Siegenthaler,5395,NJ,BOS,D,2025-26,0,2,0,0,2,0,0,6.4,30
@@ -11107,6 +11137,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-15,Jake Evans,4877,MON,ANH,C,2025-26,0,0,0,0,2,0,0,3.2,49
 2026-03-15,Jake DeBrusk,4817,VAN,SEA,W,2025-26,0,1,0,0,2,0,0,4.8,31
 2026-03-15,Jacob Trouba,5382,ANH,MON,D,2025-26,0,2,0,0,0,0,0,3.2,44
+2026-03-15,Jacob Quillan,6707,TOR,MIN,C,2025-26,0,2,0,0,0,0,0,3.2,15
 2026-03-15,Jacob Middleton,5410,MIN,TOR,D,2025-26,0,1,0,0,1,0,0,3.2,41
 2026-03-15,Jackson LaCombe,5710,ANH,MON,D,2025-26,1,2,0,0,1,0,0,12.8,42
 2026-03-15,JJ Peterka,4849,UTA,PIT,W,2025-26,0,0,0,0,1,0,0,1.6,38
@@ -11460,6 +11491,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-14,Jake Guentzel,5310,TB,CAR,W,2025-26,0,0,0,0,0,0,0,0,37
 2026-03-14,Jake Evans,4877,MON,SJ,C,2025-26,0,0,0,0,0,0,0,0,50
 2026-03-14,Jacob Trouba,5382,ANH,OTT,D,2025-26,0,1,0,0,2,0,0,4.8,45
+2026-03-14,Jacob Quillan,6707,TOR,BUF,C,2025-26,0,1,0,0,2,0,0,4.8,16
 2026-03-14,Jacob Middleton,5410,MIN,NYR,D,2025-26,0,0,0,0,1,0,0,1.6,42
 2026-03-14,Jacob Bernard-Docker,6426,DET,DAL,D,2025-26,0,3,0,0,0,0,0,4.8,13
 2026-03-14,Jackson LaCombe,5710,ANH,OTT,D,2025-26,0,1,0,0,0,0,0,1.6,43
@@ -11993,6 +12025,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-12,Jake Guentzel,5310,TB,DET,W,2025-26,0,0,2,1,5,0,0,32.5,38
 2026-03-12,Jake Christiansen,5423,CBJ,FLA,D,2025-26,0,2,0,0,1,0,0,4.8,17
 2026-03-12,Jacob Trouba,5382,ANH,TOR,D,2025-26,1,2,0,0,6,0,0,20.8,46
+2026-03-12,Jacob Quillan,6707,TOR,ANH,C,2025-26,0,0,0,0,0,0,0,0,17
 2026-03-12,Jacob Middleton,5410,MIN,PHI,D,2025-26,0,2,0,0,1,0,0,4.8,43
 2026-03-12,Jacob Bernard-Docker,6426,DET,TB,D,2025-26,0,1,0,0,0,0,0,1.6,14
 2026-03-12,Jackson LaCombe,5710,ANH,TOR,D,2025-26,1,0,0,0,0,0,0,8,44
@@ -12510,6 +12543,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-10,Jake DeBrusk,4817,VAN,OTT,W,2025-26,0,1,0,0,0,0,0,1.6,33
 2026-03-10,Jake Christiansen,5423,CBJ,TB,D,2025-26,0,0,0,0,1,0,0,1.6,18
 2026-03-10,Jacob Trouba,5382,ANH,WPG,D,2025-26,1,2,0,0,2,0,0,14.4,47
+2026-03-10,Jacob Quillan,6707,TOR,MON,C,2025-26,0,0,0,0,1,0,0,1.6,18
 2026-03-10,Jacob Middleton,5410,MIN,UTA,D,2025-26,0,0,0,0,1,0,0,1.6,44
 2026-03-10,Jacob Bernard-Docker,6426,DET,FLA,D,2025-26,0,1,0,0,1,0,0,3.2,15
 2026-03-10,Jackson LaCombe,5710,ANH,WPG,D,2025-26,1,1,1,0,4,0,0,28,45
@@ -13293,6 +13327,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-07,K'Andre Miller,4842,CAR,CGY,D,2025-26,1,0,0,0,5,0,0,16,53
 2026-03-07,Juuso Parssinen,6428,NYR,NJ,C,2025-26,0,0,0,0,2,0,0,3.2,5
 2026-03-07,Justin Sourdif,5769,WSH,BOS,C,2025-26,0,1,0,0,1,0,0,3.2,30
+2026-03-07,Justin Brazeau,6706,PIT,PHI,W,2025-26,1,0,0,0,1,0,0,9.6,18
 2026-03-07,Justin Barron,5751,NSH,BUF,D,2025-26,0,0,0,0,0,0,0,0,28
 2026-03-07,Juraj Slafkovsky,4773,MON,LA,W,2025-26,1,1,2,1,4,0,0,40.5,53
 2026-03-07,Josh Samanski,4964,CAR,EDM,C,2025-26,0,0,0,0,0,0,0,0,30
@@ -13326,6 +13361,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-07,Jake Evans,4877,MON,LA,C,2025-26,0,0,1,0,1,0,0,13.6,53
 2026-03-07,Jake DeBrusk,4817,VAN,CHI,W,2025-26,1,0,1,0,3,0,0,24.8,35
 2026-03-07,Jaden Schwartz,5851,SEA,OTT,W,2025-26,0,0,0,0,0,0,0,0,24
+2026-03-07,Jacob Quillan,6707,TOR,TB,C,2025-26,0,0,0,0,2,0,0,3.2,19
 2026-03-07,Jackson Blake,4801,CAR,CGY,W,2025-26,0,1,0,0,2,0,0,4.8,54
 2026-03-07,Jack Quinn,5354,BUF,NSH,W,2025-26,1,1,0,0,2,0,0,12.8,47
 2026-03-07,Jack McBain,5439,UTA,CBJ,W,2025-26,0,0,0,0,3,0,0,4.8,30
@@ -13827,6 +13863,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-05,Kent Johnson,5371,CBJ,FLA,W,2025-26,1,0,0,0,2,0,0,11.2,31
 2026-03-05,Kailer Yamamoto,5438,UTA,PHI,W,2025-26,0,1,0,0,2,0,0,4.8,35
 2026-03-05,Juuso Parssinen,6428,NYR,TOR,C,2025-26,0,0,0,0,0,0,0,0,6
+2026-03-05,Justin Brazeau,6706,PIT,BUF,W,2025-26,0,0,0,0,3,0,0,4.8,19
 2026-03-05,Justin Barron,5751,NSH,BOS,D,2025-26,0,4,0,0,0,0,0,6.4,29
 2026-03-05,Josh Norris,5336,BUF,PIT,W,2025-26,1,0,1,1,2,0,0,23.7,45
 2026-03-05,Josh Doan,5344,BUF,PIT,W,2025-26,1,0,0,0,3,0,0,12.8,48
@@ -13851,6 +13888,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-05,Jake Guentzel,5310,TB,WPG,W,2025-26,1,1,0,0,5,0,0,17.6,42
 2026-03-05,Jake DeBrusk,4817,VAN,CAR,W,2025-26,1,0,0,0,0,0,0,8,36
 2026-03-05,Jake Christiansen,5423,CBJ,FLA,D,2025-26,0,4,0,0,0,0,0,6.4,19
+2026-03-05,Jacob Quillan,6707,TOR,NYR,C,2025-26,0,2,0,0,1,0,0,4.8,20
 2026-03-05,Jack Quinn,5354,BUF,PIT,W,2025-26,0,0,0,0,2,0,0,3.2,48
 2026-03-05,Jack McBain,5439,UTA,PHI,W,2025-26,0,0,0,0,2,0,0,3.2,31
 2026-03-05,JJ Peterka,4849,UTA,PHI,W,2025-26,0,0,0,0,3,0,0,4.8,43
@@ -14319,6 +14357,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-03,Kaedan Korczak,5908,VGK,BUF,D,2025-26,0,0,0,0,1,0,0,1.6,45
 2026-03-03,Justin Sourdif,5769,WSH,UTA,C,2025-26,0,4,0,0,1,0,0,8,31
 2026-03-03,Justin Hryckowian,5720,DAL,CGY,W,2025-26,0,0,0,0,0,0,0,0,42
+2026-03-03,Justin Brazeau,6706,PIT,BOS,W,2025-26,0,0,0,0,1,0,0,1.6,20
 2026-03-03,Justin Barron,5751,NSH,CBJ,D,2025-26,0,1,0,0,1,0,0,3.2,30
 2026-03-03,Juraj Slafkovsky,4773,MON,SJ,W,2025-26,1,0,0,0,3,0,0,12.8,55
 2026-03-03,Josh Norris,5336,BUF,VGK,W,2025-26,0,0,0,0,2,0,0,3.2,46
@@ -14761,6 +14800,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-01,Kailer Yamamoto,5438,UTA,CHI,W,2025-26,0,0,0,0,0,0,0,0,37
 2026-03-01,Kaedan Korczak,5908,VGK,PIT,D,2025-26,0,2,0,0,1,0,0,4.8,46
 2026-03-01,Justin Faulk,5715,STL,MIN,D,2025-26,0,1,0,0,1,0,0,3.2,34
+2026-03-01,Justin Brazeau,6706,PIT,VGK,W,2025-26,1,2,1,0,1,0,0,24.8,21
 2026-03-01,Jordan Kyrou,5713,STL,MIN,W,2025-26,0,0,0,0,3,0,0,4.8,36
 2026-03-01,John Tavares,4777,,OTT,C,2025-26,0,1,0,0,0,0,0,1.6,30
 2026-03-01,John Marino,5418,UTA,CHI,D,2025-26,0,0,0,0,1,0,0,1.6,36
@@ -15089,6 +15129,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-28,Justin Sourdif,5769,WSH,MON,C,2025-26,0,0,0,0,0,0,0,0,32
 2026-02-28,Justin Hryckowian,5720,DAL,NSH,W,2025-26,0,0,0,0,0,0,0,0,44
 2026-02-28,Justin Faulk,5715,STL,NJ,D,2025-26,0,1,0,0,2,0,0,4.8,35
+2026-02-28,Justin Brazeau,6706,PIT,NYR,W,2025-26,0,2,0,0,0,0,0,3.2,22
 2026-02-28,Juraj Slafkovsky,4773,MON,WSH,W,2025-26,0,0,0,0,3,0,0,4.8,56
 2026-02-28,Josh Norris,5336,BUF,TB,W,2025-26,0,0,2,0,2,0,0,27.2,47
 2026-02-28,Josh Manson,5881,COL,CHI,D,2025-26,0,0,0,0,1,0,0,1.6,44
@@ -15660,6 +15701,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-26,Kaapo Kakko,5362,SEA,STL,W,2025-26,0,0,1,0,1,0,0,13.6,39
 2026-02-26,K'Andre Miller,4842,CAR,TB,D,2025-26,1,3,0,0,1,0,0,14.4,58
 2026-02-26,Justin Faulk,5715,STL,SEA,D,2025-26,2,2,0,0,2,0,0,22.4,36
+2026-02-26,Justin Brazeau,6706,PIT,NJ,W,2025-26,0,2,0,0,3,0,0,8,23
 2026-02-26,Juraj Slafkovsky,4773,MON,NYI,W,2025-26,1,3,0,0,0,0,0,12.8,57
 2026-02-26,Joshua Mahura,5508,SEA,STL,D,2025-26,0,2,0,0,1,0,0,4.8,14
 2026-02-26,Josh Manson,5881,COL,MIN,D,2025-26,1,2,0,0,2,0,0,14.4,45
@@ -16221,6 +16263,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-05,Kaedan Korczak,5908,VGK,LA,D,2025-26,0,0,0,0,0,0,0,0,49
 2026-02-05,K'Andre Miller,4842,CAR,NYR,D,2025-26,0,2,0,0,2,0,0,6.4,59
 2026-02-05,Justin Sourdif,5769,WSH,NSH,C,2025-26,0,1,0,0,1,0,0,3.2,35
+2026-02-05,Justin Brazeau,6706,PIT,BUF,W,2025-26,0,0,0,0,2,0,0,3.2,24
 2026-02-05,Justin Barron,5751,NSH,WSH,D,2025-26,0,0,0,0,2,0,0,3.2,32
 2026-02-05,Josh Doan,5344,BUF,PIT,W,2025-26,0,0,0,0,0,0,0,0,53
 2026-02-05,Jordan Staal,4837,CAR,NYR,C,2025-26,0,0,1,0,3,0,0,16.8,47
@@ -16766,6 +16809,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-03,Kaapo Kakko,5362,SEA,ANH,W,2025-26,0,0,0,0,0,0,0,0,41
 2026-02-03,K'Andre Miller,4842,CAR,OTT,D,2025-26,1,1,0,0,1,0,0,11.2,60
 2026-02-03,Justin Sourdif,5769,WSH,PHI,C,2025-26,1,0,0,0,2,0,0,11.2,36
+2026-02-03,Justin Brazeau,6706,PIT,NYI,W,2025-26,1,2,1,0,6,0,0,32.8,25
 2026-02-03,Josh Samanski,4964,EDM,TOR,C,2025-26,1,0,0,0,1,0,0,9.6,33
 2026-02-03,Josh Doan,5344,BUF,TB,W,2025-26,0,0,1,1,1,0,0,14.1,54
 2026-02-03,Jordan Staal,4837,CAR,OTT,C,2025-26,0,0,1,0,1,0,0,13.6,48
@@ -17045,6 +17089,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-02,Justin Sourdif,5769,WSH,NYI,C,2025-26,0,0,0,0,3,0,0,4.8,37
 2026-02-02,Justin Hryckowian,5720,DAL,WPG,W,2025-26,1,0,0,0,1,0,0,9.6,47
 2026-02-02,Justin Faulk,5715,STL,NSH,D,2025-26,1,0,0,0,3,0,0,12.8,38
+2026-02-02,Justin Brazeau,6706,PIT,OTT,W,2025-26,0,1,0,0,0,0,0,1.6,26
 2026-02-02,Justin Barron,5751,NSH,STL,D,2025-26,1,0,0,0,1,0,0,9.6,33
 2026-02-02,Juraj Slafkovsky,4773,MON,MIN,W,2025-26,0,0,0,0,2,0,0,3.2,59
 2026-02-02,Josh Morrissey,5702,WPG,DAL,D,2025-26,0,0,0,0,2,0,0,3.2,27
@@ -17526,6 +17571,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-31,Kevin Bahl,5406,CGY,SJ,D,2025-26,1,3,0,0,0,0,0,12.8,39
 2026-01-31,Kent Johnson,5371,CBJ,STL,W,2025-26,1,0,1,1,4,0,0,26.9,36
 2026-01-31,Keegan Kolesar,5798,VGK,SEA,W,2025-26,0,0,0,0,2,0,0,3.2,65
+2026-01-31,Keaton Middleton,6709,COL,DET,D,2025-26,0,0,0,0,0,0,0,0,1
 2026-01-31,Kasperi Kapanen,4834,EDM,MIN,W,2025-26,0,0,0,0,2,0,0,3.2,46
 2026-01-31,Kailer Yamamoto,5438,UTA,DAL,W,2025-26,0,0,2,0,2,0,0,27.2,42
 2026-01-31,Kaiden Guhle,4880,MON,BUF,D,2025-26,0,4,0,0,0,0,0,6.4,54
@@ -17535,6 +17581,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-31,Justin Sourdif,5769,WSH,CAR,C,2025-26,0,1,1,0,5,0,0,21.6,38
 2026-01-31,Justin Hryckowian,5720,DAL,UTA,W,2025-26,0,0,0,0,0,0,0,0,48
 2026-01-31,Justin Faulk,5715,STL,CBJ,D,2025-26,0,0,0,0,2,0,0,3.2,39
+2026-01-31,Justin Brazeau,6706,PIT,NYR,W,2025-26,0,1,0,0,1,0,0,3.2,27
 2026-01-31,Justin Barron,5751,NSH,NYI,D,2025-26,0,0,0,0,1,0,0,1.6,34
 2026-01-31,Juraj Slafkovsky,4773,MON,BUF,W,2025-26,0,0,1,1,7,0,0,23.7,60
 2026-01-31,Josh Samanski,4964,EDM,MIN,C,2025-26,1,0,0,0,0,0,0,8,34
@@ -18047,6 +18094,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-29,Kevin Stenlund,5492,UTA,CAR,C,2025-26,0,1,0,0,1,0,0,3.2,49
 2026-01-29,Kevin Bahl,5406,CGY,MIN,D,2025-26,0,2,0,0,0,0,0,3.2,40
 2026-01-29,Keegan Kolesar,5798,VGK,DAL,W,2025-26,1,1,1,0,2,0,0,24.8,66
+2026-01-29,Keaton Middleton,6709,COL,MON,D,2025-26,0,1,0,0,0,0,0,1.6,2
 2026-01-29,Kasperi Kapanen,4834,EDM,SJ,W,2025-26,1,3,0,0,4,0,0,19.2,47
 2026-01-29,Kailer Yamamoto,5438,UTA,CAR,W,2025-26,1,0,2,0,5,0,0,40,43
 2026-01-29,Kaiden Guhle,4880,MON,COL,D,2025-26,1,0,0,0,1,0,0,9.6,55
@@ -18057,6 +18105,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-29,Justin Kirkland,6476,CGY,MIN,C,2025-26,0,0,0,0,1,0,0,1.6,1
 2026-01-29,Justin Hryckowian,5720,DAL,VGK,W,2025-26,0,0,0,0,2,0,0,3.2,49
 2026-01-29,Justin Faulk,5715,STL,FLA,D,2025-26,2,2,0,0,4,0,0,25.6,40
+2026-01-29,Justin Brazeau,6706,PIT,CHI,W,2025-26,0,0,0,0,2,0,0,3.2,28
 2026-01-29,Justin Barron,5751,NSH,NJ,D,2025-26,0,1,0,0,1,0,0,3.2,35
 2026-01-29,Juraj Slafkovsky,4773,MON,COL,W,2025-26,1,2,1,0,4,0,0,29.6,61
 2026-01-29,Josh Samanski,4964,EDM,SJ,C,2025-26,0,0,0,0,0,0,0,0,35
@@ -18333,6 +18382,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-28,Kyle MacLean,5915,NYI,NYR,W,2025-26,1,1,0,0,0,0,0,9.6,28
 2026-01-28,Kirill Marchenko,5827,CBJ,PHI,W,2025-26,0,0,1,0,3,0,0,16.8,43
 2026-01-28,Kent Johnson,5371,CBJ,PHI,W,2025-26,1,0,0,0,2,0,0,11.2,38
+2026-01-28,Keaton Middleton,6709,COL,OTT,D,2025-26,1,0,0,0,0,0,0,8,3
 2026-01-28,Josh Manson,5881,COL,OTT,D,2025-26,0,0,0,0,1,0,0,1.6,51
 2026-01-28,Jordan Spence,5856,OTT,COL,D,2025-26,1,2,0,0,0,0,0,11.2,50
 2026-01-28,Jonny Brodzinski,6518,NYR,NYI,W,2025-26,0,1,0,0,0,0,0,1.6,21
@@ -18939,6 +18989,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-25,Kaedan Korczak,5908,VGK,OTT,D,2025-26,0,0,0,0,0,0,0,0,55
 2026-01-25,Kaapo Kakko,5362,SEA,NJ,W,2025-26,0,0,0,0,0,0,0,0,45
 2026-01-25,Justin Kirkland,6476,CGY,ANH,C,2025-26,0,1,0,0,1,0,0,3.2,2
+2026-01-25,Justin Brazeau,6706,PIT,VAN,W,2025-26,1,0,0,0,1,0,0,9.6,29
 2026-01-25,Josh Manson,5881,COL,TOR,D,2025-26,0,4,0,0,3,0,0,11.2,52
 2026-01-25,Jordan Spence,5856,OTT,VGK,D,2025-26,0,1,1,0,1,0,0,15.2,51
 2026-01-25,Jordan Eberle,5342,SEA,NJ,W,2025-26,1,0,1,0,3,0,0,24.8,46
@@ -18963,6 +19014,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-25,Jake DeBrusk,4817,VAN,PIT,W,2025-26,0,1,1,0,5,0,0,21.6,45
 2026-01-25,Jaden Schwartz,5851,SEA,NJ,W,2025-26,0,2,0,0,1,0,0,4.8,34
 2026-01-25,Jacob Trouba,5382,ANH,CGY,D,2025-26,0,2,0,0,2,0,0,6.4,59
+2026-01-25,Jacob Quillan,6707,TOR,COL,C,2025-26,0,0,0,0,0,0,0,0,21
 2026-01-25,Jackson LaCombe,5710,ANH,CGY,D,2025-26,1,1,0,0,1,0,0,11.2,57
 2026-01-25,Jack St. Ivany,5789,PIT,VAN,D,2025-26,0,1,0,0,0,0,0,1.6,11
 2026-01-25,Jack Hughes,5281,NJ,SEA,C,2025-26,1,0,1,1,3,0,0,25.3,42
@@ -19731,6 +19783,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-22,Kaedan Korczak,5908,VGK,BOS,D,2025-26,1,0,0,0,3,0,0,12.8,57
 2026-01-22,K'Andre Miller,4842,CAR,CHI,D,2025-26,0,0,0,0,1,0,0,1.6,65
 2026-01-22,Justin Hryckowian,5720,DAL,CBJ,W,2025-26,0,3,0,0,1,0,0,6.4,52
+2026-01-22,Justin Brazeau,6706,PIT,EDM,W,2025-26,2,0,0,0,1,0,0,17.6,30
 2026-01-22,Justin Barron,5751,NSH,OTT,D,2025-26,0,0,0,0,0,0,0,0,38
 2026-01-22,Juraj Slafkovsky,4773,MON,BUF,W,2025-26,0,0,0,0,1,0,0,1.6,64
 2026-01-22,Josh Morrissey,5702,WPG,FLA,D,2025-26,0,2,0,0,2,0,0,6.4,32
@@ -19950,6 +20003,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-21,Kaapo Kakko,5362,SEA,NYI,W,2025-26,0,1,1,0,1,0,0,15.2,47
 2026-01-21,Justin Sourdif,5769,WSH,VAN,C,2025-26,1,0,1,1,3,0,0,25.3,43
 2026-01-21,Justin Kirkland,6476,CGY,PIT,C,2025-26,0,0,0,0,0,0,0,0,3
+2026-01-21,Justin Brazeau,6706,PIT,CGY,W,2025-26,0,0,0,0,2,0,0,3.2,31
 2026-01-21,Josh Manson,5881,COL,ANH,D,2025-26,0,3,0,0,3,0,0,9.6,54
 2026-01-21,Jordan Greenway,4998,,NSH,W,2025-26,0,0,0,0,3,0,0,4.8,36
 2026-01-21,Jordan Eberle,5342,SEA,NYI,W,2025-26,0,1,0,0,2,0,0,4.8,48
@@ -20477,6 +20531,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-19,K'Andre Miller,4842,CAR,BUF,D,2025-26,0,0,0,0,2,0,0,3.2,66
 2026-01-19,Justin Sourdif,5769,WSH,COL,C,2025-26,0,1,0,0,1,0,0,3.2,44
 2026-01-19,Justin Kirkland,6476,CGY,NJ,C,2025-26,0,0,0,0,1,0,0,1.6,4
+2026-01-19,Justin Brazeau,6706,PIT,SEA,W,2025-26,0,0,1,0,3,0,0,16.8,32
 2026-01-19,Josh Morrissey,5702,WPG,CHI,D,2025-26,0,1,0,0,2,0,0,4.8,34
 2026-01-19,Josh Manson,5881,COL,WSH,D,2025-26,1,1,0,0,3,0,0,14.4,55
 2026-01-19,Josh Doan,5344,BUF,CAR,W,2025-26,0,0,0,0,0,0,0,0,62
@@ -20958,6 +21013,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-17,Kaapo Kakko,5362,SEA,UTA,W,2025-26,1,0,0,0,0,0,0,8,49
 2026-01-17,K'Andre Miller,4842,CAR,NJ,D,2025-26,1,1,0,0,3,0,0,14.4,67
 2026-01-17,Justin Kirkland,6476,CGY,NYI,C,2025-26,0,2,1,0,1,0,0,16.8,5
+2026-01-17,Justin Brazeau,6706,PIT,CBJ,W,2025-26,0,0,0,0,2,0,0,3.2,33
 2026-01-17,Justin Barron,5751,NSH,VGK,D,2025-26,0,0,0,0,0,0,0,0,40
 2026-01-17,Juraj Slafkovsky,4773,MON,OTT,W,2025-26,0,2,2,1,2,0,0,30.9,66
 2026-01-17,Josh Morrissey,5702,WPG,TOR,D,2025-26,0,1,0,0,1,0,0,3.2,35
@@ -21503,6 +21559,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-15,Kaapo Kakko,5362,SEA,BOS,W,2025-26,1,0,0,0,1,0,0,9.6,50
 2026-01-15,Justin Kirkland,6476,CGY,CHI,C,2025-26,0,1,0,0,0,0,0,1.6,6
 2026-01-15,Justin Hryckowian,5720,DAL,UTA,W,2025-26,0,1,0,0,0,0,0,1.6,55
+2026-01-15,Justin Brazeau,6706,PIT,PHI,W,2025-26,0,1,1,1,2,0,0,17.3,34
 2026-01-15,Juraj Slafkovsky,4773,MON,BUF,W,2025-26,0,2,0,0,1,0,0,4.8,67
 2026-01-15,Josh Morrissey,5702,WPG,MIN,D,2025-26,1,1,1,0,2,0,0,24.8,36
 2026-01-15,Josh Doan,5344,BUF,MON,W,2025-26,1,0,1,1,1,0,0,22.1,64
@@ -21969,6 +22026,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-13,Justin Kirkland,6476,CGY,CBJ,C,2025-26,0,0,0,0,0,0,0,0,7
 2026-01-13,Justin Hryckowian,5720,DAL,ANH,W,2025-26,0,0,0,0,1,0,0,1.6,56
 2026-01-13,Justin Faulk,5715,STL,CAR,D,2025-26,1,2,0,0,3,0,0,16,47
+2026-01-13,Justin Brazeau,6706,PIT,TB,W,2025-26,0,1,0,0,0,0,0,1.6,35
 2026-01-13,Justin Barron,5751,NSH,EDM,D,2025-26,0,0,0,0,0,0,0,0,42
 2026-01-13,Juraj Slafkovsky,4773,MON,WSH,W,2025-26,0,0,0,0,3,0,0,4.8,68
 2026-01-13,Josh Morrissey,5702,WPG,NYI,D,2025-26,0,0,1,0,4,0,0,18.4,37
@@ -22502,6 +22560,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-11,Kailer Yamamoto,5438,UTA,CBJ,W,2025-26,0,1,0,0,2,0,0,4.8,47
 2026-01-11,Kaedan Korczak,5908,VGK,SJ,D,2025-26,0,2,0,0,0,0,0,3.2,62
 2026-01-11,Justin Sourdif,5769,WSH,NSH,C,2025-26,0,0,0,0,1,0,0,1.6,45
+2026-01-11,Justin Brazeau,6706,PIT,BOS,W,2025-26,0,0,0,0,4,0,0,6.4,36
 2026-01-11,Josh Morrissey,5702,WPG,NJ,D,2025-26,2,1,0,0,1,0,0,19.2,38
 2026-01-11,Jonas Siegenthaler,5395,NJ,WPG,D,2025-26,0,0,0,0,0,0,0,0,52
 2026-01-11,Johnathan Kovacevic,6430,NJ,WPG,D,2025-26,1,2,0,0,1,0,0,12.8,42
@@ -22827,6 +22886,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-10,Justin Kirkland,6476,CGY,PIT,C,2025-26,0,0,0,0,1,0,0,1.6,8
 2026-01-10,Justin Hryckowian,5720,DAL,SJ,W,2025-26,0,0,1,0,2,0,0,15.2,58
 2026-01-10,Justin Faulk,5715,STL,VGK,D,2025-26,0,3,0,0,0,0,0,4.8,48
+2026-01-10,Justin Brazeau,6706,PIT,CGY,W,2025-26,0,1,0,0,3,0,0,6.4,37
 2026-01-10,Juraj Slafkovsky,4773,MON,DET,W,2025-26,0,0,0,0,0,0,0,0,70
 2026-01-10,Josh Norris,5336,BUF,ANH,W,2025-26,0,3,1,0,4,0,0,23.2,52
 2026-01-10,Josh Manson,5881,COL,CBJ,D,2025-26,0,1,0,0,0,0,0,1.6,58
@@ -23353,6 +23413,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-08,Kaapo Kakko,5362,SEA,MIN,W,2025-26,0,0,0,0,2,0,0,3.2,54
 2026-01-08,K'Andre Miller,4842,CAR,ANH,D,2025-26,1,1,0,0,2,0,0,12.8,72
 2026-01-08,Justin Kirkland,6476,CGY,BOS,C,2025-26,0,1,0,0,1,0,0,3.2,9
+2026-01-08,Justin Brazeau,6706,PIT,NJ,W,2025-26,0,0,0,0,1,0,0,1.6,38
 2026-01-08,Juraj Slafkovsky,4773,MON,FLA,W,2025-26,1,3,1,0,0,0,0,24.8,71
 2026-01-08,Josh Norris,5336,BUF,NYR,W,2025-26,1,1,0,0,1,0,0,11.2,53
 2026-01-08,Josh Morrissey,5702,WPG,EDM,D,2025-26,0,2,1,0,3,0,0,20,40
@@ -24259,6 +24320,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-04,Kaedan Korczak,5908,VGK,CHI,D,2025-26,0,1,0,0,2,0,0,4.8,66
 2026-01-04,K'Andre Miller,4842,CAR,NJ,D,2025-26,0,1,0,0,1,0,0,3.2,74
 2026-01-04,Justin Hryckowian,5720,DAL,MON,W,2025-26,0,1,0,0,0,0,0,1.6,61
+2026-01-04,Justin Brazeau,6706,PIT,CBJ,W,2025-26,0,0,0,0,3,0,0,4.8,39
 2026-01-04,Juraj Slafkovsky,4773,MON,DAL,W,2025-26,1,0,1,1,4,0,0,26.9,73
 2026-01-04,Josh Manson,5881,COL,FLA,D,2025-26,1,1,0,0,2,0,0,12.8,61
 2026-01-04,Jordan Staal,4837,CAR,NJ,C,2025-26,0,2,0,0,0,0,0,3.2,62
@@ -24564,6 +24626,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-03,K'Andre Miller,4842,CAR,COL,D,2025-26,1,0,0,0,0,0,0,8,75
 2026-01-03,Justin Sourdif,5769,WSH,CHI,C,2025-26,0,1,0,0,4,0,0,8,49
 2026-01-03,Justin Faulk,5715,STL,MON,D,2025-26,0,2,0,0,0,0,0,3.2,51
+2026-01-03,Justin Brazeau,6706,PIT,DET,W,2025-26,0,0,0,0,0,0,0,0,40
 2026-01-03,Justin Barron,5751,NSH,CGY,D,2025-26,0,0,0,0,0,0,0,0,44
 2026-01-03,Juraj Slafkovsky,4773,MON,STL,W,2025-26,0,0,0,0,1,0,0,1.6,74
 2026-01-03,Josh Norris,5336,BUF,CBJ,W,2025-26,1,2,0,0,2,0,0,14.4,55
@@ -25028,6 +25091,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-01,K'Andre Miller,4842,CAR,MON,D,2025-26,1,0,0,0,3,0,0,12.8,76
 2026-01-01,Justin Sourdif,5769,WSH,OTT,C,2025-26,2,0,0,0,1,0,0,17.6,50
 2026-01-01,Justin Hryckowian,5720,DAL,CHI,W,2025-26,0,0,0,0,1,0,0,1.6,62
+2026-01-01,Justin Brazeau,6706,PIT,DET,W,2025-26,0,0,0,0,3,0,0,4.8,41
 2026-01-01,Juraj Slafkovsky,4773,MON,CAR,W,2025-26,1,5,1,0,2,0,0,31.2,75
 2026-01-01,Josh Morrissey,5702,WPG,TOR,D,2025-26,1,0,0,0,1,0,0,9.6,43
 2026-01-01,Josh Anderson,4852,MON,CAR,W,2025-26,0,0,1,0,1,0,0,13.6,66
@@ -25582,6 +25646,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-30,Kris Letang,5861,PIT,CAR,D,2025-26,0,1,0,0,2,0,0,4.8,57
 2025-12-30,Kiefer Sherwood,5441,VAN,PHI,W,2025-26,0,1,0,0,5,0,0,9.6,50
 2025-12-30,K'Andre Miller,4842,CAR,PIT,D,2025-26,0,2,0,0,1,0,0,4.8,77
+2025-12-30,Justin Brazeau,6706,PIT,CAR,W,2025-26,1,1,1,0,3,0,0,26.4,42
 2025-12-30,Juraj Slafkovsky,4773,MON,FLA,W,2025-26,0,2,0,0,0,0,0,3.2,76
 2025-12-30,Josh Anderson,4852,MON,FLA,W,2025-26,0,0,0,0,1,0,0,1.6,67
 2025-12-30,Jordan Staal,4837,CAR,PIT,C,2025-26,0,1,0,0,1,0,0,3.2,65
@@ -25600,6 +25665,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-30,Jalen Chatfield,4903,CAR,PIT,D,2025-26,0,1,0,0,1,0,0,3.2,76
 2025-12-30,Jake McCabe,4847,TOR,NJ,D,2025-26,0,8,0,0,0,0,0,12.8,58
 2025-12-30,Jake DeBrusk,4817,VAN,PHI,W,2025-26,0,0,0,0,3,0,0,4.8,58
+2025-12-30,Jacob Quillan,6707,TOR,NJ,C,2025-26,0,0,0,0,0,0,0,0,22
 2025-12-30,Jackson Blake,4801,CAR,PIT,W,2025-26,0,1,0,0,0,0,0,1.6,78
 2025-12-30,Jack Studnicka,6477,FLA,MON,C,2025-26,0,0,0,0,0,0,0,0,10
 2025-12-30,Jack St. Ivany,5789,PIT,CAR,D,2025-26,0,3,0,0,0,0,0,4.8,22
@@ -26099,6 +26165,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-28,Kirill Marchenko,5827,CBJ,NYI,W,2025-26,0,0,2,0,5,0,0,32,58
 2025-12-28,Kent Johnson,5371,CBJ,NYI,W,2025-26,0,0,0,0,1,0,0,1.6,53
 2025-12-28,Kaapo Kakko,5362,SEA,PHI,W,2025-26,1,0,0,0,0,0,0,8,60
+2025-12-28,Justin Brazeau,6706,PIT,CHI,W,2025-26,0,0,3,1,3,0,0,41.3,43
 2025-12-28,Juraj Slafkovsky,4773,MON,TB,W,2025-26,1,0,2,0,5,0,0,40,77
 2025-12-28,Josh Anderson,4852,MON,TB,W,2025-26,0,0,0,0,2,0,0,3.2,68
 2025-12-28,Jordan Eberle,5342,SEA,PHI,W,2025-26,0,1,1,0,2,0,0,16.8,59
@@ -26832,6 +26899,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-23,K'Andre Miller,4842,CAR,FLA,D,2025-26,0,3,0,0,1,0,0,6.4,79
 2025-12-23,Justin Sourdif,5769,WSH,NYR,C,2025-26,0,1,0,0,2,0,0,4.8,54
 2025-12-23,Justin Hryckowian,5720,DAL,DET,W,2025-26,1,0,0,0,1,0,0,9.6,65
+2025-12-23,Justin Brazeau,6706,PIT,TOR,W,2025-26,1,0,0,0,2,0,0,11.2,44
 2025-12-23,Juraj Slafkovsky,4773,MON,BOS,W,2025-26,1,0,1,0,2,0,0,23.2,78
 2025-12-23,Joshua Mahura,5508,SEA,LA,D,2025-26,1,2,0,0,0,0,0,11.2,15
 2025-12-23,Josh Norris,5336,BUF,OTT,W,2025-26,0,0,0,0,0,0,0,0,59
@@ -27317,6 +27385,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-21,Kaedan Korczak,5908,VGK,EDM,D,2025-26,0,1,0,0,1,0,0,3.2,72
 2025-12-21,Justin Sourdif,5769,WSH,DET,C,2025-26,0,1,0,0,1,0,0,3.2,55
 2025-12-21,Justin Hryckowian,5720,DAL,TOR,W,2025-26,0,0,1,0,2,0,0,15.2,66
+2025-12-21,Justin Brazeau,6706,PIT,MON,W,2025-26,0,1,0,0,1,0,0,3.2,45
 2025-12-21,Juraj Slafkovsky,4773,MON,PIT,W,2025-26,2,0,0,0,0,0,0,16,79
 2025-12-21,Josh Norris,5336,BUF,NJ,W,2025-26,0,1,1,0,1,0,0,15.2,60
 2025-12-21,Josh Morrissey,5702,WPG,UTA,D,2025-26,1,3,0,0,2,0,0,16,47
@@ -27676,6 +27745,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-20,K'Andre Miller,4842,CAR,TB,D,2025-26,0,2,0,0,1,0,0,4.8,80
 2025-12-20,Justin Sourdif,5769,WSH,DET,C,2025-26,0,0,0,0,0,0,0,0,56
 2025-12-20,Justin Faulk,5715,STL,FLA,D,2025-26,0,4,1,0,4,0,0,24.8,57
+2025-12-20,Justin Brazeau,6706,PIT,MON,W,2025-26,0,0,0,0,0,0,0,0,46
 2025-12-20,Juraj Slafkovsky,4773,MON,PIT,W,2025-26,0,3,1,1,2,0,0,20.5,80
 2025-12-20,Joshua Mahura,5508,SEA,SJ,D,2025-26,0,1,0,0,0,0,0,1.6,17
 2025-12-20,Josh Norris,5336,BUF,NYI,W,2025-26,0,0,0,0,2,0,0,3.2,61
@@ -28207,6 +28277,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-18,Justin Sourdif,5769,WSH,TOR,C,2025-26,2,0,0,0,0,0,0,16,57
 2025-12-18,Justin Hryckowian,5720,DAL,SJ,W,2025-26,0,1,1,0,1,0,0,15.2,68
 2025-12-18,Justin Faulk,5715,STL,NYR,D,2025-26,0,0,0,0,2,0,0,3.2,58
+2025-12-18,Justin Brazeau,6706,PIT,OTT,W,2025-26,0,2,0,0,3,0,0,8,47
 2025-12-18,Juraj Slafkovsky,4773,MON,CHI,W,2025-26,0,0,0,0,5,0,0,8,81
 2025-12-18,Joshua Mahura,5508,SEA,CGY,D,2025-26,0,2,0,0,2,0,0,6.4,18
 2025-12-18,Josh Norris,5336,BUF,PHI,W,2025-26,0,0,1,1,2,0,0,15.7,62
@@ -28702,6 +28773,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-16,Kailer Yamamoto,5438,UTA,BOS,W,2025-26,0,0,0,0,0,0,0,0,50
 2025-12-16,Kaapo Kakko,5362,SEA,COL,W,2025-26,1,0,0,0,2,0,0,11.2,65
 2025-12-16,Justin Sourdif,5769,WSH,MIN,C,2025-26,0,1,0,0,1,0,0,3.2,58
+2025-12-16,Justin Brazeau,6706,PIT,EDM,W,2025-26,0,0,0,0,0,0,0,0,48
 2025-12-16,Juraj Slafkovsky,4773,MON,PHI,W,2025-26,0,0,0,0,1,0,0,1.6,82
 2025-12-16,Josh Manson,5881,COL,SEA,D,2025-26,1,0,0,0,2,0,0,11.2,69
 2025-12-16,Josh Anderson,4852,MON,PHI,W,2025-26,1,0,0,0,1,0,0,9.6,73
@@ -29118,6 +29190,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-14,Kailer Yamamoto,5438,UTA,PIT,W,2025-26,1,0,0,0,0,0,0,8,51
 2025-12-14,Kaapo Kakko,5362,SEA,BUF,W,2025-26,0,0,0,0,2,0,0,3.2,66
 2025-12-14,K'Andre Miller,4842,CAR,PHI,D,2025-26,0,1,0,0,1,0,0,3.2,83
+2025-12-14,Justin Brazeau,6706,PIT,UTA,W,2025-26,0,0,2,0,2,0,0,27.2,49
 2025-12-14,Juraj Slafkovsky,4773,MON,EDM,W,2025-26,2,1,0,0,3,0,0,22.4,83
 2025-12-14,Josh Norris,5336,BUF,SEA,W,2025-26,1,1,0,0,1,0,0,11.2,63
 2025-12-14,Josh Doan,5344,BUF,SEA,W,2025-26,0,0,0,0,1,0,0,1.6,78
@@ -29426,6 +29499,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-13,K'Andre Miller,4842,CAR,PHI,D,2025-26,0,0,0,0,1,0,0,1.6,84
 2025-12-13,Justin Sourdif,5769,WSH,WPG,C,2025-26,0,1,0,0,1,0,0,3.2,59
 2025-12-13,Justin Hryckowian,5720,DAL,FLA,W,2025-26,0,0,0,0,1,0,0,1.6,70
+2025-12-13,Justin Brazeau,6706,PIT,SJ,W,2025-26,0,2,0,0,3,0,0,8,50
 2025-12-13,Juraj Slafkovsky,4773,MON,NYR,W,2025-26,0,1,0,0,0,0,0,1.6,84
 2025-12-13,Josh Morrissey,5702,WPG,WSH,D,2025-26,2,0,0,0,2,0,0,19.2,51
 2025-12-13,Josh Manson,5881,COL,NSH,D,2025-26,0,1,0,0,1,0,0,3.2,70
@@ -29909,6 +29983,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-11,Justin Sourdif,5769,WSH,CAR,C,2025-26,0,0,0,0,3,0,0,4.8,60
 2025-12-11,Justin Hryckowian,5720,DAL,MIN,W,2025-26,0,0,0,0,2,0,0,3.2,71
 2025-12-11,Justin Faulk,5715,STL,NSH,D,2025-26,0,0,0,0,1,0,0,1.6,62
+2025-12-11,Justin Brazeau,6706,PIT,MON,W,2025-26,0,0,0,0,1,0,0,1.6,51
 2025-12-11,Juraj Slafkovsky,4773,MON,PIT,W,2025-26,2,0,0,0,0,0,0,16,85
 2025-12-11,Josh Morrissey,5702,WPG,BOS,D,2025-26,1,3,0,0,3,0,0,17.6,52
 2025-12-11,Josh Manson,5881,COL,FLA,D,2025-26,2,0,0,0,1,0,0,17.6,71
@@ -30411,6 +30486,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-09,K'Andre Miller,4842,CAR,CBJ,D,2025-26,1,1,0,0,2,0,0,12.8,86
 2025-12-09,Justin Hryckowian,5720,DAL,WPG,W,2025-26,0,1,0,0,2,0,0,4.8,72
 2025-12-09,Justin Faulk,5715,STL,BOS,D,2025-26,1,3,0,0,2,0,0,16,63
+2025-12-09,Justin Brazeau,6706,PIT,ANH,W,2025-26,0,0,0,0,1,0,0,1.6,52
 2025-12-09,Juraj Slafkovsky,4773,MON,TB,W,2025-26,0,1,0,0,2,0,0,4.8,86
 2025-12-09,Josh Morrissey,5702,WPG,DAL,D,2025-26,1,3,0,0,5,0,0,20.8,53
 2025-12-09,Josh Manson,5881,COL,NSH,D,2025-26,1,0,0,0,0,0,0,8,72
@@ -30859,6 +30935,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-07,Justin Sourdif,5769,WSH,CBJ,C,2025-26,0,1,0,0,3,0,0,6.4,61
 2025-12-07,Justin Hryckowian,5720,DAL,PIT,W,2025-26,0,1,0,0,0,0,0,1.6,73
 2025-12-07,Justin Faulk,5715,STL,MON,D,2025-26,1,1,0,0,0,0,0,9.6,64
+2025-12-07,Justin Brazeau,6706,PIT,DAL,W,2025-26,0,0,0,0,1,0,0,1.6,53
 2025-12-07,Juraj Slafkovsky,4773,MON,STL,W,2025-26,0,3,0,0,1,0,0,6.4,87
 2025-12-07,Josh Manson,5881,COL,PHI,D,2025-26,0,3,0,0,3,0,0,9.6,73
 2025-12-07,Josh Anderson,4852,MON,STL,W,2025-26,0,1,0,0,2,0,0,4.8,78
@@ -35139,6 +35216,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-20,Jake Christiansen,5423,CBJ,TOR,D,2025-26,0,0,0,0,3,0,0,4.8,35
 2025-11-20,Jaden Schwartz,5851,SEA,CHI,W,2025-26,0,1,1,1,1,0,0,15.7,46
 2025-11-20,Jacob Trouba,5382,ANH,OTT,D,2025-26,0,2,0,0,0,0,0,3.2,89
+2025-11-20,Jacob Quillan,6707,TOR,CBJ,C,2025-26,0,0,0,0,1,0,0,1.6,23
 2025-11-20,Jackson LaCombe,5710,ANH,OTT,D,2025-26,0,1,0,0,0,0,0,1.6,88
 2025-11-20,Jack Roslovic,4831,EDM,TB,W,2025-26,0,1,0,0,1,0,0,3.2,71
 2025-11-20,Jack McBain,5439,UTA,VGK,W,2025-26,0,0,0,0,0,0,0,0,72
@@ -35583,6 +35661,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-18,Jake Guentzel,5310,TB,NJ,W,2025-26,0,0,3,2,7,0,0,48.2,83
 2025-11-18,Jake Christiansen,5423,CBJ,WPG,D,2025-26,0,0,0,0,1,0,0,1.6,36
 2025-11-18,Jaden Schwartz,5851,SEA,DET,W,2025-26,0,0,0,0,1,0,0,1.6,47
+2025-11-18,Jacob Quillan,6707,TOR,STL,C,2025-26,0,0,0,0,0,0,0,0,24
 2025-11-18,Jack McBain,5439,UTA,SJ,W,2025-26,0,1,0,0,0,0,0,1.6,73
 2025-11-18,Jack Eichel,4736,VGK,NYR,C,2025-26,0,0,0,0,5,0,0,8,94
 2025-11-18,JJ Peterka,4849,UTA,SJ,W,2025-26,0,0,2,0,2,0,0,27.2,85
@@ -40021,6 +40100,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-30,Justin Kirkland,6476,CGY,OTT,C,2025-26,0,0,0,0,1,0,0,1.6,13
 2025-10-30,Justin Hryckowian,5720,DAL,TB,W,2025-26,0,0,0,0,0,0,0,0,92
 2025-10-30,Justin Faulk,5715,STL,VAN,D,2025-26,0,2,0,0,3,0,0,8,83
+2025-10-30,Justin Brazeau,6706,PIT,MIN,W,2025-26,0,1,0,0,1,0,0,3.2,54
 2025-10-30,Justin Barron,5751,NSH,PHI,D,2025-26,0,0,0,0,1,0,0,1.6,52
 2025-10-30,Josh Morrissey,5702,WPG,CHI,D,2025-26,1,1,1,0,1,0,0,23.2,71
 2025-10-30,Josh Doan,5344,BUF,BOS,W,2025-26,0,1,1,0,5,0,0,21.6,99
@@ -40480,6 +40560,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-28,Justin Kirkland,6476,CGY,TOR,C,2025-26,1,0,0,0,0,0,0,8,14
 2025-10-28,Justin Hryckowian,5720,DAL,WSH,W,2025-26,0,0,0,0,1,0,0,1.6,93
 2025-10-28,Justin Faulk,5715,STL,DET,D,2025-26,0,0,0,0,2,0,0,3.2,84
+2025-10-28,Justin Brazeau,6706,PIT,PHI,W,2025-26,0,1,1,0,3,0,0,18.4,55
 2025-10-28,Justin Barron,5751,NSH,TB,D,2025-26,0,2,0,0,0,0,0,3.2,53
 2025-10-28,Juraj Slafkovsky,4773,MON,SEA,W,2025-26,0,0,1,1,3,0,0,17.3,104
 2025-10-28,Joshua Mahura,5508,SEA,MON,D,2025-26,0,2,0,0,0,0,0,3.2,25
@@ -40765,6 +40846,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-27,Lars Eller,4948,OTT,BOS,C,2025-26,1,2,0,0,0,0,0,11.2,78
 2025-10-27,Kris Letang,5861,PIT,STL,D,2025-26,0,1,0,0,1,0,0,3.2,85
 2025-10-27,Justin Faulk,5715,STL,PIT,D,2025-26,0,3,0,0,2,0,0,8,85
+2025-10-27,Justin Brazeau,6706,PIT,STL,W,2025-26,2,0,0,0,3,0,0,20.8,56
 2025-10-27,Jordan Kyrou,5713,STL,PIT,W,2025-26,0,1,1,0,3,0,0,18.4,77
 2025-10-27,Jimmy Snuggerud,5707,STL,PIT,W,2025-26,0,0,0,0,2,0,0,3.2,76
 2025-10-27,Jake Sanderson,5830,OTT,BOS,D,2025-26,3,1,0,0,2,0,0,28.8,69
@@ -41259,6 +41341,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-25,Justin Sourdif,5769,WSH,OTT,C,2025-26,0,0,0,0,0,0,0,0,81
 2025-10-25,Justin Hryckowian,5720,DAL,CAR,W,2025-26,0,0,0,0,1,0,0,1.6,95
 2025-10-25,Justin Faulk,5715,STL,DET,D,2025-26,2,2,0,0,1,0,0,20.8,86
+2025-10-25,Justin Brazeau,6706,PIT,CBJ,W,2025-26,1,2,0,0,0,0,0,11.2,57
 2025-10-25,Justin Barron,5751,NSH,LA,D,2025-26,0,2,0,0,0,0,0,3.2,55
 2025-10-25,Juraj Slafkovsky,4773,MON,VAN,W,2025-26,1,1,1,1,2,0,0,25.3,105
 2025-10-25,Joshua Mahura,5508,SEA,EDM,D,2025-26,0,2,0,0,0,0,0,3.2,26
@@ -41801,6 +41884,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-23,Juuso Parssinen,6428,NYR,SJ,C,2025-26,0,0,1,0,1,0,0,13.6,16
 2025-10-23,Justin Hryckowian,5720,DAL,LA,W,2025-26,0,0,0,0,1,0,0,1.6,96
 2025-10-23,Justin Faulk,5715,STL,UTA,D,2025-26,0,2,0,0,2,0,0,6.4,87
+2025-10-23,Justin Brazeau,6706,PIT,FLA,W,2025-26,0,1,0,0,1,0,0,3.2,58
 2025-10-23,Justin Barron,5751,NSH,VAN,D,2025-26,1,1,0,0,0,0,0,9.6,56
 2025-10-23,Juraj Slafkovsky,4773,MON,EDM,W,2025-26,0,3,0,0,1,0,0,6.4,106
 2025-10-23,Joshua Mahura,5508,SEA,WPG,D,2025-26,0,2,0,0,1,0,0,4.8,27
@@ -42250,6 +42334,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-21,Justin Sourdif,5769,WSH,SEA,C,2025-26,0,3,0,0,1,0,0,6.4,83
 2025-10-21,Justin Hryckowian,5720,DAL,CBJ,W,2025-26,0,0,0,0,0,0,0,0,97
 2025-10-21,Justin Faulk,5715,STL,LA,D,2025-26,0,1,1,1,3,0,0,18.9,88
+2025-10-21,Justin Brazeau,6706,PIT,VAN,W,2025-26,2,0,1,1,2,0,0,31.7,59
 2025-10-21,Justin Barron,5751,NSH,ANH,D,2025-26,1,2,0,0,1,0,0,12.8,57
 2025-10-21,Joshua Mahura,5508,SEA,WSH,D,2025-26,0,2,0,0,0,0,0,3.2,28
 2025-10-21,Josh Manson,5881,COL,UTA,D,2025-26,0,0,0,0,3,0,0,4.8,95
@@ -42924,6 +43009,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-18,K'Andre Miller,4842,CAR,LA,D,2025-26,2,1,0,0,3,0,0,22.4,103
 2025-10-18,Juuso Parssinen,6428,NYR,MON,C,2025-26,0,1,0,0,0,0,0,1.6,18
 2025-10-18,Justin Faulk,5715,STL,DAL,D,2025-26,0,1,0,0,1,0,0,3.2,89
+2025-10-18,Justin Brazeau,6706,PIT,SJ,W,2025-26,1,1,0,0,0,0,0,9.6,60
 2025-10-18,Justin Barron,5751,NSH,WPG,D,2025-26,0,2,0,0,1,0,0,4.8,58
 2025-10-18,Juraj Slafkovsky,4773,MON,NYR,W,2025-26,0,0,1,0,1,0,0,13.6,109
 2025-10-18,Joshua Mahura,5508,SEA,TOR,D,2025-26,0,3,1,0,2,0,0,20,30
@@ -43441,6 +43527,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-16,K'Andre Miller,4842,CAR,ANH,D,2025-26,0,1,0,0,2,0,0,4.8,104
 2025-10-16,Juuso Parssinen,6428,NYR,TOR,C,2025-26,0,1,1,0,2,0,0,16.8,19
 2025-10-16,Justin Hryckowian,5720,DAL,VAN,W,2025-26,0,1,0,0,2,0,0,4.8,98
+2025-10-16,Justin Brazeau,6706,PIT,LA,W,2025-26,0,0,0,0,2,0,0,3.2,61
 2025-10-16,Justin Barron,5751,NSH,MON,D,2025-26,0,1,0,0,0,0,0,1.6,59
 2025-10-16,Juraj Slafkovsky,4773,MON,NSH,W,2025-26,0,0,0,0,1,0,0,1.6,110
 2025-10-16,Joshua Mahura,5508,SEA,OTT,D,2025-26,0,1,0,0,0,0,0,1.6,31
@@ -43892,6 +43979,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-14,K'Andre Miller,4842,CAR,SJ,D,2025-26,0,1,0,0,2,0,0,4.8,105
 2025-10-14,Justin Sourdif,5769,WSH,TB,C,2025-26,0,0,0,0,3,0,0,4.8,86
 2025-10-14,Justin Hryckowian,5720,DAL,MIN,W,2025-26,0,0,0,0,0,0,0,0,99
+2025-10-14,Justin Brazeau,6706,PIT,ANH,W,2025-26,0,3,1,0,2,0,0,20,62
 2025-10-14,Justin Barron,5751,NSH,TOR,D,2025-26,0,2,0,0,1,0,0,4.8,60
 2025-10-14,Juraj Slafkovsky,4773,MON,SEA,W,2025-26,0,2,0,0,1,0,0,4.8,111
 2025-10-14,Joshua Mahura,5508,SEA,MON,D,2025-26,1,1,0,0,1,0,0,11.2,32
@@ -44636,6 +44724,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-11,Justin Hryckowian,5720,DAL,COL,W,2025-26,0,0,0,0,0,0,0,0,100
 2025-10-11,Justin Faulk,5715,STL,CGY,D,2025-26,1,3,0,0,1,0,0,14.4,92
 2025-10-11,Justin Danforth,5515,BUF,BOS,W,2025-26,0,1,0,0,0,0,0,1.6,9
+2025-10-11,Justin Brazeau,6706,PIT,NYR,W,2025-26,0,2,0,0,1,0,0,4.8,63
 2025-10-11,Justin Barron,5751,NSH,UTA,D,2025-26,0,1,0,0,0,0,0,1.6,62
 2025-10-11,Juraj Slafkovsky,4773,MON,CHI,W,2025-26,0,1,0,0,2,0,0,4.8,112
 2025-10-11,Joshua Mahura,5508,SEA,VGK,D,2025-26,0,0,0,0,0,0,0,0,33
@@ -45118,6 +45207,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-09,Justin Hryckowian,5720,DAL,WPG,W,2025-26,0,1,0,0,1,0,0,3.2,101
 2025-10-09,Justin Faulk,5715,STL,MIN,D,2025-26,0,3,0,0,3,0,0,9.6,93
 2025-10-09,Justin Danforth,5515,BUF,NYR,W,2025-26,0,2,0,0,2,0,0,6.4,10
+2025-10-09,Justin Brazeau,6706,PIT,NYI,W,2025-26,0,1,1,0,1,0,0,15.2,64
 2025-10-09,Justin Barron,5751,NSH,CBJ,D,2025-26,0,1,0,0,0,0,0,1.6,63
 2025-10-09,Juraj Slafkovsky,4773,MON,DET,W,2025-26,0,0,1,1,2,0,0,15.7,113
 2025-10-09,Joshua Mahura,5508,SEA,ANH,D,2025-26,0,2,0,0,3,0,0,8,34
@@ -45513,6 +45603,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-07,Martin Necas,5813,COL,LA,W,2025-26,0,1,2,1,3,0,0,30.9,106
 2025-10-07,Mackie Samoskevich,6129,FLA,CHI,W,2025-26,2,0,0,0,0,0,0,16,90
 2025-10-07,Kris Letang,5861,PIT,NYR,D,2025-26,0,1,0,0,1,0,0,3.2,94
+2025-10-07,Justin Brazeau,6706,PIT,NYR,W,2025-26,0,0,2,0,6,0,0,33.6,65
 2025-10-07,Josh Manson,5881,COL,LA,D,2025-26,0,1,0,0,0,0,0,1.6,101
 2025-10-07,Jonah Gadjovich,4982,FLA,CHI,W,2025-26,1,1,0,0,1,0,0,11.2,10
 2025-10-07,Joel Kiviranta,5786,COL,LA,W,2025-26,0,0,0,0,1,0,0,1.6,66
