@@ -1,30 +1,30 @@
-# NASCAR player data - As of 11/1/2026
+# NASCAR player data - As of 11/3/2026
 
 Every NASCAR player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NASCAR_player_data_as_of_2026-11-01.xlsx`](NASCAR_player_data_as_of_2026-11-01.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NASCAR_player_data_as_of_2026-11-03.xlsx`](NASCAR_player_data_as_of_2026-11-03.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | NASCAR: one row per player per season (per-race averages) | 156 |
-| Game Log | NASCAR: one row per player per race | 4,666 |
+| Game Log | NASCAR: one row per player per race | 4,703 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NASCAR | 2026 | 2026-02-04 | 2026-10-25 | 1,323 | 42 |
+| NASCAR | 2026 | 2026-02-04 | 2026-11-01 | 1,360 | 42 |
 | NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,304 | 40 |
 | NASCAR | 2024 | 2024-02-19 | 2024-11-10 | 1,065 | 37 |
 | NASCAR | 2023 | 2023-02-19 | 2023-11-05 | 974 | 37 |
 
 ## CSV files
-- [`NASCAR_players_game_log_2023_as_of_2026-11-01.csv`](csv/NASCAR_players_game_log_2023_as_of_2026-11-01.csv)
-- [`NASCAR_players_game_log_2024_as_of_2026-11-01.csv`](csv/NASCAR_players_game_log_2024_as_of_2026-11-01.csv)
-- [`NASCAR_players_game_log_2025_as_of_2026-11-01.csv`](csv/NASCAR_players_game_log_2025_as_of_2026-11-01.csv)
-- [`NASCAR_players_game_log_2026_as_of_2026-11-01.csv`](csv/NASCAR_players_game_log_2026_as_of_2026-11-01.csv)
-- [`NASCAR_players_summary_as_of_2026-11-01.csv`](csv/NASCAR_players_summary_as_of_2026-11-01.csv)
+- [`NASCAR_players_game_log_2023_as_of_2026-11-03.csv`](csv/NASCAR_players_game_log_2023_as_of_2026-11-03.csv)
+- [`NASCAR_players_game_log_2024_as_of_2026-11-03.csv`](csv/NASCAR_players_game_log_2024_as_of_2026-11-03.csv)
+- [`NASCAR_players_game_log_2025_as_of_2026-11-03.csv`](csv/NASCAR_players_game_log_2025_as_of_2026-11-03.csv)
+- [`NASCAR_players_game_log_2026_as_of_2026-11-03.csv`](csv/NASCAR_players_game_log_2026_as_of_2026-11-03.csv)
+- [`NASCAR_players_summary_as_of_2026-11-03.csv`](csv/NASCAR_players_summary_as_of_2026-11-03.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
