@@ -1,26 +1,26 @@
-# PGA player data - As of 11/3/2026
+# PGA player data - As of 11/4/2026
 
 Every PGA player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`PGA_player_data_as_of_2026-11-03.xlsx`](PGA_player_data_as_of_2026-11-03.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`PGA_player_data_as_of_2026-11-04.xlsx`](PGA_player_data_as_of_2026-11-04.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | PGA: one row per player per season (per-event averages) | 310 |
-| Game Log | PGA: one row per player per event | 6,339 |
+| Game Log | PGA: one row per player per event | 6,340 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| PGA | 2026 | 2026-01-15 | 2026-10-29 | 3,912 | 181 |
+| PGA | 2026 | 2026-01-15 | 2026-10-29 | 3,913 | 181 |
 | PGA | 2025 | 2025-01-02 | 2025-12-11 | 2,427 | 129 |
 
 ## CSV files
-- [`PGA_players_game_log_2025_as_of_2026-11-03.csv`](csv/PGA_players_game_log_2025_as_of_2026-11-03.csv)
-- [`PGA_players_game_log_2026_as_of_2026-11-03.csv`](csv/PGA_players_game_log_2026_as_of_2026-11-03.csv)
-- [`PGA_players_summary_as_of_2026-11-03.csv`](csv/PGA_players_summary_as_of_2026-11-03.csv)
+- [`PGA_players_game_log_2025_as_of_2026-11-04.csv`](csv/PGA_players_game_log_2025_as_of_2026-11-04.csv)
+- [`PGA_players_game_log_2026_as_of_2026-11-04.csv`](csv/PGA_players_game_log_2026_as_of_2026-11-04.csv)
+- [`PGA_players_summary_as_of_2026-11-04.csv`](csv/PGA_players_summary_as_of_2026-11-04.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |

@@ -1,8 +1,8 @@
-# NBA player data - As of 11/3/2026
+# NBA player data - As of 11/4/2026
 
 Every NBA player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NBA_player_data_as_of_2026-11-03.xlsx`](NBA_player_data_as_of_2026-11-03.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NBA_player_data_as_of_2026-11-04.xlsx`](NBA_player_data_as_of_2026-11-04.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
@@ -19,10 +19,10 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
 
 ## CSV files
-- [`NBA_players_game_log_2024-25_as_of_2026-11-03.csv`](csv/NBA_players_game_log_2024-25_as_of_2026-11-03.csv)
-- [`NBA_players_game_log_2025-26_as_of_2026-11-03.csv`](csv/NBA_players_game_log_2025-26_as_of_2026-11-03.csv)
-- [`NBA_players_game_log_2026-27_as_of_2026-11-03.csv`](csv/NBA_players_game_log_2026-27_as_of_2026-11-03.csv)
-- [`NBA_players_summary_as_of_2026-11-03.csv`](csv/NBA_players_summary_as_of_2026-11-03.csv)
+- [`NBA_players_game_log_2024-25_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2024-25_as_of_2026-11-04.csv)
+- [`NBA_players_game_log_2025-26_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2025-26_as_of_2026-11-04.csv)
+- [`NBA_players_game_log_2026-27_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2026-27_as_of_2026-11-04.csv)
+- [`NBA_players_summary_as_of_2026-11-04.csv`](csv/NBA_players_summary_as_of_2026-11-04.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
