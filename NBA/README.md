@@ -1,28 +1,28 @@
-# NBA player data - As of 11/4/2026
+# NBA player data - As of 11/5/2026
 
 Every NBA player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NBA_player_data_as_of_2026-11-04.xlsx`](NBA_player_data_as_of_2026-11-04.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NBA_player_data_as_of_2026-11-05.xlsx`](NBA_player_data_as_of_2026-11-05.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
-| Summary | NBA: one row per player per season (per-game averages) | 1,598 |
-| Game Log | NBA: one row per player per game | 58,866 |
+| Summary | NBA: one row per player per season (per-game averages) | 1,602 |
+| Game Log | NBA: one row per player per game | 59,176 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NBA | 2026-27 | 2026-10-20 | 2026-11-02 | 2,402 | 447 |
+| NBA | 2026-27 | 2026-10-20 | 2026-11-04 | 2,712 | 451 |
 | NBA | 2025-26 | 2025-10-21 | 2026-06-13 | 28,465 | 582 |
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
 
 ## CSV files
-- [`NBA_players_game_log_2024-25_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2024-25_as_of_2026-11-04.csv)
-- [`NBA_players_game_log_2025-26_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2025-26_as_of_2026-11-04.csv)
-- [`NBA_players_game_log_2026-27_as_of_2026-11-04.csv`](csv/NBA_players_game_log_2026-27_as_of_2026-11-04.csv)
-- [`NBA_players_summary_as_of_2026-11-04.csv`](csv/NBA_players_summary_as_of_2026-11-04.csv)
+- [`NBA_players_game_log_2024-25_as_of_2026-11-05.csv`](csv/NBA_players_game_log_2024-25_as_of_2026-11-05.csv)
+- [`NBA_players_game_log_2025-26_as_of_2026-11-05.csv`](csv/NBA_players_game_log_2025-26_as_of_2026-11-05.csv)
+- [`NBA_players_game_log_2026-27_as_of_2026-11-05.csv`](csv/NBA_players_game_log_2026-27_as_of_2026-11-05.csv)
+- [`NBA_players_summary_as_of_2026-11-05.csv`](csv/NBA_players_summary_as_of_2026-11-05.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
