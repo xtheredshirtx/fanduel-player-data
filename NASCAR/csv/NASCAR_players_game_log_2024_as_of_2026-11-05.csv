@@ -14,6 +14,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-11-10,Josh Berry,22,Stewart-Haas Racing,,D,2024,311,0,15,24,55.6,77
 2024-11-10,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,310,0,-12,30,36,75
 2024-11-10,Joey Logano,2,Team Penske,,D,2024,312,107,1,1,85.4,77
+2024-11-10,J.J. Yeley,6756,NY Racing Team,,D,2024,306,0,2,35,37.6,16
 2024-11-10,Erik Jones,23,Legacy Motor Club,,D,2024,311,0,-3,22,48.6,75
 2024-11-10,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,312,0,3,11,62.7,76
 2024-11-10,Daniel Suarez,28,Trackhouse Racing,,D,2024,312,0,24,10,74.2,77
@@ -21,6 +22,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-11-10,Chris Buescher,13,RFK Racing,,D,2024,312,0,15,9,70.7,76
 2024-11-10,Chase Elliott,6,Hendrick Motorsports,,D,2024,312,7,-3,8,63.4,76
 2024-11-10,Chase Briscoe,11,Stewart-Haas Racing,,D,2024,310,0,-17,29,34.5,77
+2024-11-10,Chad Finchum,6757,Power Source,,D,2024,302,0,2,36,36.2,12
 2024-11-10,Carson Hocevar,7,Spire Motorsports,,D,2024,312,0,-3,18,52.7,78
 2024-11-10,Bubba Wallace,10,23XI Racing,,D,2024,312,0,22,7,76.2,77
 2024-11-10,Brad Keselowski,12,RFK Racing,,D,2024,312,0,12,15,63.2,76
@@ -72,6 +74,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-10-27,Josh Berry,22,Stewart-Haas Racing,,D,2024,267,0,1,11,57.2,79
 2024-10-27,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,267,0,3,26,43.2,77
 2024-10-27,Joey Logano,2,Team Penske,,D,2024,267,0,-2,28,38.7,79
+2024-10-27,J.J. Yeley,6756,NY Racing Team,,D,2024,223,0,-1,38,24.8,17
 2024-10-27,Erik Jones,23,Legacy Motor Club,,D,2024,267,0,6,22,48.7,77
 2024-10-27,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,267,21,1,3,67.3,78
 2024-10-27,Daniel Suarez,28,Trackhouse Racing,,D,2024,267,0,7,16,55.2,79
@@ -79,6 +82,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-10-27,Chris Buescher,13,RFK Racing,,D,2024,267,0,6,15,55.7,78
 2024-10-27,Chase Elliott,6,Hendrick Motorsports,,D,2024,267,81,2,5,71.8,78
 2024-10-27,Chase Briscoe,11,Stewart-Haas Racing,,D,2024,267,0,1,12,56.2,79
+2024-10-27,Chad Finchum,6757,Power Source,,D,2024,258,0,1,37,30.3,13
 2024-10-27,Carson Hocevar,7,Spire Motorsports,,D,2024,267,0,6,9,61.7,80
 2024-10-27,Bubba Wallace,10,23XI Racing,,D,2024,267,2,-10,18,44.9,79
 2024-10-27,Brad Keselowski,12,RFK Racing,,D,2024,267,8,1,17,52,78
@@ -163,6 +167,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-10-06,Josh Berry,22,Stewart-Haas Racing,,D,2024,183,0,-17,36,14.8,82
 2024-10-06,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,188,0,-2,31,27.8,80
 2024-10-06,Joey Logano,2,Team Penske,,D,2024,183,19,-27,33,14.7,82
+2024-10-06,J.J. Yeley,6756,NY Racing Team,,D,2024,193,0,13,27,39.8,18
 2024-10-06,Erik Jones,23,Legacy Motor Club,,D,2024,195,0,25,5,68,80
 2024-10-06,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,195,0,-2,10,49.5,81
 2024-10-06,Daniel Suarez,28,Trackhouse Racing,,D,2024,194,0,5,26,36.9,82
@@ -194,6 +199,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-09-29,Josh Berry,22,Stewart-Haas Racing,,D,2024,0,0,-9,38,-1.5,83
 2024-09-29,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,267,0,1,30,38.2,81
 2024-09-29,Joey Logano,2,Team Penske,,D,2024,267,3,-9,14,49.5,83
+2024-09-29,J.J. Yeley,6756,NY Racing Team,,D,2024,118,1,-1,37,15.4,19
 2024-09-29,Erik Jones,23,Legacy Motor Club,,D,2024,263,0,-19,35,22.8,81
 2024-09-29,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,267,1,0,8,59.8,82
 2024-09-29,Daniel Suarez,28,Trackhouse Racing,,D,2024,267,0,-3,13,53.2,83
@@ -283,6 +289,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-09-08,Josh Berry,22,Stewart-Haas Racing,,D,2024,266,0,-24,28,27.6,86
 2024-09-08,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,262,0,2,33,35.2,84
 2024-09-08,Joey Logano,2,Team Penske,,D,2024,266,9,6,1,73.5,86
+2024-09-08,J.J. Yeley,6756,NY Racing Team,,D,2024,266,0,14,23,51.6,20
 2024-09-08,Erik Jones,23,Legacy Motor Club,,D,2024,266,0,7,26,45.1,84
 2024-09-08,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,266,0,14,24,50.6,85
 2024-09-08,Daniel Suarez,28,Trackhouse Racing,,D,2024,266,9,28,2,81.5,86
@@ -464,6 +471,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-07-14,Josh Berry,22,Stewart-Haas Racing,,D,2024,160,8,-15,20,30.3,92
 2024-07-14,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,126,0,4,28,27.6,90
 2024-07-14,Joey Logano,2,Team Penske,,D,2024,160,3,5,5,54.8,92
+2024-07-14,J.J. Yeley,6756,NY Racing Team,,D,2024,112,0,2,35,18.2,21
 2024-07-14,Erik Jones,23,Legacy Motor Club,,D,2024,160,0,9,14,47.5,90
 2024-07-14,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,160,31,2,2,60.1,91
 2024-07-14,Daniel Suarez,28,Trackhouse Racing,,D,2024,160,0,0,16,41,92
@@ -535,6 +543,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-06-30,Chris Buescher,13,RFK Racing,,D,2024,331,0,4,5,71.1,93
 2024-06-30,Chase Elliott,6,Hendrick Motorsports,,D,2024,331,0,-5,18,53.6,93
 2024-06-30,Chase Briscoe,11,Stewart-Haas Racing,,D,2024,331,0,-2,21,52.1,94
+2024-06-30,Chad Finchum,6757,Power Source,,D,2024,132,0,0,38,16.2,14
 2024-06-30,Carson Hocevar,7,Spire Motorsports,,D,2024,331,0,-1,16,57.6,95
 2024-06-30,Bubba Wallace,10,23XI Racing,,D,2024,331,0,17,7,75.6,94
 2024-06-30,Brad Keselowski,12,RFK Racing,,D,2024,330,0,-20,25,39,93
@@ -674,6 +683,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-05-26,Josh Berry,22,Stewart-Haas Racing,,D,2024,249,7,3,10,58.1,99
 2024-05-26,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,249,0,-4,30,33.9,97
 2024-05-26,Joey Logano,2,Team Penske,,D,2024,249,0,14,14,58.9,99
+2024-05-26,J.J. Yeley,6756,NY Racing Team,,D,2024,114,0,0,40,12.4,22
 2024-05-26,Erik Jones,23,Legacy Motor Club,,D,2024,249,0,15,19,54.4,97
 2024-05-26,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,249,0,6,5,63.9,98
 2024-05-26,Daniel Suarez,28,Trackhouse Racing,,D,2024,249,0,-10,24,36.9,99
@@ -993,6 +1003,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2024-03-03,Josh Berry,22,Stewart-Haas Racing,,D,2024,267,0,6,20,50.7,110
 2024-03-03,John Hunter Nemechek,30,Legacy Motor Club,,D,2024,267,0,5,22,48.2,108
 2024-03-03,Joey Logano,2,Team Penske,,D,2024,267,2,-8,9,54.9,110
+2024-03-03,J.J. Yeley,6756,NY Racing Team,,D,2024,261,0,3,34,34.6,23
 2024-03-03,Erik Jones,23,Legacy Motor Club,,D,2024,267,0,8,14,57.7,106
 2024-03-03,Denny Hamlin,8,Joe Gibbs Racing,,D,2024,267,16,20,8,71.3,109
 2024-03-03,Daniel Suarez,28,Trackhouse Racing,,D,2024,267,15,5,11,60.7,110

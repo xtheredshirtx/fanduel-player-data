@@ -8,16 +8,16 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
-| Summary | NASCAR: one row per player per season (per-race averages) | 156 |
-| Game Log | NASCAR: one row per player per race | 4,703 |
+| Summary | NASCAR: one row per player per season (per-race averages) | 163 |
+| Game Log | NASCAR: one row per player per race | 4,766 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NASCAR | 2026 | 2026-02-04 | 2026-11-01 | 1,360 | 42 |
-| NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,304 | 40 |
-| NASCAR | 2024 | 2024-02-19 | 2024-11-10 | 1,065 | 37 |
-| NASCAR | 2023 | 2023-02-19 | 2023-11-05 | 974 | 37 |
+| NASCAR | 2026 | 2026-02-04 | 2026-11-01 | 1,371 | 44 |
+| NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,319 | 42 |
+| NASCAR | 2024 | 2024-02-19 | 2024-11-10 | 1,076 | 39 |
+| NASCAR | 2023 | 2023-02-19 | 2023-11-05 | 1,000 | 38 |
 
 ## CSV files
 - [`NASCAR_players_game_log_2023_as_of_2026-11-05.csv`](csv/NASCAR_players_game_log_2023_as_of_2026-11-05.csv)

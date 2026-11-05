@@ -9,12 +9,12 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | NBA: one row per player per season (per-game averages) | 1,602 |
-| Game Log | NBA: one row per player per game | 59,176 |
+| Game Log | NBA: one row per player per game | 59,180 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NBA | 2026-27 | 2026-10-20 | 2026-11-04 | 2,712 | 451 |
+| NBA | 2026-27 | 2026-10-20 | 2026-11-04 | 2,716 | 451 |
 | NBA | 2025-26 | 2025-10-21 | 2026-06-13 | 28,465 | 582 |
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
 

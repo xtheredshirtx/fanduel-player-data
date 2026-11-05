@@ -325,6 +325,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-09-06,Chris Buescher,13,RFK Racing,,D,2026,367,0,15,20,65.2,9
 2026-09-06,Chase Elliott,6,Hendrick Motorsports,,D,2026,367,1,4,14,65.8,9
 2026-09-06,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,367,30,1,6,75.2,9
+2026-09-06,Chad Finchum,6757,Garage 66,,D,2026,243,0,0,38,27.3,1
 2026-09-06,Carson Hocevar,7,Spire Motorsports,,D,2026,367,2,23,11,78.4,9
 2026-09-06,Bubba Wallace,10,23XI Racing,,D,2026,367,38,9,8,78,9
 2026-09-06,Brad Keselowski,12,RFK Racing,,D,2026,367,0,-11,23,49.2,9
@@ -548,6 +549,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-07-19,Chris Buescher,13,RFK Racing,,D,2026,447,0,-11,20,60.2,15
 2026-07-19,Chase Elliott,6,Hendrick Motorsports,,D,2026,447,0,-7,17,65.2,15
 2026-07-19,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,450,5,27,3,97,15
+2026-07-19,Chad Finchum,6757,Garage 66,,D,2026,303,0,2,35,37.3,2
 2026-07-19,Carson Hocevar,7,Spire Motorsports,,D,2026,448,0,-9,13,68.3,15
 2026-07-19,Bubba Wallace,10,23XI Racing,,D,2026,450,8,20,6,90.8,15
 2026-07-19,Brad Keselowski,12,RFK Racing,,D,2026,449,7,16,7,87.6,15
@@ -584,6 +586,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-07-12,Chris Buescher,13,RFK Racing,,D,2026,263,0,3,10,58.8,16
 2026-07-12,Chase Elliott,6,Hendrick Motorsports,,D,2026,263,5,-6,13,51.8,16
 2026-07-12,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,254,0,-16,36,22.4,16
+2026-07-12,Chad Finchum,6757,Garage 66,,D,2026,259,0,5,33,36.4,3
 2026-07-12,Carson Hocevar,7,Spire Motorsports,,D,2026,263,25,11,3,72.3,16
 2026-07-12,Bubba Wallace,10,23XI Racing,,D,2026,263,11,-7,29,35.9,16
 2026-07-12,Brad Keselowski,12,RFK Racing,,D,2026,263,0,-16,26,33.3,16
@@ -610,6 +613,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-07-05,Josh Berry,22,Wood Brothers Racing,,D,2026,265,0,1,33,35,17
 2026-07-05,John Hunter Nemechek,30,Legacy Motor Club,,D,2026,266,0,-6,23,41.6,17
 2026-07-05,Joey Logano,2,Team Penske,,D,2026,267,1,19,12,65.3,17
+2026-07-05,J.J. Yeley,6756,NY Racing Team,,D,2026,256,2,1,35,32.3,1
 2026-07-05,Erik Jones,23,Legacy Motor Club,,D,2026,267,0,7,15,56.2,17
 2026-07-05,Denny Hamlin,8,Joe Gibbs Racing,,D,2026,267,30,-2,3,66.7,17
 2026-07-05,Daniel Suarez,28,Spire Motorsports,,D,2026,267,0,12,14,59.7,17
@@ -758,6 +762,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-06-07,Josh Berry,22,Wood Brothers Racing,,D,2026,200,0,22,15,57,21
 2026-06-07,John Hunter Nemechek,30,Legacy Motor Club,,D,2026,200,0,3,14,48.5,21
 2026-06-07,Joey Logano,2,Team Penske,,D,2026,200,0,11,7,59.5,21
+2026-06-07,J.J. Yeley,6756,NY Racing Team,,D,2026,199,2,15,21,47.6,2
 2026-06-07,Erik Jones,23,Legacy Motor Club,,D,2026,200,0,8,2,64,21
 2026-06-07,Denny Hamlin,8,Joe Gibbs Racing,,D,2026,200,40,0,1,67,21
 2026-06-07,Daniel Suarez,28,Spire Motorsports,,D,2026,200,10,5,6,58.5,21
@@ -805,6 +810,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-05-31,Chris Buescher,13,RFK Racing,,D,2026,286,0,-7,29,37.1,22
 2026-05-31,Chase Elliott,6,Hendrick Motorsports,,D,2026,300,3,22,7,75.3,22
 2026-05-31,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,300,14,28,3,83.4,22
+2026-05-31,Chad Finchum,6757,Garage 66,,D,2026,289,0,9,28,46.4,4
 2026-05-31,Carson Hocevar,7,Spire Motorsports,,D,2026,300,0,7,10,64.5,22
 2026-05-31,Bubba Wallace,10,23XI Racing,,D,2026,203,0,-14,32,22.3,22
 2026-05-31,Brad Keselowski,12,RFK Racing,,D,2026,192,0,-22,34,15.2,22
@@ -940,6 +946,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-05-03,Chris Buescher,13,RFK Racing,,D,2026,267,0,-2,5,61.7,25
 2026-05-03,Chase Elliott,6,Hendrick Motorsports,,D,2026,267,87,13,1,84.9,25
 2026-05-03,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,266,4,-18,23,36,26
+2026-05-03,Chad Finchum,6757,Garage 66,,D,2026,223,0,3,33,31.8,5
 2026-05-03,Carson Hocevar,7,Spire Motorsports,,D,2026,267,40,-6,7,61.7,26
 2026-05-03,Bubba Wallace,10,23XI Racing,,D,2026,267,0,28,9,72.7,26
 2026-05-03,Brad Keselowski,12,RFK Racing,,D,2026,267,4,12,13,61.1,26
@@ -977,6 +984,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-04-26,Chris Buescher,13,RFK Racing,,D,2026,188,22,8,2,65,26
 2026-04-26,Chase Elliott,6,Hendrick Motorsports,,D,2026,188,0,4,4,57.8,26
 2026-04-26,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,180,3,-24,29,18.3,27
+2026-04-26,Chad Finchum,6757,Garage 66,,D,2026,182,8,10,28,37,6
 2026-04-26,Carson Hocevar,7,Spire Motorsports,,D,2026,188,19,11,1,69.2,27
 2026-04-26,Bubba Wallace,10,23XI Racing,,D,2026,114,3,-32,36,0.7,27
 2026-04-26,Brad Keselowski,12,RFK Racing,,D,2026,166,0,-25,31,14.1,27
@@ -1048,6 +1056,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-04-12,Chris Buescher,13,RFK Racing,,D,2026,505,0,-6,13,75.5,28
 2026-04-12,Chase Elliott,6,Hendrick Motorsports,,D,2026,504,6,-4,22,68,28
 2026-04-12,Chase Briscoe,11,Joe Gibbs Racing,,D,2026,505,0,-2,5,85.5,29
+2026-04-12,Chad Finchum,6757,Garage 66,,D,2026,241,0,1,36,29.6,7
 2026-04-12,Carson Hocevar,7,Spire Motorsports,,D,2026,505,0,0,10,81.5,29
 2026-04-12,Bubba Wallace,10,23XI Racing,,D,2026,505,0,1,11,81,29
 2026-04-12,Brad Keselowski,12,RFK Racing,,D,2026,505,0,7,14,81,29
@@ -1246,6 +1255,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-02-22,Josh Berry,22,Wood Brothers Racing,,D,2026,81,0,-28,38,-2.9,35
 2026-02-22,John Hunter Nemechek,30,Legacy Motor Club,,D,2026,271,0,5,19,51.6,34
 2026-02-22,Joey Logano,2,Team Penske,,D,2026,271,26,-16,18,44.7,35
+2026-02-22,J.J. Yeley,6756,NY Racing Team,,D,2026,220,0,7,31,35.5,3
 2026-02-22,Erik Jones,23,Legacy Motor Club,,D,2026,269,0,-1,24,43.4,35
 2026-02-22,Denny Hamlin,8,Joe Gibbs Racing,,D,2026,271,10,16,13,64.1,35
 2026-02-22,Daniel Suarez,28,Spire Motorsports,,D,2026,271,0,7,5,66.6,35
@@ -1318,6 +1328,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Laps Completed,Laps Led,Place Differential,Fi
 2026-02-12,Josh Berry,22,Wood Brothers Racing,,D,2026,60,0,7,6,44.5,37
 2026-02-12,John Hunter Nemechek,30,Legacy Motor Club,,D,2026,63,3,4,5,44.6,36
 2026-02-12,Joey Logano,2,Team Penske,,D,2026,63,15,5,1,53.3,37
+2026-02-12,J.J. Yeley,6756,NY Racing Team,,D,2026,57,0,1,21,26.2,4
 2026-02-12,Erik Jones,23,Legacy Motor Club,,D,2026,60,0,1,11,36.5,37
 2026-02-12,Denny Hamlin,8,Joe Gibbs Racing,,D,2026,60,0,-8,10,33,37
 2026-02-12,Daniel Suarez,28,Spire Motorsports,,D,2026,63,0,13,7,46.8,37
