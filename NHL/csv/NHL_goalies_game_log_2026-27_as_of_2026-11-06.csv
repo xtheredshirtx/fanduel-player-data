@@ -4,8 +4,10 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-11-05,Sebastian Cossa,5282,UTA,MON,G,2026-27,5,0,30,0,4,1
 2026-11-05,Michael DiPietro,4742,BOS,PIT,G,2026-27,2,0,16,1,16.8,1
 2026-11-05,Matt Tomkins,4783,EDM,ANH,G,2026-27,5,0,16,0,-7.2,1
+2026-11-05,Mackenzie Blackwood,5810,COL,NSH,G,2026-27,3,0,22,0,5.6,1
 2026-11-05,Leevi Meriläinen,5311,VAN,WPG,G,2026-27,6,0,23,0,-5.6,1
 2026-11-05,Laurent Brossoit,6705,ANH,EDM,G,2026-27,4,0,23,1,14.4,1
+2026-11-05,Justus Annunen,5302,NSH,COL,G,2026-27,2,0,30,1,28,1
 2026-11-05,Joseph Woll,5307,PHI,NYR,G,2026-27,3,0,25,0,8,1
 2026-11-05,Jordan Binnington,5690,STL,NJ,G,2026-27,5,0,31,0,4.8,1
 2026-11-05,Jakub Dobes,4750,MON,UTA,G,2026-27,4,0,16,1,8.8,1
@@ -33,7 +35,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-11-03,Sebastian Cossa,5282,UTA,TOR,G,2026-27,2,0,27,1,25.6,2
 2026-11-03,Scott Wedgewood,5811,COL,CBJ,G,2026-27,4,0,5,0,-12,1
 2026-11-03,Pyotr Kochetkov,4738,CAR,NSH,G,2026-27,3,0,16,0,0.8,1
-2026-11-03,Mackenzie Blackwood,5810,COL,CBJ,G,2026-27,3,0,12,0,-2.4,1
+2026-11-03,Mackenzie Blackwood,5810,COL,CBJ,G,2026-27,3,0,12,0,-2.4,2
 2026-11-03,Logan Thompson,5680,WSH,DAL,G,2026-27,4,0,7,0,-10.4,1
 2026-11-03,Laurent Brossoit,6705,ANH,VAN,G,2026-27,4,0,19,1,11.2,2
 2026-11-03,Kevin Lankinen,4771,VAN,ANH,G,2026-27,5,0,17,0,-6.4,1
@@ -54,7 +56,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-11-03,Adin Hill,4733,VGK,PIT,G,2026-27,2,0,23,1,22.4,1
 2026-11-02,Yaroslav Askarov,5312,SJ,CGY,G,2026-27,2,0,20,0,8,2
 2026-11-02,Spencer Knight,4766,CHI,COL,G,2026-27,4,0,24,0,3.2,2
-2026-11-02,Mackenzie Blackwood,5810,COL,CHI,G,2026-27,2,0,21,1,20.8,2
+2026-11-02,Mackenzie Blackwood,5810,COL,CHI,G,2026-27,2,0,21,1,20.8,3
 2026-11-02,Jeremy Swayman,4743,BOS,VGK,G,2026-27,2,0,21,1,20.8,1
 2026-11-02,Jacob Markstrom,4761,FLA,DET,G,2026-27,4,0,24,0,3.2,2
 2026-11-02,Dustin Wolf,5300,CGY,SJ,G,2026-27,1,0,26,1,28.8,2
@@ -76,9 +78,9 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-31,Sergei Murashov,5819,PIT,MON,G,2026-27,5,0,22,0,-2.4,1
 2026-10-31,Samuel Ersson,5816,OTT,SJ,G,2026-27,1,0,22,1,25.6,2
 2026-10-31,Michael DiPietro,4742,BOS,CHI,G,2026-27,4,0,37,1,25.6,2
-2026-10-31,Mackenzie Blackwood,5810,COL,CGY,G,2026-27,2,0,25,1,24,3
+2026-10-31,Mackenzie Blackwood,5810,COL,CGY,G,2026-27,2,0,25,1,24,4
 2026-10-31,Leevi Meriläinen,5311,VAN,TOR,G,2026-27,3,0,24,0,7.2,2
-2026-10-31,Justus Annunen,5302,NSH,TB,G,2026-27,4,0,22,1,13.6,1
+2026-10-31,Justus Annunen,5302,NSH,TB,G,2026-27,4,0,22,1,13.6,2
 2026-10-31,John Gibson,5674,DET,STL,G,2026-27,5,0,10,0,-12,2
 2026-10-31,Joel Hofer,5689,STL,DET,G,2026-27,4,0,24,1,15.2,2
 2026-10-31,Jet Greaves,5299,CBJ,DAL,G,2026-27,2,0,14,0,3.2,1
@@ -125,7 +127,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-28,Tristan Jarry,4732,EDM,CGY,G,2026-27,0,1,24,1,39.2,3
 2026-10-28,Sergei Bobrovsky,4748,TOR,SEA,G,2026-27,5,0,12,0,-10.4,2
 2026-10-28,Philipp Grubauer,5297,SEA,TOR,G,2026-27,4,0,17,1,9.6,2
-2026-10-28,Mackenzie Blackwood,5810,COL,NJ,G,2026-27,2,0,20,1,20,4
+2026-10-28,Mackenzie Blackwood,5810,COL,NJ,G,2026-27,2,0,20,1,20,5
 2026-10-28,Logan Thompson,5680,WSH,PHI,G,2026-27,2,0,23,1,22.4,3
 2026-10-28,Joseph Woll,5307,PHI,WSH,G,2026-27,4,0,25,0,4,2
 2026-10-28,Jake Allen,5290,NJ,COL,G,2026-27,5,0,39,0,11.2,1
@@ -164,7 +166,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-25,Spencer Knight,4766,CHI,FLA,G,2026-27,3,0,30,0,12,5
 2026-10-25,Scott Wedgewood,5811,COL,NSH,G,2026-27,6,0,29,0,-0.8,2
 2026-10-25,Leevi Meriläinen,5311,VAN,MIN,G,2026-27,4,0,30,0,8,5
-2026-10-25,Justus Annunen,5302,NSH,COL,G,2026-27,2,0,19,1,19.2,2
+2026-10-25,Justus Annunen,5302,NSH,COL,G,2026-27,2,0,19,1,19.2,3
 2026-10-25,Jake Oettinger,5676,DAL,NYI,G,2026-27,3,0,17,1,13.6,4
 2026-10-25,Jacob Fowler,4752,MON,WPG,G,2026-27,1,0,33,1,34.4,4
 2026-10-25,Ilya Sorokin,5820,NYI,DAL,G,2026-27,6,0,32,0,1.6,3
@@ -195,7 +197,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-24,Anthony Stolarz,4746,TOR,EDM,G,2026-27,2,0,30,1,28,2
 2026-10-24,Alex Nedeljkovic,5314,SJ,BOS,G,2026-27,5,0,29,0,3.2,2
 2026-10-23,Spencer Knight,4766,CHI,MON,G,2026-27,3,0,24,0,7.2,6
-2026-10-23,Mackenzie Blackwood,5810,COL,TB,G,2026-27,3,0,31,1,24.8,5
+2026-10-23,Mackenzie Blackwood,5810,COL,TB,G,2026-27,3,0,31,1,24.8,6
 2026-10-23,Jacob Fowler,4752,MON,CHI,G,2026-27,1,0,20,1,24,5
 2026-10-23,Andrei Vasilevskiy,5277,TB,COL,G,2026-27,5,0,18,0,-5.6,5
 2026-10-22,Yaroslav Askarov,5312,SJ,OTT,G,2026-27,2,0,41,1,36.8,5
@@ -210,7 +212,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-22,Michael DiPietro,4742,BOS,NSH,G,2026-27,0,1,28,1,42.4,3
 2026-10-22,Kevin Lankinen,4771,VAN,DET,G,2026-27,5,0,26,0,0.8,2
 2026-10-22,Karel Vejmelka,5284,UTA,SEA,G,2026-27,4,0,18,0,-1.6,4
-2026-10-22,Justus Annunen,5302,NSH,BOS,G,2026-27,6,0,25,0,-4,3
+2026-10-22,Justus Annunen,5302,NSH,BOS,G,2026-27,6,0,25,0,-4,4
 2026-10-22,John Gibson,5674,DET,VAN,G,2026-27,1,0,4,0,-0.8,5
 2026-10-22,Joel Hofer,5689,STL,VGK,G,2026-27,2,0,27,1,25.6,5
 2026-10-22,Jesper Wallstedt,5279,MIN,CGY,G,2026-27,2,0,20,0,8,6
@@ -255,7 +257,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-19,Ville Husso,5685,ANH,NYR,G,2026-27,5,0,25,0,0,3
 2026-10-19,Sergei Bobrovsky,4748,TOR,SJ,G,2026-27,1,0,30,1,32,5
 2026-10-19,Sebastian Cossa,5282,UTA,PIT,G,2026-27,4,0,15,1,8,4
-2026-10-19,Mackenzie Blackwood,5810,COL,PHI,G,2026-27,3,0,21,0,4.8,6
+2026-10-19,Mackenzie Blackwood,5810,COL,PHI,G,2026-27,3,0,21,0,4.8,7
 2026-10-19,Joseph Woll,5307,PHI,COL,G,2026-27,2,0,24,1,23.2,4
 2026-10-19,Dylan Garand,4754,NYR,ANH,G,2026-27,2,0,29,1,27.2,7
 2026-10-19,Arturs Silovs,5817,PIT,UTA,G,2026-27,5,0,24,0,-0.8,6
@@ -293,7 +295,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-17,Alex Nedeljkovic,5314,SJ,DET,G,2026-27,3,0,24,0,7.2,4
 2026-10-17,Adin Hill,4733,VGK,PIT,G,2026-27,2,0,22,1,21.6,5
 2026-10-16,Michael DiPietro,4742,BOS,ANH,G,2026-27,2,0,26,1,24.8,4
-2026-10-16,Mackenzie Blackwood,5810,COL,PIT,G,2026-27,2,0,30,1,28,7
+2026-10-16,Mackenzie Blackwood,5810,COL,PIT,G,2026-27,2,0,30,1,28,8
 2026-10-16,Lukas Dostal,5684,ANH,BOS,G,2026-27,4,0,18,0,-1.6,4
 2026-10-16,Arturs Silovs,5817,PIT,COL,G,2026-27,5,0,27,0,1.6,7
 2026-10-15,Ukko-Pekka Luukkonen,5293,BUF,TOR,G,2026-27,4,0,26,1,16.8,5
@@ -331,7 +333,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-13,Samuel Ersson,5816,OTT,STL,G,2026-27,7,0,19,0,-12.8,6
 2026-10-13,Pyotr Kochetkov,4738,CAR,WSH,G,2026-27,2,0,20,1,20,8
 2026-10-13,Philipp Grubauer,5297,SEA,PHI,G,2026-27,2,0,24,1,23.2,6
-2026-10-13,Mackenzie Blackwood,5810,COL,DAL,G,2026-27,2,0,24,1,23.2,8
+2026-10-13,Mackenzie Blackwood,5810,COL,DAL,G,2026-27,2,0,24,1,23.2,9
 2026-10-13,Lukas Dostal,5684,ANH,CGY,G,2026-27,3,0,32,0,13.6,5
 2026-10-13,Logan Thompson,5680,WSH,CAR,G,2026-27,3,0,31,0,12.8,6
 2026-10-13,Leevi Meriläinen,5311,VAN,NYI,G,2026-27,3,0,35,0,16,8
@@ -377,7 +379,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-10,Spencer Knight,4766,CHI,CAR,G,2026-27,5,0,34,0,7.2,10
 2026-10-10,Sergei Bobrovsky,4748,TOR,COL,G,2026-27,3,0,30,1,24,8
 2026-10-10,Matt Murray,6325,NSH,OTT,G,2026-27,2,0,18,0,6.4,1
-2026-10-10,Mackenzie Blackwood,5810,COL,TOR,G,2026-27,5,0,17,0,-6.4,9
+2026-10-10,Mackenzie Blackwood,5810,COL,TOR,G,2026-27,5,0,17,0,-6.4,10
 2026-10-10,Linus Ullmark,5815,OTT,NSH,G,2026-27,2,0,16,1,16.8,5
 2026-10-10,Leevi Meriläinen,5311,VAN,NJ,G,2026-27,3,0,31,0,12.8,9
 2026-10-10,Kevin Lankinen,4771,VAN,NJ,G,2026-27,1,0,2,0,-2.4,5
@@ -434,7 +436,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-08,Adin Hill,4733,VGK,TOR,G,2026-27,3,0,21,1,16.8,7
 2026-10-07,Ville Husso,5685,ANH,EDM,G,2026-27,0,0,2,0,1.6,5
 2026-10-07,Stuart Skinner,5688,WPG,COL,G,2026-27,2,0,32,1,29.6,10
-2026-10-07,Mackenzie Blackwood,5810,COL,WPG,G,2026-27,3,0,16,0,0.8,10
+2026-10-07,Mackenzie Blackwood,5810,COL,WPG,G,2026-27,3,0,16,0,0.8,11
 2026-10-07,Lukas Dostal,5684,ANH,EDM,G,2026-27,5,0,12,0,-10.4,7
 2026-10-07,Logan Thompson,5680,WSH,PIT,G,2026-27,3,0,27,1,21.6,9
 2026-10-07,Devon Levi,4729,EDM,ANH,G,2026-27,2,0,29,1,27.2,5
@@ -486,7 +488,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-03,Philipp Grubauer,5297,SEA,EDM,G,2026-27,2,0,23,0,10.4,9
 2026-10-03,Nico Daws,5289,NJ,NYI,G,2026-27,6,0,26,0,-3.2,6
 2026-10-03,Michael DiPietro,4742,BOS,MIN,G,2026-27,3,0,26,0,8.8,5
-2026-10-03,Mackenzie Blackwood,5810,COL,STL,G,2026-27,1,0,25,1,28,11
+2026-10-03,Mackenzie Blackwood,5810,COL,STL,G,2026-27,1,0,25,1,28,12
 2026-10-03,Linus Ullmark,5815,OTT,TOR,G,2026-27,2,0,27,1,25.6,8
 2026-10-03,Leevi Meriläinen,5311,VAN,CGY,G,2026-27,1,0,23,1,26.4,11
 2026-10-03,Juuse Saros,5304,NSH,DAL,G,2026-27,1,0,29,1,31.2,10
@@ -530,7 +532,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-10-01,Arvid Soderblom,4768,CHI,UTA,G,2026-27,6,0,26,0,-3.2,4
 2026-10-01,Andrei Vasilevskiy,5277,TB,NYR,G,2026-27,4,0,20,0,0,12
 2026-10-01,Akira Schmid,4760,FLA,SJ,G,2026-27,4,0,28,0,6.4,8
-2026-09-30,Mackenzie Blackwood,5810,COL,LA,G,2026-27,4,0,27,1,17.6,12
+2026-09-30,Mackenzie Blackwood,5810,COL,LA,G,2026-27,4,0,27,1,17.6,13
 2026-09-30,Ilya Sorokin,5820,NYI,TOR,G,2026-27,2,0,24,0,11.2,10
 2026-09-30,Darcy Kuemper,5814,LA,COL,G,2026-27,8,0,21,0,-15.2,9
 2026-09-30,Dan Vladar,5305,PHI,PIT,G,2026-27,7,0,31,0,-3.2,9

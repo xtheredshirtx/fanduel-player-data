@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 11/6/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 269,734 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 269,803 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -25,28 +25,28 @@ in this repository's commit history.
 
 | Sport | Players | Player-games | Workbook |
 |---|---|---|---|
-| [NBA](NBA/) | 741 | 59,226 | [NBA_player_data_as_of_2026-11-06.xlsx](NBA/NBA_player_data_as_of_2026-11-06.xlsx) |
-| [NHL](NHL/) | 874 | 58,278 | [NHL_player_data_as_of_2026-11-06.xlsx](NHL/NHL_player_data_as_of_2026-11-06.xlsx) |
-| [NFL](NFL/) | 674 | 8,195 | [NFL_player_data_as_of_2026-11-06.xlsx](NFL/NFL_player_data_as_of_2026-11-06.xlsx) |
+| [NBA](NBA/) | 741 | 59,232 | [NBA_player_data_as_of_2026-11-06.xlsx](NBA/NBA_player_data_as_of_2026-11-06.xlsx) |
+| [NHL](NHL/) | 874 | 58,315 | [NHL_player_data_as_of_2026-11-06.xlsx](NHL/NHL_player_data_as_of_2026-11-06.xlsx) |
+| [NFL](NFL/) | 675 | 8,200 | [NFL_player_data_as_of_2026-11-06.xlsx](NFL/NFL_player_data_as_of_2026-11-06.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,517 | [MLB_player_data_as_of_2026-11-06.xlsx](MLB/MLB_player_data_as_of_2026-11-06.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,410 | [WNBA_player_data_as_of_2026-11-06.xlsx](WNBA/WNBA_player_data_as_of_2026-11-06.xlsx) |
-| [PGA](PGA/) | 183 | 6,342 | [PGA_player_data_as_of_2026-11-06.xlsx](PGA/PGA_player_data_as_of_2026-11-06.xlsx) |
+| [PGA](PGA/) | 183 | 6,363 | [PGA_player_data_as_of_2026-11-06.xlsx](PGA/PGA_player_data_as_of_2026-11-06.xlsx) |
 | [NASCAR](NASCAR/) | 44 | 4,766 | [NASCAR_player_data_as_of_2026-11-06.xlsx](NASCAR/NASCAR_player_data_as_of_2026-11-06.xlsx) |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NBA | 2026-27 | 2026-10-20 | 2026-11-05 | 2,762 | 451 |
+| NBA | 2026-27 | 2026-10-20 | 2026-11-05 | 2,768 | 451 |
 | NBA | 2025-26 | 2025-10-21 | 2026-06-13 | 28,465 | 582 |
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
-| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-05 | 9,212 | 725 |
+| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-05 | 9,247 | 725 |
 | NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 45,680 | 746 |
 | NHL Skaters | 2024-25 | 2024-10-15 | 2025-06-18 | 168 | 12 |
-| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-05 | 547 | 74 |
+| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-05 | 549 | 74 |
 | NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,661 | 77 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
 | NFL Offense | 2026 | 2026-09-10 | 2026-11-06 | 2,178 | 485 |
-| NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,748 | 525 |
+| NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,753 | 526 |
 | NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-06 | 244 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
 | NFL Kickers | 2026 | 2026-09-10 | 2026-11-06 | 174 | 24 |
@@ -57,7 +57,7 @@ in this repository's commit history.
 | MLB Pitchers | 2025 | 2025-03-18 | 2025-09-28 | 14,509 | 560 |
 | WNBA | 2026 | 2026-04-25 | 2026-10-31 | 6,001 | 214 |
 | WNBA | 2025 | 2025-05-02 | 2025-10-10 | 5,409 | 148 |
-| PGA | 2026 | 2026-01-15 | 2026-10-29 | 3,915 | 183 |
+| PGA | 2026 | 2026-01-15 | 2026-10-29 | 3,936 | 183 |
 | PGA | 2025 | 2025-01-02 | 2025-12-11 | 2,427 | 129 |
 | NASCAR | 2026 | 2026-02-04 | 2026-11-01 | 1,371 | 44 |
 | NASCAR | 2025 | 2025-02-02 | 2025-11-02 | 1,319 | 42 |
