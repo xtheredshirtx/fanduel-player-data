@@ -1,37 +1,37 @@
-# NHL player data - As of 11/7/2026
+# NHL player data - As of 11/8/2026
 
 Every NHL player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NHL_player_data_as_of_2026-11-07.xlsx`](NHL_player_data_as_of_2026-11-07.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NHL_player_data_as_of_2026-11-08.xlsx`](NHL_player_data_as_of_2026-11-08.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
-| Skaters Summary | NHL Skaters: one row per player per season (season totals) | 1,483 |
-| Skaters Game Log | NHL Skaters: one row per player per game | 55,197 |
-| Goalies Summary | NHL Goalies: one row per player per season (season totals) | 153 |
-| Goalies Game Log | NHL Goalies: one row per player per game | 3,227 |
+| Skaters Summary | NHL Skaters: one row per player per season (season totals) | 1,485 |
+| Skaters Game Log | NHL Skaters: one row per player per game | 55,623 |
+| Goalies Summary | NHL Goalies: one row per player per season (season totals) | 154 |
+| Goalies Game Log | NHL Goalies: one row per player per game | 3,253 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-06 | 9,349 | 725 |
+| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-07 | 9,775 | 727 |
 | NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 45,680 | 746 |
 | NHL Skaters | 2024-25 | 2024-10-15 | 2025-06-18 | 168 | 12 |
-| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-06 | 556 | 74 |
+| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-07 | 582 | 75 |
 | NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,661 | 77 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
 
 ## CSV files
-- [`NHL_goalies_game_log_2024-25_as_of_2026-11-07.csv`](csv/NHL_goalies_game_log_2024-25_as_of_2026-11-07.csv)
-- [`NHL_goalies_game_log_2025-26_as_of_2026-11-07.csv`](csv/NHL_goalies_game_log_2025-26_as_of_2026-11-07.csv)
-- [`NHL_goalies_game_log_2026-27_as_of_2026-11-07.csv`](csv/NHL_goalies_game_log_2026-27_as_of_2026-11-07.csv)
-- [`NHL_goalies_summary_as_of_2026-11-07.csv`](csv/NHL_goalies_summary_as_of_2026-11-07.csv)
-- [`NHL_skaters_game_log_2024-25_as_of_2026-11-07.csv`](csv/NHL_skaters_game_log_2024-25_as_of_2026-11-07.csv)
-- [`NHL_skaters_game_log_2025-26_as_of_2026-11-07.csv`](csv/NHL_skaters_game_log_2025-26_as_of_2026-11-07.csv)
-- [`NHL_skaters_game_log_2026-27_as_of_2026-11-07.csv`](csv/NHL_skaters_game_log_2026-27_as_of_2026-11-07.csv)
-- [`NHL_skaters_summary_as_of_2026-11-07.csv`](csv/NHL_skaters_summary_as_of_2026-11-07.csv)
+- [`NHL_goalies_game_log_2024-25_as_of_2026-11-08.csv`](csv/NHL_goalies_game_log_2024-25_as_of_2026-11-08.csv)
+- [`NHL_goalies_game_log_2025-26_as_of_2026-11-08.csv`](csv/NHL_goalies_game_log_2025-26_as_of_2026-11-08.csv)
+- [`NHL_goalies_game_log_2026-27_as_of_2026-11-08.csv`](csv/NHL_goalies_game_log_2026-27_as_of_2026-11-08.csv)
+- [`NHL_goalies_summary_as_of_2026-11-08.csv`](csv/NHL_goalies_summary_as_of_2026-11-08.csv)
+- [`NHL_skaters_game_log_2024-25_as_of_2026-11-08.csv`](csv/NHL_skaters_game_log_2024-25_as_of_2026-11-08.csv)
+- [`NHL_skaters_game_log_2025-26_as_of_2026-11-08.csv`](csv/NHL_skaters_game_log_2025-26_as_of_2026-11-08.csv)
+- [`NHL_skaters_game_log_2026-27_as_of_2026-11-08.csv`](csv/NHL_skaters_game_log_2026-27_as_of_2026-11-08.csv)
+- [`NHL_skaters_summary_as_of_2026-11-08.csv`](csv/NHL_skaters_summary_as_of_2026-11-08.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
