@@ -1,9 +1,10 @@
 Player,ID,Team,Pos,Season,Games,FD Pts Total,FD Avg,Last 5 Avg,Last 2 Avg,Best,Worst,Last Game,Sacks (total),Interceptions (total),Fumble Recoveries (total),Return TD (total),Safeties (total),Blocked Kicks (total),Points Allowed (total)
 Minnesota Vikings,2707,MIN,D,2026,7,76,10.86,10.6,8.5,17,7,2026-11-01,25,8,4,1,0,0,93
-Tampa Bay Buccaneers,2939,TB,D,2026,8,81,10.12,12.0,20.5,23,2,2026-11-01,16,12,4,3,0,0,151
+Tampa Bay Buccaneers,2939,TB,D,2026,9,92,10.22,13.2,14.5,23,2,2026-11-09,17,16,5,3,0,0,178
 Pittsburgh Steelers,2446,PIT,D,2026,8,81,10.12,8.8,13.5,24,1,2026-11-01,26,7,6,2,0,0,144
 Jacksonville Jaguars,2436,JAX,D,2026,8,78.5,9.81,9.5,18.75,26.5,1,2026-11-06,15.5,11,4,2,0,0,121
 San Francisco 49ers,2967,SF,D,2026,8,65,8.12,9.6,11.0,23,-1,2026-11-08,15,6,6,3,0,0,156
+Chicago Bears,2462,CHI,D,2026,9,72,8.0,8.4,13.0,20,1,2026-11-09,26,7,6,2,0,0,184
 Cincinnati Bengals,2942,CIN,D,2026,8,62,7.75,6.0,3.5,18,3,2026-11-08,23,5,7,1,1,0,175
 Green Bay Packers,2563,GB,D,2026,9,68,7.56,11.2,11.5,18,-2,2026-11-08,26,13,6,0,0,0,191
 Denver Broncos,4479,DEN,D,2026,9,68,7.56,7.4,4.5,20,0,2026-11-08,26,8,4,2,0,0,186
@@ -11,7 +12,6 @@ Seattle Seahawks,1526,SEA,D,2026,9,67,7.44,6.6,6.0,13,1,2026-11-08,21,8,5,0,0,0,
 New York Giants,4691,NYG,D,2026,8,55,6.88,8.0,7.0,20,1,2026-11-08,16,6,4,2,0,0,172
 Kansas City Chiefs,4481,KC,D,2026,8,53,6.62,6.6,5.5,15,0,2026-11-08,13,6,5,0,0,0,143
 Washington Commanders,2949,WSH,D,2026,8,52,6.5,6.8,9.5,17,-2,2026-11-08,17,5,7,2,0,0,202
-Chicago Bears,2462,CHI,D,2026,8,52,6.5,5.8,5.0,12,1,2026-11-03,22,5,6,0,0,0,160
 Cleveland Browns,2943,CLE,D,2026,9,56,6.22,7.0,6.0,9,0,2026-11-08,26,6,6,0,0,0,196
 Tennessee Titans,2946,TEN,D,2026,8,49,6.12,7.0,6.0,19,0,2026-11-01,20,8,3,1,0,0,199
 Houston Texans,2520,HOU,D,2026,8,48,6.0,6.6,7.5,15,-2,2026-11-08,29,4,4,0,0,0,192

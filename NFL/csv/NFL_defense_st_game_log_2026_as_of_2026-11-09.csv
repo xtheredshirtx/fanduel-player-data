@@ -1,4 +1,6 @@
 Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return TD,Safeties,Blocked Kicks,Points Allowed,FD Pts,Games Ago
+2026-11-09,Tampa Bay Buccaneers,2939,TB,CHI,D,2026,1,4,1,0,0,0,27,11,1
+2026-11-09,Chicago Bears,2462,CHI,TB,D,2026,4,2,0,2,0,0,24,20,1
 2026-11-08,Washington Commanders,2949,WSH,LAR,D,2026,1,1,1,0,0,0,20,6,1
 2026-11-08,Seattle Seahawks,1526,SEA,ARI,D,2026,3,0,0,0,0,0,3,10,1
 2026-11-08,San Francisco 49ers,2967,SF,LV,D,2026,0,3,2,2,0,0,17,23,1
@@ -26,11 +28,11 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-11-06,Jacksonville Jaguars,2436,JAX,BAL,D,2026,1,2,1,0,0,0,10,11,1
 2026-11-06,Baltimore Ravens,2541,BAL,JAX,D,2026,0,0,1,0,0,0,33,1,1
 2026-11-03,Seattle Seahawks,1526,SEA,CHI,D,2026,1,0,1,0,0,0,34,2,2
-2026-11-03,Chicago Bears,2462,CHI,SEA,D,2026,3,1,0,0,0,0,17,6,1
+2026-11-03,Chicago Bears,2462,CHI,SEA,D,2026,3,1,0,0,0,0,17,6,2
 2026-11-02,Washington Commanders,2949,WSH,PHI,D,2026,5,1,1,0,0,0,10,13,2
 2026-11-02,Philadelphia Eagles,2501,PHI,WSH,D,2026,2,0,1,0,0,0,27,4,2
 2026-11-01,Tennessee Titans,2946,TEN,CIN,D,2026,3,3,1,0,0,0,43,7,1
-2026-11-01,Tampa Bay Buccaneers,2939,TB,ATL,D,2026,0,4,0,0,0,0,0,18,1
+2026-11-01,Tampa Bay Buccaneers,2939,TB,ATL,D,2026,0,4,0,0,0,0,0,18,2
 2026-11-01,Pittsburgh Steelers,2446,PIT,CLE,D,2026,8,0,2,0,0,0,6,19,1
 2026-11-01,New York Jets,2944,NYJ,LV,D,2026,1,0,0,0,0,0,38,-3,2
 2026-11-01,New England Patriots,1527,NE,MIA,D,2026,5,1,0,0,0,0,19,8,2
@@ -58,7 +60,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-26,Seattle Seahawks,1526,SEA,KC,D,2026,1,1,0,0,0,0,3,10,3
 2026-10-26,Kansas City Chiefs,4481,KC,SEA,D,2026,0,1,0,0,0,0,20,3,3
 2026-10-25,Tennessee Titans,2946,TEN,CLE,D,2026,1,1,1,0,0,0,27,5,2
-2026-10-25,Tampa Bay Buccaneers,2939,TB,CAR,D,2026,5,2,2,1,0,0,13,23,2
+2026-10-25,Tampa Bay Buccaneers,2939,TB,CAR,D,2026,5,2,2,1,0,0,13,23,3
 2026-10-25,San Francisco 49ers,2967,SF,ATL,D,2026,0,0,0,0,0,0,29,-1,2
 2026-10-25,Pittsburgh Steelers,2446,PIT,NO,D,2026,2,1,0,0,0,0,10,8,2
 2026-10-25,New York Jets,2944,NYJ,MIA,D,2026,2,0,0,0,0,0,28,1,3
@@ -80,13 +82,13 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-25,Atlanta Falcons,2941,ATL,SF,D,2026,2,2,2,0,0,0,20,11,3
 2026-10-25,Arizona Cardinals,2951,ARI,DEN,D,2026,1,0,0,0,0,0,30,0,3
 2026-10-23,New England Patriots,1527,NE,CHI,D,2026,3,0,0,0,0,0,30,2,3
-2026-10-23,Chicago Bears,2462,CHI,NE,D,2026,2,1,0,0,0,0,24,4,2
+2026-10-23,Chicago Bears,2462,CHI,NE,D,2026,2,1,0,0,0,0,24,4,3
 2026-10-20,Washington Commanders,2949,WSH,SF,D,2026,2,0,1,0,0,0,23,4,3
 2026-10-20,San Francisco 49ers,2967,SF,WSH,D,2026,4,0,0,0,0,0,17,5,3
 2026-10-19,Green Bay Packers,2563,GB,DAL,D,2026,1,2,0,0,0,0,13,9,4
 2026-10-19,Dallas Cowboys,4629,DAL,GB,D,2026,3,1,0,0,0,0,23,5,4
 2026-10-18,Tennessee Titans,2946,TEN,IND,D,2026,6,2,1,1,0,0,20,19,3
-2026-10-18,Tampa Bay Buccaneers,2939,TB,PIT,D,2026,5,1,0,0,0,0,26,7,3
+2026-10-18,Tampa Bay Buccaneers,2939,TB,PIT,D,2026,5,1,0,0,0,0,26,7,4
 2026-10-18,Pittsburgh Steelers,2446,PIT,TB,D,2026,5,2,0,0,0,0,19,10,3
 2026-10-18,Philadelphia Eagles,2501,PHI,CAR,D,2026,2,0,0,0,0,0,25,2,4
 2026-10-18,New York Jets,2944,NYJ,NE,D,2026,0,0,2,0,0,0,26,4,4
@@ -101,7 +103,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-18,Indianapolis Colts,2947,IND,TEN,D,2026,0,1,0,0,0,0,26,2,4
 2026-10-18,Houston Texans,2520,HOU,JAX,D,2026,0,1,0,0,0,0,31,1,3
 2026-10-18,Cleveland Browns,2943,CLE,BAL,D,2026,3,0,1,0,0,0,10,9,4
-2026-10-18,Chicago Bears,2462,CHI,ATL,D,2026,5,0,3,0,0,0,23,11,3
+2026-10-18,Chicago Bears,2462,CHI,ATL,D,2026,5,0,3,0,0,0,23,11,4
 2026-10-18,Carolina Panthers,2945,CAR,PHI,D,2026,3,0,0,0,0,0,14,4,4
 2026-10-18,Buffalo Bills,2595,BUF,LV,D,2026,0,1,0,0,0,0,30,1,2
 2026-10-18,Baltimore Ravens,2541,BAL,CLE,D,2026,5,0,0,0,0,0,13,9,4
@@ -135,9 +137,9 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-11,Denver Broncos,4479,DEN,LAC,D,2026,5,1,2,0,0,0,17,12,5
 2026-10-11,Cleveland Browns,2943,CLE,NYJ,D,2026,4,0,2,0,0,0,17,9,5
 2026-10-11,Cincinnati Bengals,2942,CIN,MIA,D,2026,3,2,1,0,0,0,24,9,4
-2026-10-11,Chicago Bears,2462,CHI,GB,D,2026,2,0,0,0,0,0,31,1,4
+2026-10-11,Chicago Bears,2462,CHI,GB,D,2026,2,0,0,0,0,0,31,1,5
 2026-10-11,Arizona Cardinals,2951,ARI,DET,D,2026,3,0,0,0,0,0,45,-1,5
-2026-10-09,Tampa Bay Buccaneers,2939,TB,DAL,D,2026,0,2,1,0,0,0,16,7,4
+2026-10-09,Tampa Bay Buccaneers,2939,TB,DAL,D,2026,0,2,1,0,0,0,16,7,5
 2026-10-09,Dallas Cowboys,4629,DAL,TB,D,2026,1,0,0,0,0,0,24,1,5
 2026-10-06,New Orleans Saints,2948,NO,ATL,D,2026,1,0,0,0,0,0,45,-3,5
 2026-10-06,Atlanta Falcons,2941,ATL,NO,D,2026,2,0,1,0,0,0,24,4,6
@@ -145,7 +147,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-05,Carolina Panthers,2945,CAR,DET,D,2026,1,0,0,0,0,0,26,1,5
 2026-10-04,Washington Commanders,2949,WSH,IND,D,2026,2,1,1,0,0,0,30,5,5
 2026-10-04,Tennessee Titans,2946,TEN,BAL,D,2026,2,0,0,0,0,0,24,2,5
-2026-10-04,Tampa Bay Buccaneers,2939,TB,GB,D,2026,0,1,1,0,0,0,17,5,5
+2026-10-04,Tampa Bay Buccaneers,2939,TB,GB,D,2026,0,1,1,0,0,0,17,5,6
 2026-10-04,Seattle Seahawks,1526,SEA,LAC,D,2026,4,2,2,0,0,0,23,12,6
 2026-10-04,San Francisco 49ers,2967,SF,DEN,D,2026,0,0,1,0,0,0,14,3,5
 2026-10-04,Philadelphia Eagles,2501,PHI,LAR,D,2026,1,2,0,0,0,0,24,5,6
@@ -165,19 +167,19 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-04,Denver Broncos,4479,DEN,SF,D,2026,0,0,0,0,0,0,24,0,6
 2026-10-04,Dallas Cowboys,4629,DAL,HOU,D,2026,2,0,0,0,0,0,30,1,6
 2026-10-04,Cincinnati Bengals,2942,CIN,JAX,D,2026,4,0,0,0,0,0,22,4,5
-2026-10-04,Chicago Bears,2462,CHI,NYJ,D,2026,3,0,0,0,0,0,12,7,5
+2026-10-04,Chicago Bears,2462,CHI,NYJ,D,2026,3,0,0,0,0,0,12,7,6
 2026-10-04,Buffalo Bills,2595,BUF,NE,D,2026,1,1,1,0,0,0,29,4,4
 2026-10-04,Baltimore Ravens,2541,BAL,TEN,D,2026,1,1,1,0,0,0,18,6,6
 2026-10-04,Arizona Cardinals,2951,ARI,NYG,D,2026,4,2,1,0,0,0,36,6,6
 2026-10-02,Pittsburgh Steelers,2446,PIT,CLE,D,2026,2,1,1,0,0,0,27,6,5
 2026-10-02,Cleveland Browns,2943,CLE,PIT,D,2026,5,2,0,0,0,0,24,9,6
 2026-09-29,Philadelphia Eagles,2501,PHI,CHI,D,2026,0,0,0,0,0,0,27,0,7
-2026-09-29,Chicago Bears,2462,CHI,PHI,D,2026,2,2,1,0,0,0,7,12,6
+2026-09-29,Chicago Bears,2462,CHI,PHI,D,2026,2,2,1,0,0,0,7,12,7
 2026-09-28,Los Angeles Rams,2965,LAR,DEN,D,2026,1,1,0,0,0,0,30,2,7
 2026-09-28,Denver Broncos,4479,DEN,LAR,D,2026,4,2,0,2,0,0,26,20,7
 2026-09-27,Washington Commanders,2949,WSH,SEA,D,2026,0,2,1,2,0,0,31,17,6
 2026-09-27,Tennessee Titans,2946,TEN,NYG,D,2026,3,0,0,0,0,0,12,7,6
-2026-09-27,Tampa Bay Buccaneers,2939,TB,MIN,D,2026,3,1,0,0,0,0,23,5,6
+2026-09-27,Tampa Bay Buccaneers,2939,TB,MIN,D,2026,3,1,0,0,0,0,23,5,7
 2026-09-27,Seattle Seahawks,1526,SEA,WSH,D,2026,2,0,0,0,0,0,33,1,7
 2026-09-27,San Francisco 49ers,2967,SF,ARI,D,2026,2,0,0,0,0,0,30,1,6
 2026-09-27,Pittsburgh Steelers,2446,PIT,CIN,D,2026,1,0,2,0,0,0,27,5,6
@@ -209,7 +211,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-21,Indianapolis Colts,2947,IND,KC,D,2026,2,0,0,0,0,0,33,1,8
 2026-09-20,Washington Commanders,2949,WSH,DAL,D,2026,2,0,0,0,0,0,37,-2,7
 2026-09-20,Tennessee Titans,2946,TEN,PHI,D,2026,3,2,0,0,0,0,24,7,7
-2026-09-20,Tampa Bay Buccaneers,2939,TB,CLE,D,2026,2,0,0,0,0,0,23,2,7
+2026-09-20,Tampa Bay Buccaneers,2939,TB,CLE,D,2026,2,0,0,0,0,0,23,2,8
 2026-09-20,Seattle Seahawks,1526,SEA,ARI,D,2026,2,1,0,0,0,0,7,8,8
 2026-09-20,San Francisco 49ers,2967,SF,MIA,D,2026,4,0,0,0,0,0,13,8,7
 2026-09-20,Pittsburgh Steelers,2446,PIT,NE,D,2026,3,1,1,0,0,0,20,8,7
@@ -228,7 +230,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-20,Dallas Cowboys,4629,DAL,WSH,D,2026,0,0,1,0,0,0,20,3,8
 2026-09-20,Cleveland Browns,2943,CLE,TB,D,2026,3,1,0,0,0,0,19,6,8
 2026-09-20,Cincinnati Bengals,2942,CIN,HOU,D,2026,4,0,0,0,0,0,6,11,7
-2026-09-20,Chicago Bears,2462,CHI,MIN,D,2026,3,0,0,0,0,0,9,7,7
+2026-09-20,Chicago Bears,2462,CHI,MIN,D,2026,3,0,0,0,0,0,9,7,8
 2026-09-20,Carolina Panthers,2945,CAR,ATL,D,2026,2,3,2,2,0,0,3,31,7
 2026-09-20,Baltimore Ravens,2541,BAL,NO,D,2026,3,0,0,0,0,0,24,3,8
 2026-09-20,Atlanta Falcons,2941,ATL,CAR,D,2026,2,0,0,0,0,0,34,1,8
@@ -241,7 +243,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-14,Dallas Cowboys,4629,DAL,NYG,D,2026,2,0,1,0,0,0,28,3,9
 2026-09-13,Washington Commanders,2949,WSH,PHI,D,2026,3,0,0,0,0,0,24,3,8
 2026-09-13,Tennessee Titans,2946,TEN,NYJ,D,2026,0,0,0,0,0,0,23,0,8
-2026-09-13,Tampa Bay Buccaneers,2939,TB,CIN,D,2026,1,1,0,2,0,0,33,14,8
+2026-09-13,Tampa Bay Buccaneers,2939,TB,CIN,D,2026,1,1,0,2,0,0,33,14,9
 2026-09-13,Pittsburgh Steelers,2446,PIT,ATL,D,2026,4,2,0,2,0,0,13,24,8
 2026-09-13,Philadelphia Eagles,2501,PHI,WSH,D,2026,1,0,0,0,0,0,22,1,9
 2026-09-13,New York Jets,2944,NYJ,TEN,D,2026,3,0,1,0,0,0,10,9,9
@@ -257,7 +259,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-13,Detroit Lions,2471,DET,NO,D,2026,5,2,1,0,0,0,30,10,8
 2026-09-13,Cleveland Browns,2943,CLE,JAX,D,2026,1,0,0,0,0,0,34,0,9
 2026-09-13,Cincinnati Bengals,2942,CIN,TB,D,2026,4,0,4,1,0,0,27,18,8
-2026-09-13,Chicago Bears,2462,CHI,CAR,D,2026,2,1,2,0,0,0,37,4,8
+2026-09-13,Chicago Bears,2462,CHI,CAR,D,2026,2,1,2,0,0,0,37,4,9
 2026-09-13,Carolina Panthers,2945,CAR,CHI,D,2026,2,0,1,0,0,0,59,0,8
 2026-09-13,Buffalo Bills,2595,BUF,HOU,D,2026,3,0,2,0,0,0,31,6,7
 2026-09-13,Baltimore Ravens,2541,BAL,IND,D,2026,2,1,1,0,0,0,23,6,9
