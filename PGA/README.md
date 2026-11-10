@@ -9,12 +9,12 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | Tab | What it shows | Rows |
 |---|---|---|
 | Summary | PGA: one row per player per season (per-event averages) | 317 |
-| Game Log | PGA: one row per player per event | 6,884 |
+| Game Log | PGA: one row per player per event | 7,022 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| PGA | 2026 | 2026-01-15 | 2026-11-05 | 4,457 | 188 |
+| PGA | 2026 | 2026-01-15 | 2026-11-05 | 4,595 | 188 |
 | PGA | 2025 | 2025-01-02 | 2025-12-11 | 2,427 | 129 |
 
 ## CSV files
