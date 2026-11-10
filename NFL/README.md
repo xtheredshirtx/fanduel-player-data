@@ -1,40 +1,40 @@
-# NFL player data - As of 11/9/2026
+# NFL player data - As of 11/10/2026
 
 Every NFL player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NFL_player_data_as_of_2026-11-09.xlsx`](NFL_player_data_as_of_2026-11-09.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NFL_player_data_as_of_2026-11-10.xlsx`](NFL_player_data_as_of_2026-11-10.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
 | Tab | What it shows | Rows |
 |---|---|---|
-| Offense Summary | NFL Offense: one row per player per season (season totals) | 1,026 |
-| Offense Game Log | NFL Offense: one row per player per game | 7,159 |
+| Offense Summary | NFL Offense: one row per player per season (season totals) | 1,028 |
+| Offense Game Log | NFL Offense: one row per player per game | 7,180 |
 | Defense-ST Summary | NFL Defense-ST: one row per player per season (season totals) | 64 |
-| Defense-ST Game Log | NFL Defense-ST: one row per player per game | 814 |
+| Defense-ST Game Log | NFL Defense-ST: one row per player per game | 816 |
 | Kickers Summary | NFL Kickers: one row per player per season (season totals) | 48 |
-| Kickers Game Log | NFL Kickers: one row per player per game | 522 |
+| Kickers Game Log | NFL Kickers: one row per player per game | 524 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
 |---|---|---|---|---|---|
-| NFL Offense | 2026 | 2026-09-10 | 2026-11-09 | 2,406 | 500 |
+| NFL Offense | 2026 | 2026-09-10 | 2026-11-10 | 2,427 | 502 |
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,753 | 526 |
-| NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-09 | 270 | 32 |
+| NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-10 | 272 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
-| NFL Kickers | 2026 | 2026-09-10 | 2026-11-09 | 199 | 26 |
+| NFL Kickers | 2026 | 2026-09-10 | 2026-11-10 | 201 | 26 |
 | NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 323 | 22 |
 
 ## CSV files
-- [`NFL_defense_st_game_log_2025_as_of_2026-11-09.csv`](csv/NFL_defense_st_game_log_2025_as_of_2026-11-09.csv)
-- [`NFL_defense_st_game_log_2026_as_of_2026-11-09.csv`](csv/NFL_defense_st_game_log_2026_as_of_2026-11-09.csv)
-- [`NFL_defense_st_summary_as_of_2026-11-09.csv`](csv/NFL_defense_st_summary_as_of_2026-11-09.csv)
-- [`NFL_kickers_game_log_2025_as_of_2026-11-09.csv`](csv/NFL_kickers_game_log_2025_as_of_2026-11-09.csv)
-- [`NFL_kickers_game_log_2026_as_of_2026-11-09.csv`](csv/NFL_kickers_game_log_2026_as_of_2026-11-09.csv)
-- [`NFL_kickers_summary_as_of_2026-11-09.csv`](csv/NFL_kickers_summary_as_of_2026-11-09.csv)
-- [`NFL_offense_game_log_2025_as_of_2026-11-09.csv`](csv/NFL_offense_game_log_2025_as_of_2026-11-09.csv)
-- [`NFL_offense_game_log_2026_as_of_2026-11-09.csv`](csv/NFL_offense_game_log_2026_as_of_2026-11-09.csv)
-- [`NFL_offense_summary_as_of_2026-11-09.csv`](csv/NFL_offense_summary_as_of_2026-11-09.csv)
+- [`NFL_defense_st_game_log_2025_as_of_2026-11-10.csv`](csv/NFL_defense_st_game_log_2025_as_of_2026-11-10.csv)
+- [`NFL_defense_st_game_log_2026_as_of_2026-11-10.csv`](csv/NFL_defense_st_game_log_2026_as_of_2026-11-10.csv)
+- [`NFL_defense_st_summary_as_of_2026-11-10.csv`](csv/NFL_defense_st_summary_as_of_2026-11-10.csv)
+- [`NFL_kickers_game_log_2025_as_of_2026-11-10.csv`](csv/NFL_kickers_game_log_2025_as_of_2026-11-10.csv)
+- [`NFL_kickers_game_log_2026_as_of_2026-11-10.csv`](csv/NFL_kickers_game_log_2026_as_of_2026-11-10.csv)
+- [`NFL_kickers_summary_as_of_2026-11-10.csv`](csv/NFL_kickers_summary_as_of_2026-11-10.csv)
+- [`NFL_offense_game_log_2025_as_of_2026-11-10.csv`](csv/NFL_offense_game_log_2025_as_of_2026-11-10.csv)
+- [`NFL_offense_game_log_2026_as_of_2026-11-10.csv`](csv/NFL_offense_game_log_2026_as_of_2026-11-10.csv)
+- [`NFL_offense_summary_as_of_2026-11-10.csv`](csv/NFL_offense_summary_as_of_2026-11-10.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |

@@ -10,7 +10,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-01-04,New York Giants,4691,NYG,DAL,D,2025,0,1,1,0,0,0,17,5,9
 2026-01-04,New Orleans Saints,2948,NO,ATL,D,2025,4,1,0,0,0,0,19,7,9
 2026-01-04,New England Patriots,1527,NE,MIA,D,2025,4,1,1,0,0,0,10,12,10
-2026-01-04,Minnesota Vikings,2707,MIN,GB,D,2025,4,0,0,0,0,0,3,11,8
+2026-01-04,Minnesota Vikings,2707,MIN,GB,D,2025,4,0,0,0,0,0,3,11,9
 2026-01-04,Miami Dolphins,2950,MIA,NE,D,2025,0,0,0,0,0,0,38,-4,9
 2026-01-04,Los Angeles Rams,2965,LAR,ARI,D,2025,6,1,1,0,0,0,20,11,10
 2026-01-04,Los Angeles Chargers,2486,LAC,DEN,D,2025,4,0,0,0,0,0,19,5,9
@@ -26,7 +26,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-01-04,Cleveland Browns,2943,CLE,CIN,D,2025,2,1,1,3,0,0,18,25,10
 2026-01-04,Cincinnati Bengals,2942,CIN,CLE,D,2025,6,0,1,0,0,0,20,9,9
 2026-01-04,Chicago Bears,2462,CHI,DET,D,2025,3,1,0,0,0,0,19,6,10
-2026-01-04,Buffalo Bills,2595,BUF,NYJ,D,2025,1,0,0,0,0,0,8,5,8
+2026-01-04,Buffalo Bills,2595,BUF,NYJ,D,2025,1,0,0,0,0,0,8,5,9
 2026-01-04,Atlanta Falcons,2941,ATL,NO,D,2025,4,1,1,0,0,0,17,9,10
 2026-01-04,Arizona Cardinals,2951,ARI,LAR,D,2025,1,0,0,0,0,0,37,-3,10
 2026-01-03,Tampa Bay Buccaneers,2939,TB,CAR,D,2025,0,1,2,0,0,0,14,7,10
@@ -52,7 +52,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-28,Cleveland Browns,2943,CLE,PIT,D,2025,2,0,0,0,0,0,6,9,11
 2025-12-28,Cincinnati Bengals,2942,CIN,ARI,D,2025,4,0,0,0,0,0,14,5,10
 2025-12-28,Carolina Panthers,2945,CAR,SEA,D,2025,3,1,1,0,0,0,27,7,10
-2025-12-28,Buffalo Bills,2595,BUF,PHI,D,2025,1,0,0,0,0,0,13,5,9
+2025-12-28,Buffalo Bills,2595,BUF,PHI,D,2025,1,0,0,0,0,0,13,5,10
 2025-12-28,Baltimore Ravens,2541,BAL,GB,D,2025,2,1,1,0,0,0,24,6,11
 2025-12-28,Arizona Cardinals,2951,ARI,CIN,D,2025,3,0,0,0,0,0,37,-1,11
 2025-12-27,Los Angeles Chargers,2486,LAC,HOU,D,2025,0,2,0,0,0,0,20,5,10
@@ -60,7 +60,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-26,Kansas City Chiefs,4481,KC,DEN,D,2025,1,1,0,0,0,0,20,4,10
 2025-12-26,Denver Broncos,4479,DEN,KC,D,2025,1,0,0,0,0,0,13,5,11
 2025-12-25,Washington Commanders,2949,WSH,DAL,D,2025,6,0,0,0,0,0,30,5,10
-2025-12-25,Minnesota Vikings,2707,MIN,DET,D,2025,5,2,4,0,0,0,10,21,9
+2025-12-25,Minnesota Vikings,2707,MIN,DET,D,2025,5,2,4,0,0,0,10,21,10
 2025-12-25,Detroit Lions,2471,DET,MIN,D,2025,6,0,0,0,0,0,23,6,10
 2025-12-25,Dallas Cowboys,4629,DAL,WSH,D,2025,2,0,0,0,0,0,23,2,11
 2025-12-23,San Francisco 49ers,2967,SF,IND,D,2025,2,1,1,2,0,0,27,18,11
@@ -73,7 +73,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-21,New York Jets,2944,NYJ,NO,D,2025,3,0,1,0,0,0,29,4,12
 2025-12-21,New York Giants,4691,NYG,MIN,D,2025,4,1,1,1,0,0,16,15,11
 2025-12-21,New Orleans Saints,2948,NO,NYJ,D,2025,8,1,1,0,0,0,6,19,11
-2025-12-21,Minnesota Vikings,2707,MIN,NYG,D,2025,5,1,0,0,0,0,13,11,10
+2025-12-21,Minnesota Vikings,2707,MIN,NYG,D,2025,5,1,0,0,0,0,13,11,11
 2025-12-21,Miami Dolphins,2950,MIA,CIN,D,2025,2,0,0,0,0,0,45,-2,11
 2025-12-21,Los Angeles Chargers,2486,LAC,DAL,D,2025,1,0,1,0,0,0,17,4,11
 2025-12-21,Las Vegas Raiders,2940,LV,HOU,D,2025,0,0,0,0,0,0,23,0,12
@@ -88,7 +88,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-21,Cincinnati Bengals,2942,CIN,MIA,D,2025,0,2,1,0,0,0,21,6,11
 2025-12-21,Chicago Bears,2462,CHI,GB,D,2025,2,0,1,0,0,0,16,5,12
 2025-12-21,Carolina Panthers,2945,CAR,TB,D,2025,2,1,0,0,0,0,20,5,11
-2025-12-21,Buffalo Bills,2595,BUF,CLE,D,2025,3,2,0,0,0,0,20,8,10
+2025-12-21,Buffalo Bills,2595,BUF,CLE,D,2025,3,2,0,0,0,0,20,8,11
 2025-12-21,Atlanta Falcons,2941,ATL,ARI,D,2025,2,1,0,0,0,0,19,5,12
 2025-12-21,Arizona Cardinals,2951,ARI,ATL,D,2025,1,1,1,0,0,0,26,5,12
 2025-12-20,Washington Commanders,2949,WSH,PHI,D,2025,2,0,1,0,0,0,29,3,11
@@ -97,7 +97,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-19,Los Angeles Rams,2965,LAR,SEA,D,2025,4,2,1,0,0,0,38,6,12
 2025-12-16,Pittsburgh Steelers,2446,PIT,MIA,D,2025,4,1,0,0,0,0,15,7,12
 2025-12-16,Miami Dolphins,2950,MIA,PIT,D,2025,3,0,0,0,0,0,28,2,12
-2025-12-15,Minnesota Vikings,2707,MIN,DAL,D,2025,2,0,0,0,0,0,26,2,11
+2025-12-15,Minnesota Vikings,2707,MIN,DAL,D,2025,2,0,0,0,0,0,26,2,12
 2025-12-15,Dallas Cowboys,4629,DAL,MIN,D,2025,0,1,0,0,0,0,34,1,13
 2025-12-14,Washington Commanders,2949,WSH,NYG,D,2025,1,1,0,1,0,0,21,9,12
 2025-12-14,Tennessee Titans,2946,TEN,SF,D,2025,2,0,1,0,0,0,37,0,12
@@ -122,7 +122,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-14,Cincinnati Bengals,2942,CIN,BAL,D,2025,4,1,0,0,0,0,24,6,12
 2025-12-14,Chicago Bears,2462,CHI,CLE,D,2025,5,3,0,0,0,0,3,18,13
 2025-12-14,Carolina Panthers,2945,CAR,NO,D,2025,5,0,0,0,0,0,20,6,12
-2025-12-14,Buffalo Bills,2595,BUF,NE,D,2025,3,1,0,0,0,0,31,4,11
+2025-12-14,Buffalo Bills,2595,BUF,NE,D,2025,3,1,0,0,0,0,31,4,12
 2025-12-14,Baltimore Ravens,2541,BAL,CIN,D,2025,3,2,0,2,0,0,0,29,13
 2025-12-14,Arizona Cardinals,2951,ARI,HOU,D,2025,1,0,0,0,0,0,40,-3,13
 2025-12-12,Tampa Bay Buccaneers,2939,TB,ATL,D,2025,1,0,1,0,0,0,29,2,13
@@ -138,7 +138,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-07,Pittsburgh Steelers,2446,PIT,BAL,D,2025,2,1,0,0,0,0,22,4,13
 2025-12-07,New York Jets,2944,NYJ,MIA,D,2025,1,0,0,1,0,0,34,6,14
 2025-12-07,New Orleans Saints,2948,NO,TB,D,2025,0,1,0,0,0,0,20,3,13
-2025-12-07,Minnesota Vikings,2707,MIN,WSH,D,2025,2,2,1,0,0,0,0,18,12
+2025-12-07,Minnesota Vikings,2707,MIN,WSH,D,2025,2,2,1,0,0,0,0,18,13
 2025-12-07,Miami Dolphins,2950,MIA,NYJ,D,2025,6,3,0,0,0,0,10,16,13
 2025-12-07,Los Angeles Rams,2965,LAR,ARI,D,2025,3,1,0,0,0,0,17,6,14
 2025-12-07,Las Vegas Raiders,2940,LV,DEN,D,2025,3,0,0,0,0,0,24,3,14
@@ -149,7 +149,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-12-07,Cleveland Browns,2943,CLE,TEN,D,2025,1,1,0,0,0,0,31,2,14
 2025-12-07,Cincinnati Bengals,2942,CIN,BUF,D,2025,3,0,1,0,0,0,39,1,13
 2025-12-07,Chicago Bears,2462,CHI,GB,D,2025,1,1,0,0,0,0,28,2,14
-2025-12-07,Buffalo Bills,2595,BUF,CIN,D,2025,1,2,0,2,0,0,34,16,12
+2025-12-07,Buffalo Bills,2595,BUF,CIN,D,2025,1,2,0,2,0,0,34,16,13
 2025-12-07,Baltimore Ravens,2541,BAL,PIT,D,2025,0,0,0,0,0,0,27,0,14
 2025-12-07,Atlanta Falcons,2941,ATL,SEA,D,2025,2,1,0,0,0,0,37,0,14
 2025-12-07,Arizona Cardinals,2951,ARI,LAR,D,2025,0,0,0,0,0,0,45,-4,14
@@ -166,7 +166,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-30,Pittsburgh Steelers,2446,PIT,BUF,D,2025,0,1,1,0,0,0,26,4,14
 2025-11-30,New York Jets,2944,NYJ,ATL,D,2025,2,0,1,0,0,0,24,4,15
 2025-11-30,New Orleans Saints,2948,NO,MIA,D,2025,4,1,0,0,0,0,21,6,14
-2025-11-30,Minnesota Vikings,2707,MIN,SEA,D,2025,4,0,2,0,0,0,26,8,13
+2025-11-30,Minnesota Vikings,2707,MIN,SEA,D,2025,4,0,2,0,0,0,26,8,14
 2025-11-30,Miami Dolphins,2950,MIA,NO,D,2025,4,1,1,0,0,0,17,9,14
 2025-11-30,Los Angeles Rams,2965,LAR,CAR,D,2025,2,0,0,0,0,0,31,1,15
 2025-11-30,Los Angeles Chargers,2486,LAC,LV,D,2025,5,1,0,0,0,0,14,8,14
@@ -176,7 +176,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-30,Houston Texans,2520,HOU,IND,D,2025,1,0,0,0,0,0,16,2,14
 2025-11-30,Cleveland Browns,2943,CLE,SF,D,2025,1,0,0,0,0,0,26,1,15
 2025-11-30,Carolina Panthers,2945,CAR,LAR,D,2025,2,2,1,2,0,0,28,19,13
-2025-11-30,Buffalo Bills,2595,BUF,PIT,D,2025,1,1,1,1,0,0,7,15,13
+2025-11-30,Buffalo Bills,2595,BUF,PIT,D,2025,1,1,1,1,0,0,7,15,14
 2025-11-30,Atlanta Falcons,2941,ATL,NYJ,D,2025,2,0,0,0,0,0,27,2,15
 2025-11-30,Arizona Cardinals,2951,ARI,TB,D,2025,2,0,0,0,0,0,20,3,15
 2025-11-28,Philadelphia Eagles,2501,PHI,CHI,D,2025,2,1,0,0,0,0,24,4,15
@@ -199,7 +199,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-23,New York Giants,4691,NYG,DET,D,2025,3,1,0,0,0,0,34,4,14
 2025-11-23,New Orleans Saints,2948,NO,ATL,D,2025,3,1,0,2,0,0,24,17,15
 2025-11-23,New England Patriots,1527,NE,CIN,D,2025,1,1,0,2,0,0,20,16,15
-2025-11-23,Minnesota Vikings,2707,MIN,GB,D,2025,1,0,0,0,0,0,23,1,14
+2025-11-23,Minnesota Vikings,2707,MIN,GB,D,2025,1,0,0,0,0,0,23,1,15
 2025-11-23,Las Vegas Raiders,2940,LV,CLE,D,2025,1,1,1,0,0,0,24,5,16
 2025-11-23,Kansas City Chiefs,4481,KC,IND,D,2025,0,0,0,0,0,0,20,1,15
 2025-11-23,Jacksonville Jaguars,2436,JAX,ARI,D,2025,6,0,0,0,0,0,24,6,15
@@ -214,7 +214,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-23,Atlanta Falcons,2941,ATL,NO,D,2025,5,1,1,0,0,0,10,13,16
 2025-11-23,Arizona Cardinals,2951,ARI,JAX,D,2025,3,3,1,1,0,0,27,17,16
 2025-11-21,Houston Texans,2520,HOU,BUF,D,2025,8,2,1,0,0,0,19,15,15
-2025-11-21,Buffalo Bills,2595,BUF,HOU,D,2025,0,0,0,1,0,0,23,6,14
+2025-11-21,Buffalo Bills,2595,BUF,HOU,D,2025,0,0,0,1,0,0,23,6,15
 2025-11-18,Las Vegas Raiders,2940,LV,DAL,D,2025,1,0,1,0,0,0,33,2,17
 2025-11-18,Dallas Cowboys,4629,DAL,LV,D,2025,4,1,0,0,1,0,16,9,17
 2025-11-17,Philadelphia Eagles,2501,PHI,DET,D,2025,2,1,0,0,0,0,9,8,17
@@ -226,7 +226,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-16,San Francisco 49ers,2967,SF,ARI,D,2025,0,2,1,0,0,0,22,6,15
 2025-11-16,Pittsburgh Steelers,2446,PIT,CIN,D,2025,1,1,1,3,0,0,12,27,16
 2025-11-16,New York Giants,4691,NYG,GB,D,2025,2,0,0,0,0,0,27,2,15
-2025-11-16,Minnesota Vikings,2707,MIN,CHI,D,2025,2,0,0,0,0,0,19,3,15
+2025-11-16,Minnesota Vikings,2707,MIN,CHI,D,2025,2,0,0,0,0,0,19,3,16
 2025-11-16,Miami Dolphins,2950,MIA,WSH,D,2025,1,1,1,0,0,0,13,9,15
 2025-11-16,Los Angeles Rams,2965,LAR,SEA,D,2025,0,4,0,0,0,0,19,9,17
 2025-11-16,Los Angeles Chargers,2486,LAC,JAX,D,2025,0,1,0,0,0,0,35,-2,15
@@ -239,7 +239,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-16,Cincinnati Bengals,2942,CIN,PIT,D,2025,1,0,0,0,0,0,34,0,16
 2025-11-16,Chicago Bears,2462,CHI,MIN,D,2025,0,2,0,0,0,0,17,5,17
 2025-11-16,Carolina Panthers,2945,CAR,ATL,D,2025,0,0,1,0,0,0,27,2,15
-2025-11-16,Buffalo Bills,2595,BUF,TB,D,2025,1,1,1,0,0,0,32,4,15
+2025-11-16,Buffalo Bills,2595,BUF,TB,D,2025,1,1,1,0,0,0,32,4,16
 2025-11-16,Baltimore Ravens,2541,BAL,CLE,D,2025,3,1,0,0,0,0,16,6,17
 2025-11-16,Atlanta Falcons,2941,ATL,CAR,D,2025,5,0,0,0,0,0,30,4,17
 2025-11-16,Arizona Cardinals,2951,ARI,SF,D,2025,1,0,0,0,0,0,41,-3,17
@@ -257,7 +257,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-09,New York Giants,4691,NYG,CHI,D,2025,0,0,0,0,0,0,24,0,16
 2025-11-09,New Orleans Saints,2948,NO,CAR,D,2025,2,1,1,0,0,0,7,10,16
 2025-11-09,New England Patriots,1527,NE,TB,D,2025,2,0,0,0,0,0,23,2,17
-2025-11-09,Minnesota Vikings,2707,MIN,BAL,D,2025,1,0,0,0,0,0,27,1,16
+2025-11-09,Minnesota Vikings,2707,MIN,BAL,D,2025,1,0,0,0,0,0,27,1,17
 2025-11-09,Miami Dolphins,2950,MIA,BUF,D,2025,3,1,2,0,0,0,13,13,16
 2025-11-09,Los Angeles Rams,2965,LAR,SF,D,2025,0,1,1,0,0,0,26,4,18
 2025-11-09,Jacksonville Jaguars,2436,JAX,HOU,D,2025,2,1,1,1,0,0,36,8,17
@@ -267,7 +267,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-09,Cleveland Browns,2943,CLE,NYJ,D,2025,3,1,0,0,0,0,27,5,18
 2025-11-09,Chicago Bears,2462,CHI,NYG,D,2025,4,0,1,0,0,0,20,7,18
 2025-11-09,Carolina Panthers,2945,CAR,NO,D,2025,2,0,1,0,0,0,17,5,16
-2025-11-09,Buffalo Bills,2595,BUF,MIA,D,2025,0,2,0,0,0,0,30,3,16
+2025-11-09,Buffalo Bills,2595,BUF,MIA,D,2025,0,2,0,0,0,0,30,3,17
 2025-11-09,Baltimore Ravens,2541,BAL,MIN,D,2025,1,2,1,0,0,0,19,8,18
 2025-11-09,Atlanta Falcons,2941,ATL,IND,D,2025,7,1,1,0,0,0,31,10,18
 2025-11-09,Arizona Cardinals,2951,ARI,SEA,D,2025,1,1,2,0,0,0,44,3,18
@@ -283,7 +283,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-02,New York Giants,4691,NYG,SF,D,2025,2,0,1,0,0,0,34,3,17
 2025-11-02,New Orleans Saints,2948,NO,LAR,D,2025,2,0,0,0,0,0,34,1,17
 2025-11-02,New England Patriots,1527,NE,ATL,D,2025,1,0,0,0,0,0,23,1,18
-2025-11-02,Minnesota Vikings,2707,MIN,DET,D,2025,5,0,1,0,0,0,24,7,17
+2025-11-02,Minnesota Vikings,2707,MIN,DET,D,2025,5,0,1,0,0,0,24,7,18
 2025-11-02,Los Angeles Rams,2965,LAR,NO,D,2025,1,1,1,0,0,0,10,9,19
 2025-11-02,Los Angeles Chargers,2486,LAC,TEN,D,2025,4,0,0,0,0,0,20,5,17
 2025-11-02,Las Vegas Raiders,2940,LV,JAX,D,2025,1,1,0,0,0,0,30,2,19
@@ -297,7 +297,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-11-02,Cincinnati Bengals,2942,CIN,CHI,D,2025,2,0,0,1,0,0,47,4,17
 2025-11-02,Chicago Bears,2462,CHI,CIN,D,2025,3,2,1,0,0,0,42,5,19
 2025-11-02,Carolina Panthers,2945,CAR,GB,D,2025,1,1,1,0,0,0,13,9,17
-2025-11-02,Buffalo Bills,2595,BUF,KC,D,2025,3,1,0,0,0,0,21,5,17
+2025-11-02,Buffalo Bills,2595,BUF,KC,D,2025,3,1,0,0,0,0,21,5,18
 2025-11-02,Atlanta Falcons,2941,ATL,NE,D,2025,6,1,1,0,0,0,24,10,19
 2025-10-31,Miami Dolphins,2950,MIA,BAL,D,2025,2,0,0,0,0,0,28,1,17
 2025-10-31,Baltimore Ravens,2541,BAL,MIA,D,2025,2,1,2,0,0,0,6,15,19
@@ -322,10 +322,10 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-10-26,Cincinnati Bengals,2942,CIN,NYJ,D,2025,0,0,0,0,0,0,39,-4,18
 2025-10-26,Chicago Bears,2462,CHI,BAL,D,2025,2,0,0,0,0,0,30,1,20
 2025-10-26,Carolina Panthers,2945,CAR,BUF,D,2025,2,0,0,0,0,0,40,-2,18
-2025-10-26,Buffalo Bills,2595,BUF,CAR,D,2025,7,1,2,0,0,0,9,17,18
+2025-10-26,Buffalo Bills,2595,BUF,CAR,D,2025,7,1,2,0,0,0,9,17,19
 2025-10-26,Baltimore Ravens,2541,BAL,CHI,D,2025,1,1,0,0,0,0,16,4,20
 2025-10-26,Atlanta Falcons,2941,ATL,MIA,D,2025,1,0,0,0,0,0,34,0,20
-2025-10-24,Minnesota Vikings,2707,MIN,LAC,D,2025,2,1,0,0,0,0,37,0,18
+2025-10-24,Minnesota Vikings,2707,MIN,LAC,D,2025,2,1,0,0,0,0,37,0,19
 2025-10-24,Los Angeles Chargers,2486,LAC,MIN,D,2025,5,1,0,0,0,0,10,11,18
 2025-10-21,Seattle Seahawks,1526,SEA,HOU,D,2025,3,1,0,0,0,0,19,6,20
 2025-10-21,Houston Texans,2520,HOU,SEA,D,2025,2,2,2,1,0,0,27,16,20
@@ -340,7 +340,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-10-19,New York Giants,4691,NYG,DEN,D,2025,2,0,0,0,0,0,33,1,19
 2025-10-19,New Orleans Saints,2948,NO,CHI,D,2025,1,1,0,0,0,0,26,3,19
 2025-10-19,New England Patriots,1527,NE,TEN,D,2025,4,1,1,1,0,0,13,18,20
-2025-10-19,Minnesota Vikings,2707,MIN,PHI,D,2025,3,0,0,0,0,0,28,2,19
+2025-10-19,Minnesota Vikings,2707,MIN,PHI,D,2025,3,0,0,0,0,0,28,2,20
 2025-10-19,Miami Dolphins,2950,MIA,CLE,D,2025,2,0,0,0,0,0,31,1,19
 2025-10-19,Los Angeles Rams,2965,LAR,JAX,D,2025,7,0,0,0,0,0,7,11,20
 2025-10-19,Los Angeles Chargers,2486,LAC,IND,D,2025,1,0,0,0,0,0,38,-3,19
@@ -361,7 +361,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-10-14,Chicago Bears,2462,CHI,WSH,D,2025,3,1,2,0,0,0,24,9,22
 2025-10-13,Kansas City Chiefs,4481,KC,DET,D,2025,1,0,0,0,0,0,17,2,20
 2025-10-13,Detroit Lions,2471,DET,KC,D,2025,3,0,0,0,0,0,30,2,20
-2025-10-13,Buffalo Bills,2595,BUF,ATL,D,2025,2,0,0,0,0,0,24,2,19
+2025-10-13,Buffalo Bills,2595,BUF,ATL,D,2025,2,0,0,0,0,0,24,2,20
 2025-10-13,Atlanta Falcons,2941,ATL,BUF,D,2025,4,2,0,0,0,0,14,9,22
 2025-10-12,Tennessee Titans,2946,TEN,LV,D,2025,2,1,0,0,0,0,20,5,20
 2025-10-12,Tampa Bay Buccaneers,2939,TB,SF,D,2025,6,2,0,0,0,0,19,11,21
@@ -390,7 +390,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-10-07,Kansas City Chiefs,4481,KC,JAX,D,2025,3,1,1,0,0,0,31,6,21
 2025-10-07,Jacksonville Jaguars,2436,JAX,KC,D,2025,0,1,0,2,0,0,28,13,21
 2025-10-06,New England Patriots,1527,NE,BUF,D,2025,1,1,2,0,0,0,20,8,22
-2025-10-06,Buffalo Bills,2595,BUF,NE,D,2025,4,0,1,0,0,0,23,6,20
+2025-10-06,Buffalo Bills,2595,BUF,NE,D,2025,4,0,1,0,0,0,23,6,21
 2025-10-05,Washington Commanders,2949,WSH,LAC,D,2025,5,1,1,0,0,0,10,13,21
 2025-10-05,Tennessee Titans,2946,TEN,ARI,D,2025,3,0,3,1,0,0,21,15,21
 2025-10-05,Tampa Bay Buccaneers,2939,TB,SEA,D,2025,0,1,1,0,0,0,35,0,22
@@ -399,7 +399,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-10-05,New York Jets,2944,NYJ,DAL,D,2025,1,0,0,0,0,0,37,-3,22
 2025-10-05,New York Giants,4691,NYG,NO,D,2025,0,0,0,0,0,0,26,0,21
 2025-10-05,New Orleans Saints,2948,NO,NYG,D,2025,0,2,3,1,0,0,14,17,21
-2025-10-05,Minnesota Vikings,2707,MIN,CLE,D,2025,2,0,0,0,0,0,17,3,20
+2025-10-05,Minnesota Vikings,2707,MIN,CLE,D,2025,2,0,0,0,0,0,17,3,21
 2025-10-05,Miami Dolphins,2950,MIA,CAR,D,2025,3,1,1,0,0,0,27,7,21
 2025-10-05,Los Angeles Chargers,2486,LAC,WSH,D,2025,1,0,1,0,0,0,27,3,21
 2025-10-05,Las Vegas Raiders,2940,LV,IND,D,2025,0,0,0,0,0,0,40,-4,22
@@ -430,7 +430,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-09-28,New York Giants,4691,NYG,LAC,D,2025,2,2,0,0,0,0,18,7,22
 2025-09-28,New Orleans Saints,2948,NO,BUF,D,2025,3,1,0,0,0,0,31,4,22
 2025-09-28,New England Patriots,1527,NE,CAR,D,2025,1,0,0,2,0,0,13,17,23
-2025-09-28,Minnesota Vikings,2707,MIN,PIT,D,2025,2,0,0,0,0,0,24,2,21
+2025-09-28,Minnesota Vikings,2707,MIN,PIT,D,2025,2,0,0,0,0,0,24,2,22
 2025-09-28,Los Angeles Rams,2965,LAR,IND,D,2025,2,2,1,0,0,0,20,9,23
 2025-09-28,Los Angeles Chargers,2486,LAC,NYG,D,2025,6,0,0,0,0,0,21,6,22
 2025-09-28,Las Vegas Raiders,2940,LV,CHI,D,2025,1,1,0,0,0,0,25,3,23
@@ -442,7 +442,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-09-28,Cleveland Browns,2943,CLE,DET,D,2025,0,1,0,0,0,0,34,1,23
 2025-09-28,Chicago Bears,2462,CHI,LV,D,2025,0,3,1,0,0,0,24,8,23
 2025-09-28,Carolina Panthers,2945,CAR,NE,D,2025,1,0,0,0,0,0,42,-3,22
-2025-09-28,Buffalo Bills,2595,BUF,NO,D,2025,3,1,0,0,0,0,19,6,21
+2025-09-28,Buffalo Bills,2595,BUF,NO,D,2025,3,1,0,0,0,0,19,6,22
 2025-09-28,Baltimore Ravens,2541,BAL,KC,D,2025,1,0,0,0,0,0,37,-3,23
 2025-09-28,Atlanta Falcons,2941,ATL,WSH,D,2025,2,1,0,0,0,0,27,4,23
 2025-09-26,Seattle Seahawks,1526,SEA,ARI,D,2025,6,2,0,0,0,0,20,11,23
@@ -461,7 +461,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-09-21,New York Jets,2944,NYJ,TB,D,2025,1,0,0,1,0,0,29,6,24
 2025-09-21,New Orleans Saints,2948,NO,SEA,D,2025,0,0,1,0,0,0,44,-2,23
 2025-09-21,New England Patriots,1527,NE,PIT,D,2025,0,1,0,0,0,0,21,2,24
-2025-09-21,Minnesota Vikings,2707,MIN,CIN,D,2025,4,2,3,3,0,0,10,36,22
+2025-09-21,Minnesota Vikings,2707,MIN,CIN,D,2025,4,2,3,3,0,0,10,36,23
 2025-09-21,Los Angeles Rams,2965,LAR,PHI,D,2025,4,0,1,0,0,0,33,5,24
 2025-09-21,Los Angeles Chargers,2486,LAC,DEN,D,2025,2,0,0,0,0,0,20,3,23
 2025-09-21,Las Vegas Raiders,2940,LV,WSH,D,2025,1,0,1,0,0,0,41,-1,24
@@ -478,11 +478,11 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-09-21,Atlanta Falcons,2941,ATL,CAR,D,2025,1,0,1,0,0,0,30,2,24
 2025-09-21,Arizona Cardinals,2951,ARI,SF,D,2025,1,1,0,0,0,0,16,4,24
 2025-09-19,Miami Dolphins,2950,MIA,BUF,D,2025,2,0,0,0,0,0,31,1,23
-2025-09-19,Buffalo Bills,2595,BUF,MIA,D,2025,0,1,0,0,0,0,21,2,22
+2025-09-19,Buffalo Bills,2595,BUF,MIA,D,2025,0,1,0,0,0,0,21,2,23
 2025-09-16,Los Angeles Chargers,2486,LAC,LV,D,2025,3,3,0,0,0,0,9,13,24
 2025-09-16,Las Vegas Raiders,2940,LV,LAC,D,2025,2,0,1,0,0,0,20,5,25
 2025-09-15,Tampa Bay Buccaneers,2939,TB,HOU,D,2025,3,0,0,0,0,0,19,4,25
-2025-09-15,Minnesota Vikings,2707,MIN,ATL,D,2025,3,0,1,0,0,0,22,5,23
+2025-09-15,Minnesota Vikings,2707,MIN,ATL,D,2025,3,0,1,0,0,0,22,5,24
 2025-09-15,Houston Texans,2520,HOU,TB,D,2025,4,0,0,0,0,0,20,5,24
 2025-09-15,Atlanta Falcons,2941,ATL,MIN,D,2025,6,2,2,0,0,0,6,21,25
 2025-09-14,Tennessee Titans,2946,TEN,LAR,D,2025,1,1,0,0,0,0,33,2,24
@@ -506,14 +506,14 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2025-09-14,Cincinnati Bengals,2942,CIN,JAX,D,2025,1,2,0,0,0,0,27,5,24
 2025-09-14,Chicago Bears,2462,CHI,DET,D,2025,0,0,0,0,0,0,52,-4,25
 2025-09-14,Carolina Panthers,2945,CAR,ARI,D,2025,1,1,0,0,0,0,27,3,24
-2025-09-14,Buffalo Bills,2595,BUF,NYJ,D,2025,4,0,1,0,0,0,10,10,23
+2025-09-14,Buffalo Bills,2595,BUF,NYJ,D,2025,4,0,1,0,0,0,10,10,24
 2025-09-14,Baltimore Ravens,2541,BAL,CLE,D,2025,2,1,1,1,0,0,17,13,25
 2025-09-14,Arizona Cardinals,2951,ARI,CAR,D,2025,3,1,1,1,0,0,22,13,25
 2025-09-12,Washington Commanders,2949,WSH,GB,D,2025,2,0,0,0,0,0,27,2,24
 2025-09-12,Green Bay Packers,2563,GB,WSH,D,2025,4,0,0,0,0,0,18,5,25
-2025-09-09,Minnesota Vikings,2707,MIN,CHI,D,2025,2,0,1,0,0,0,24,4,24
+2025-09-09,Minnesota Vikings,2707,MIN,CHI,D,2025,2,0,1,0,0,0,24,4,25
 2025-09-09,Chicago Bears,2462,CHI,MIN,D,2025,3,1,0,2,0,0,27,17,26
-2025-09-08,Buffalo Bills,2595,BUF,BAL,D,2025,2,0,1,0,0,0,40,0,24
+2025-09-08,Buffalo Bills,2595,BUF,BAL,D,2025,2,0,1,0,0,0,40,0,25
 2025-09-08,Baltimore Ravens,2541,BAL,BUF,D,2025,1,0,0,0,0,0,41,-3,26
 2025-09-07,Washington Commanders,2949,WSH,NYG,D,2025,2,0,0,0,0,0,6,9,25
 2025-09-07,Tennessee Titans,2946,TEN,DEN,D,2025,1,2,2,0,0,0,20,10,25
