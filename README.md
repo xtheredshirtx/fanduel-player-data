@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 11/16/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 275,777 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 275,823 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -27,7 +27,7 @@ in this repository's commit history.
 |---|---|---|---|
 | [NBA](NBA/) | 745 | 60,885 | [NBA_player_data_as_of_2026-11-16.xlsx](NBA/NBA_player_data_as_of_2026-11-16.xlsx) |
 | [NHL](NHL/) | 876 | 60,857 | [NHL_player_data_as_of_2026-11-16.xlsx](NHL/NHL_player_data_as_of_2026-11-16.xlsx) |
-| [NFL](NFL/) | 692 | 8,807 | [NFL_player_data_as_of_2026-11-16.xlsx](NFL/NFL_player_data_as_of_2026-11-16.xlsx) |
+| [NFL](NFL/) | 694 | 8,853 | [NFL_player_data_as_of_2026-11-16.xlsx](NFL/NFL_player_data_as_of_2026-11-16.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,517 | [MLB_player_data_as_of_2026-11-16.xlsx](MLB/MLB_player_data_as_of_2026-11-16.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,410 | [WNBA_player_data_as_of_2026-11-16.xlsx](WNBA/WNBA_player_data_as_of_2026-11-16.xlsx) |
 | [PGA](PGA/) | 198 | 7,496 | [PGA_player_data_as_of_2026-11-16.xlsx](PGA/PGA_player_data_as_of_2026-11-16.xlsx) |
@@ -49,8 +49,8 @@ in this repository's commit history.
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,754 | 527 |
 | NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-16 | 298 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
-| NFL Kickers | 2026 | 2026-09-10 | 2026-11-16 | 219 | 26 |
-| NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 323 | 22 |
+| NFL Kickers | 2026 | 2026-09-10 | 2026-11-16 | 232 | 28 |
+| NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 356 | 24 |
 | MLB Hitters | 2026 | 2026-03-25 | 2026-10-28 | 50,019 | 650 |
 | MLB Hitters | 2025 | 2025-03-18 | 2025-09-28 | 36,084 | 468 |
 | MLB Pitchers | 2026 | 2026-03-25 | 2026-10-28 | 20,905 | 847 |

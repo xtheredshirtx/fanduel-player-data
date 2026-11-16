@@ -12,8 +12,8 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | Offense Game Log | NFL Offense: one row per player per game | 7,423 |
 | Defense-ST Summary | NFL Defense-ST: one row per player per season (season totals) | 64 |
 | Defense-ST Game Log | NFL Defense-ST: one row per player per game | 842 |
-| Kickers Summary | NFL Kickers: one row per player per season (season totals) | 48 |
-| Kickers Game Log | NFL Kickers: one row per player per game | 542 |
+| Kickers Summary | NFL Kickers: one row per player per season (season totals) | 52 |
+| Kickers Game Log | NFL Kickers: one row per player per game | 588 |
 
 ## Coverage
 | Group | Season | First game | Last game | Player-games | Players |
@@ -22,8 +22,8 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,754 | 527 |
 | NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-16 | 298 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
-| NFL Kickers | 2026 | 2026-09-10 | 2026-11-16 | 219 | 26 |
-| NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 323 | 22 |
+| NFL Kickers | 2026 | 2026-09-10 | 2026-11-16 | 232 | 28 |
+| NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 356 | 24 |
 
 ## CSV files
 - [`NFL_defense_st_game_log_2025_as_of_2026-11-16.csv`](csv/NFL_defense_st_game_log_2025_as_of_2026-11-16.csv)
