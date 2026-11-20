@@ -1,4 +1,6 @@
 Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return TD,Safeties,Blocked Kicks,Points Allowed,FD Pts,Games Ago
+2026-11-20,Indianapolis Colts,2947,IND,HOU,D,2026,1,1,0,0,0,0,26,3,1
+2026-11-20,Houston Texans,2520,HOU,IND,D,2026,2,1,0,0,1,0,3,13,1
 2026-11-17,Los Angeles Chargers,2486,LAC,BAL,D,2026,2,1,1,0,0,0,20,7,1
 2026-11-17,Baltimore Ravens,2541,BAL,LAC,D,2026,2,0,0,0,0,0,23,2,1
 2026-11-16,Pittsburgh Steelers,2446,PIT,CIN,D,2026,1,0,0,0,0,0,38,-3,1
@@ -15,8 +17,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-11-15,Las Vegas Raiders,2940,LV,SEA,D,2026,2,0,2,0,0,0,21,6,1
 2026-11-15,Kansas City Chiefs,4481,KC,ATL,D,2026,3,1,1,0,0,0,13,11,1
 2026-11-15,Jacksonville Jaguars,2436,JAX,TEN,D,2026,1,1,0,0,0,0,23,3,1
-2026-11-15,Indianapolis Colts,2947,IND,MIA,D,2026,3,0,1,1,0,0,22,11,1
-2026-11-15,Houston Texans,2520,HOU,CLE,D,2026,4,1,0,0,0,0,27,6,1
+2026-11-15,Indianapolis Colts,2947,IND,MIA,D,2026,3,0,1,1,0,0,22,11,2
+2026-11-15,Houston Texans,2520,HOU,CLE,D,2026,4,1,0,0,0,0,27,6,2
 2026-11-15,Green Bay Packers,2563,GB,MIN,D,2026,3,1,0,0,0,0,30,4,1
 2026-11-15,Detroit Lions,2471,DET,NE,D,2026,5,1,0,0,0,0,10,11,1
 2026-11-15,Dallas Cowboys,4629,DAL,SF,D,2026,5,0,0,0,0,0,46,1,1
@@ -44,8 +46,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-11-08,Los Angeles Chargers,2486,LAC,HOU,D,2026,1,1,0,0,0,0,44,-1,2
 2026-11-08,Las Vegas Raiders,2940,LV,SF,D,2026,1,1,0,0,0,0,38,-1,2
 2026-11-08,Kansas City Chiefs,4481,KC,NYJ,D,2026,5,0,1,0,0,0,12,11,2
-2026-11-08,Indianapolis Colts,2947,IND,DAL,D,2026,3,0,2,0,0,0,27,7,2
-2026-11-08,Houston Texans,2520,HOU,LAC,D,2026,8,1,1,0,0,0,22,12,2
+2026-11-08,Indianapolis Colts,2947,IND,DAL,D,2026,3,0,2,0,0,0,27,7,3
+2026-11-08,Houston Texans,2520,HOU,LAC,D,2026,8,1,1,0,0,0,22,12,3
 2026-11-08,Green Bay Packers,2563,GB,NE,D,2026,4,3,1,0,0,0,27,12,2
 2026-11-08,Detroit Lions,2471,DET,MIA,D,2026,3,1,0,0,0,0,9,9,2
 2026-11-08,Denver Broncos,4479,DEN,CAR,D,2026,3,1,1,0,0,0,21,7,1
@@ -73,7 +75,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-11-01,Las Vegas Raiders,2940,LV,NYJ,D,2026,2,1,0,2,0,0,33,15,3
 2026-11-01,Kansas City Chiefs,4481,KC,DEN,D,2026,1,0,0,0,0,0,28,0,3
 2026-11-01,Jacksonville Jaguars,2436,JAX,IND,D,2026,4.5,2,1,2,0,0,7,26.5,3
-2026-11-01,Indianapolis Colts,2947,IND,JAX,D,2026,3,0,1,0,0,0,42,1,3
+2026-11-01,Indianapolis Colts,2947,IND,JAX,D,2026,3,0,1,0,0,0,42,1,4
 2026-11-01,Detroit Lions,2471,DET,MIN,D,2026,3,1,0,0,0,0,15,6,3
 2026-11-01,Denver Broncos,4479,DEN,KC,D,2026,2,0,0,0,0,0,24,2,2
 2026-11-01,Dallas Cowboys,4629,DAL,ARI,D,2026,5,1,1,0,0,0,33,8,3
@@ -100,8 +102,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-25,Miami Dolphins,2950,MIA,NYJ,D,2026,2,1,0,0,0,0,25,4,4
 2026-10-25,Los Angeles Rams,2965,LAR,LV,D,2026,2,0,0,0,0,0,21,2,4
 2026-10-25,Las Vegas Raiders,2940,LV,LAR,D,2026,1,1,1,0,0,0,35,1,4
-2026-10-25,Indianapolis Colts,2947,IND,MIN,D,2026,3,0,0,0,0,0,16,4,4
-2026-10-25,Houston Texans,2520,HOU,NYG,D,2026,3,0,0,0,0,0,27,3,3
+2026-10-25,Indianapolis Colts,2947,IND,MIN,D,2026,3,0,0,0,0,0,16,4,5
+2026-10-25,Houston Texans,2520,HOU,NYG,D,2026,3,0,0,0,0,0,27,3,4
 2026-10-25,Green Bay Packers,2563,GB,DET,D,2026,1,0,2,0,0,0,20,6,4
 2026-10-25,Detroit Lions,2471,DET,GB,D,2026,1,1,0,0,0,0,17,4,4
 2026-10-25,Denver Broncos,4479,DEN,ARI,D,2026,3,0,0,0,0,0,16,4,3
@@ -130,8 +132,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-18,Las Vegas Raiders,2940,LV,BUF,D,2026,2,0,0,0,0,0,33,1,5
 2026-10-18,Kansas City Chiefs,4481,KC,LAC,D,2026,4,1,1,0,0,0,6,15,5
 2026-10-18,Jacksonville Jaguars,2436,JAX,HOU,D,2026,0,1,0,0,0,0,34,1,4
-2026-10-18,Indianapolis Colts,2947,IND,TEN,D,2026,0,1,0,0,0,0,26,2,5
-2026-10-18,Houston Texans,2520,HOU,JAX,D,2026,0,1,0,0,0,0,31,1,4
+2026-10-18,Indianapolis Colts,2947,IND,TEN,D,2026,0,1,0,0,0,0,26,2,6
+2026-10-18,Houston Texans,2520,HOU,JAX,D,2026,0,1,0,0,0,0,31,1,5
 2026-10-18,Cleveland Browns,2943,CLE,BAL,D,2026,3,0,1,0,0,0,10,9,5
 2026-10-18,Chicago Bears,2462,CHI,ATL,D,2026,5,0,3,0,0,0,23,11,4
 2026-10-18,Carolina Panthers,2945,CAR,PHI,D,2026,3,0,0,0,0,0,14,4,5
@@ -160,8 +162,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-11,Los Angeles Chargers,2486,LAC,DEN,D,2026,1,0,1,0,0,0,23,3,5
 2026-10-11,Las Vegas Raiders,2940,LV,NE,D,2026,1,0,1,0,0,0,45,-1,6
 2026-10-11,Jacksonville Jaguars,2436,JAX,PHI,D,2026,1,0,0,0,0,0,17,2,5
-2026-10-11,Indianapolis Colts,2947,IND,PIT,D,2026,1,0,0,0,0,0,34,0,6
-2026-10-11,Houston Texans,2520,HOU,TEN,D,2026,4,1,1,0,0,0,3,15,5
+2026-10-11,Indianapolis Colts,2947,IND,PIT,D,2026,1,0,0,0,0,0,34,0,7
+2026-10-11,Houston Texans,2520,HOU,TEN,D,2026,4,1,1,0,0,0,3,15,6
 2026-10-11,Green Bay Packers,2563,GB,CHI,D,2026,4,3,2,0,0,0,7,18,6
 2026-10-11,Detroit Lions,2471,DET,ARI,D,2026,5,1,0,0,0,0,21,7,5
 2026-10-11,Denver Broncos,4479,DEN,LAC,D,2026,5,1,2,0,0,0,17,12,5
@@ -191,8 +193,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-10-04,Las Vegas Raiders,2940,LV,KC,D,2026,2,0,0,0,0,0,30,1,7
 2026-10-04,Kansas City Chiefs,4481,KC,LV,D,2026,0,1,1,0,0,0,27,4,6
 2026-10-04,Jacksonville Jaguars,2436,JAX,CIN,D,2026,2,2,0,0,0,0,17,7,6
-2026-10-04,Indianapolis Colts,2947,IND,WSH,D,2026,2,1,0,0,0,0,13,8,7
-2026-10-04,Houston Texans,2520,HOU,DAL,D,2026,3,0,0,0,0,0,34,2,6
+2026-10-04,Indianapolis Colts,2947,IND,WSH,D,2026,2,1,0,0,0,0,13,8,8
+2026-10-04,Houston Texans,2520,HOU,DAL,D,2026,3,0,0,0,0,0,34,2,7
 2026-10-04,Green Bay Packers,2563,GB,TB,D,2026,3,2,0,0,0,0,14,8,7
 2026-10-04,Denver Broncos,4479,DEN,SF,D,2026,0,0,0,0,0,0,24,0,6
 2026-10-04,Dallas Cowboys,4629,DAL,HOU,D,2026,2,0,0,0,0,0,30,1,7
@@ -223,8 +225,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-27,Las Vegas Raiders,2940,LV,NO,D,2026,2,1,3,0,0,0,27,10,8
 2026-09-27,Kansas City Chiefs,4481,KC,MIA,D,2026,0,1,1,0,0,0,10,8,7
 2026-09-27,Jacksonville Jaguars,2436,JAX,NE,D,2026,2,2,1,0,0,0,6,15,7
-2026-09-27,Indianapolis Colts,2947,IND,HOU,D,2026,3,0,0,0,0,0,17,4,8
-2026-09-27,Houston Texans,2520,HOU,IND,D,2026,4,1,2,0,0,0,19,11,7
+2026-09-27,Indianapolis Colts,2947,IND,HOU,D,2026,3,0,0,0,0,0,17,4,9
+2026-09-27,Houston Texans,2520,HOU,IND,D,2026,4,1,2,0,0,0,19,11,8
 2026-09-27,Detroit Lions,2471,DET,NYJ,D,2026,5,0,1,0,0,0,24,7,7
 2026-09-27,Dallas Cowboys,4629,DAL,BAL,D,2026,0,0,0,0,0,0,34,-1,8
 2026-09-27,Cleveland Browns,2943,CLE,CAR,D,2026,3,1,0,0,0,0,18,6,8
@@ -238,7 +240,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-22,New York Giants,4691,NYG,LAR,D,2026,1,1,1,0,0,0,28,4,8
 2026-09-22,Los Angeles Rams,2965,LAR,NYG,D,2026,2,1,0,0,0,0,6,11,9
 2026-09-21,Kansas City Chiefs,4481,KC,IND,D,2026,0,1,0,0,0,0,30,1,8
-2026-09-21,Indianapolis Colts,2947,IND,KC,D,2026,2,0,0,0,0,0,33,1,9
+2026-09-21,Indianapolis Colts,2947,IND,KC,D,2026,2,0,0,0,0,0,33,1,10
 2026-09-20,Washington Commanders,2949,WSH,DAL,D,2026,2,0,0,0,0,0,37,-2,8
 2026-09-20,Tennessee Titans,2946,TEN,PHI,D,2026,3,2,0,0,0,0,24,7,8
 2026-09-20,Tampa Bay Buccaneers,2939,TB,CLE,D,2026,2,0,0,0,0,0,23,2,8
@@ -254,7 +256,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-20,Los Angeles Chargers,2486,LAC,LV,D,2026,2,1,0,0,0,0,26,4,8
 2026-09-20,Las Vegas Raiders,2940,LV,LAC,D,2026,3,2,1,0,0,0,14,10,9
 2026-09-20,Jacksonville Jaguars,2436,JAX,DEN,D,2026,0,1,0,0,0,0,20,3,8
-2026-09-20,Houston Texans,2520,HOU,CIN,D,2026,5,0,0,0,0,0,20,6,8
+2026-09-20,Houston Texans,2520,HOU,CIN,D,2026,5,0,0,0,0,0,20,6,9
 2026-09-20,Green Bay Packers,2563,GB,NYJ,D,2026,4,0,0,0,0,0,17,5,9
 2026-09-20,Denver Broncos,4479,DEN,JAX,D,2026,2,1,0,0,0,0,13,8,8
 2026-09-20,Dallas Cowboys,4629,DAL,WSH,D,2026,0,0,1,0,0,0,20,3,9
@@ -283,8 +285,8 @@ Date,Player,ID,Team,Opp,Pos,Season,Sacks,Interceptions,Fumble Recoveries,Return 
 2026-09-13,Los Angeles Chargers,2486,LAC,ARI,D,2026,1,0,0,0,0,0,26,1,9
 2026-09-13,Las Vegas Raiders,2940,LV,MIA,D,2026,5,1,1,0,0,0,13,13,10
 2026-09-13,Jacksonville Jaguars,2436,JAX,CLE,D,2026,5,1,1,0,0,0,10,13,9
-2026-09-13,Indianapolis Colts,2947,IND,BAL,D,2026,2,0,1,0,0,0,41,0,10
-2026-09-13,Houston Texans,2520,HOU,BUF,D,2026,2,0,0,0,0,0,36,-2,9
+2026-09-13,Indianapolis Colts,2947,IND,BAL,D,2026,2,0,1,0,0,0,41,0,11
+2026-09-13,Houston Texans,2520,HOU,BUF,D,2026,2,0,0,0,0,0,36,-2,10
 2026-09-13,Green Bay Packers,2563,GB,MIN,D,2026,3,1,0,0,0,0,39,1,10
 2026-09-13,Detroit Lions,2471,DET,NO,D,2026,5,2,1,0,0,0,30,10,9
 2026-09-13,Cleveland Browns,2943,CLE,JAX,D,2026,1,0,0,0,0,0,34,0,10
