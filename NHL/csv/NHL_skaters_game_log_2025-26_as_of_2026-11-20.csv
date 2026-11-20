@@ -3470,6 +3470,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-14,Ivan Demidov,4829,MON,PHI,W,2025-26,0,1,0,0,1,0,0,3.2,22
 2026-04-14,Ivan Barbashev,4826,,WPG,W,2025-26,1,0,1,0,1,0,0,21.6,48
 2026-04-14,Isak Rosen,5750,WPG,UTA,W,2025-26,0,0,1,1,1,0,0,14.1,21
+2026-04-14,Isac Lundeström,6855,CBJ,WSH,C,2025-26,0,1,0,0,0,0,0,1.6,2
 2026-04-14,Isaac Howard,4969,EDM,COL,W,2025-26,0,1,0,0,3,0,0,6.4,14
 2026-04-14,Ilya Solovyov,5910,PIT,STL,D,2025-26,0,1,0,0,2,0,0,4.8,7
 2026-04-14,Ilya Protas,5721,WSH,CBJ,W,2025-26,0,1,0,0,1,0,0,3.2,21
@@ -4013,6 +4014,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-12,Ivan Miroshnichenko,5800,WSH,PIT,W,2025-26,0,0,0,0,1,0,0,1.6,5
 2026-04-12,Ivan Demidov,4829,MON,NYI,W,2025-26,0,0,1,1,1,0,0,14.1,23
 2026-04-12,Ivan Barbashev,4826,VGK,COL,W,2025-26,1,2,0,0,0,0,0,11.2,49
+2026-04-12,Isac Lundeström,6855,CBJ,BOS,C,2025-26,0,0,0,0,0,0,0,0,3
 2026-04-12,Ilya Solovyov,5910,PIT,WSH,D,2025-26,0,2,0,0,1,0,0,4.8,8
 2026-04-12,Ilya Protas,5721,WSH,PIT,W,2025-26,0,0,0,0,3,0,0,4.8,22
 2026-04-12,Ian Moore,6819,ANH,VAN,D,2025-26,0,0,0,0,1,0,0,1.6,16
@@ -4380,6 +4382,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-11,Ivan Miroshnichenko,5800,WSH,PIT,W,2025-26,0,1,0,0,2,0,0,4.8,6
 2026-04-11,Ivan Demidov,4829,,CBJ,W,2025-26,0,0,0,0,4,0,0,6.4,24
 2026-04-11,Isak Rosen,5750,WPG,PHI,W,2025-26,0,0,0,0,1,0,0,1.6,23
+2026-04-11,Isac Lundeström,6855,CBJ,MON,C,2025-26,0,1,0,0,1,0,0,3.2,4
 2026-04-11,Ilya Solovyov,5910,PIT,WSH,D,2025-26,0,1,0,0,0,0,0,1.6,9
 2026-04-11,Ilya Protas,5721,WSH,PIT,W,2025-26,2,0,1,1,3,0,0,33.3,23
 2026-04-11,Ilya Mikheyev,5381,CHI,STL,W,2025-26,0,0,2,0,3,0,0,28.8,25
@@ -4876,6 +4879,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-09,Ivan Demidov,4829,MON,TB,W,2025-26,0,0,0,0,1,0,0,1.6,25
 2026-04-09,Ivan Barbashev,4826,VGK,SEA,W,2025-26,0,0,0,0,6,0,0,9.6,50
 2026-04-09,Isak Rosen,5750,WPG,STL,W,2025-26,0,0,0,0,1,0,0,1.6,24
+2026-04-09,Isac Lundeström,6855,CBJ,BUF,C,2025-26,0,0,0,0,0,0,0,0,5
 2026-04-09,Ilya Mikheyev,5381,CHI,CAR,W,2025-26,0,0,0,0,0,0,0,0,26
 2026-04-09,Ilya Lyubushkin,5486,DAL,MIN,D,2025-26,0,3,0,0,0,0,0,4.8,7
 2026-04-09,Ian Moore,6819,ANH,SJ,D,2025-26,0,1,0,0,0,0,0,1.6,17
@@ -5364,6 +5368,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-07,Ivan Provorov,5393,CBJ,DET,D,2025-26,0,0,0,0,3,0,0,4.8,14
 2026-04-07,Ivan Demidov,4829,MON,FLA,W,2025-26,0,0,1,1,4,0,0,18.9,26
 2026-04-07,Ivan Barbashev,4826,VGK,VAN,W,2025-26,0,0,0,0,1,0,0,1.6,51
+2026-04-07,Isac Lundeström,6855,CBJ,DET,C,2025-26,0,0,0,0,0,0,0,0,6
 2026-04-07,Ilya Lyubushkin,5486,DAL,CGY,D,2025-26,0,2,0,0,0,0,0,3.2,8
 2026-04-07,Ian Moore,6819,ANH,NSH,D,2025-26,0,0,0,0,2,0,0,3.2,18
 2026-04-07,Hampus Lindholm,4862,BOS,CAR,D,2025-26,0,0,1,0,2,0,0,15.2,31
@@ -6158,6 +6163,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-04,Ivan Provorov,5393,CBJ,WPG,D,2025-26,0,0,1,0,1,0,0,13.6,15
 2026-04-04,Ivan Barbashev,4826,VGK,EDM,W,2025-26,2,0,0,0,0,0,0,16,52
 2026-04-04,Isak Rosen,5750,WPG,CBJ,W,2025-26,0,0,0,0,0,0,0,0,26
+2026-04-04,Isac Lundeström,6855,CBJ,WPG,C,2025-26,0,0,0,0,0,0,0,0,7
 2026-04-04,Ilya Mikheyev,5381,CHI,SEA,W,2025-26,1,1,1,0,2,0,0,24.8,28
 2026-04-04,Ilya Lyubushkin,5486,DAL,COL,D,2025-26,0,1,0,0,0,0,0,1.6,9
 2026-04-04,Igor Chernyshov,5396,SJ,NSH,W,2025-26,0,1,0,0,2,0,0,4.8,18
@@ -6724,6 +6730,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-04-02,Ivan Demidov,4829,MON,NYR,W,2025-26,1,0,0,0,2,0,0,11.2,28
 2026-04-02,Ivan Barbashev,4826,VGK,CGY,W,2025-26,2,0,1,0,1,0,0,29.6,53
 2026-04-02,Isak Rosen,5750,WPG,DAL,W,2025-26,0,0,0,0,1,0,0,1.6,27
+2026-04-02,Isac Lundeström,6855,CBJ,CAR,C,2025-26,1,3,0,0,0,0,0,12.8,8
 2026-04-02,Ilya Mikheyev,5381,CHI,EDM,W,2025-26,0,0,0,0,2,0,0,3.2,29
 2026-04-02,Ilya Lyubushkin,5486,DAL,WPG,D,2025-26,0,1,0,0,0,0,0,1.6,10
 2026-04-02,Igor Chernyshov,5396,SJ,TOR,W,2025-26,0,1,0,0,0,0,0,1.6,19
@@ -7187,6 +7194,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-31,Ivan Miroshnichenko,5800,WSH,PHI,W,2025-26,0,0,0,0,0,0,0,0,9
 2026-03-31,Ivan Demidov,4829,MON,TB,W,2025-26,1,0,0,0,2,0,0,11.2,29
 2026-03-31,Isak Rosen,5750,WPG,CHI,W,2025-26,0,0,1,0,1,0,0,13.6,28
+2026-03-31,Isac Lundeström,6855,CBJ,CAR,C,2025-26,0,1,0,0,0,0,0,1.6,9
 2026-03-31,Ilya Mikheyev,5381,CHI,WPG,W,2025-26,2,0,0,0,2,0,0,19.2,30
 2026-03-31,Ilya Lyubushkin,5486,DAL,BOS,D,2025-26,0,0,0,0,0,0,0,0,11
 2026-03-31,Henri Jokiharju,4906,,DAL,D,2025-26,1,0,1,0,2,0,0,23.2,5
@@ -7597,6 +7605,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-29,J.J. Moser,5366,TB,NSH,D,2025-26,0,0,0,0,2,0,0,3.2,38
 2026-03-29,Ivan Provorov,5393,CBJ,BOS,D,2025-26,1,7,0,0,1,0,0,20.8,18
 2026-03-29,Ivan Demidov,4829,MON,CAR,W,2025-26,1,0,0,0,0,0,0,8,30
+2026-03-29,Isac Lundeström,6855,CBJ,BOS,C,2025-26,0,0,0,0,0,0,0,0,10
 2026-03-29,Ilya Mikheyev,5381,CHI,NJ,W,2025-26,0,1,1,0,2,0,0,16.8,31
 2026-03-29,Ian Cole,4874,UTA,LA,D,2025-26,1,2,0,0,2,0,0,14.4,37
 2026-03-29,Henri Jokiharju,4906,,CBJ,D,2025-26,0,1,0,0,1,0,0,3.2,6
@@ -7985,6 +7994,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-28,Ivan Demidov,4829,MON,NSH,W,2025-26,1,0,1,0,2,0,0,23.2,31
 2026-03-28,Ivan Barbashev,4826,VGK,WSH,W,2025-26,0,0,0,0,2,0,0,3.2,55
 2026-03-28,Isak Rosen,5750,WPG,COL,W,2025-26,0,1,0,0,0,0,0,1.6,29
+2026-03-28,Isac Lundeström,6855,CBJ,SJ,C,2025-26,0,0,0,0,0,0,0,0,11
 2026-03-28,Igor Chernyshov,5396,SJ,CBJ,W,2025-26,0,0,2,0,3,0,0,28.8,21
 2026-03-28,Ian Moore,6819,ANH,EDM,D,2025-26,0,0,0,0,1,0,0,1.6,23
 2026-03-28,Hendrix Lapierre,5896,WSH,VGK,C,2025-26,0,0,1,0,1,0,0,13.6,22
@@ -8507,6 +8517,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-26,Ivan Demidov,4829,MON,CBJ,W,2025-26,0,0,0,0,0,0,0,0,32
 2026-03-26,Ivan Barbashev,4826,VGK,EDM,W,2025-26,1,1,1,0,3,0,0,26.4,56
 2026-03-26,Isak Rosen,5750,WPG,COL,W,2025-26,0,0,0,0,1,0,0,1.6,30
+2026-03-26,Isac Lundeström,6855,CBJ,MON,C,2025-26,1,0,0,0,0,0,0,8,12
 2026-03-26,Ilya Mikheyev,5381,CHI,PHI,W,2025-26,0,1,0,0,3,0,0,6.4,33
 2026-03-26,Igor Chernyshov,5396,SJ,STL,W,2025-26,0,1,0,0,1,0,0,3.2,22
 2026-03-26,Ian Moore,6819,ANH,CGY,D,2025-26,0,0,0,0,0,0,0,0,24
@@ -9057,6 +9068,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-24,Ivan Demidov,4829,MON,CAR,W,2025-26,1,1,1,0,1,0,0,23.2,33
 2026-03-24,Ivan Barbashev,4826,VGK,WPG,W,2025-26,1,0,0,0,2,0,0,11.2,57
 2026-03-24,Isak Rosen,5750,WPG,VGK,W,2025-26,0,0,0,0,0,0,0,0,31
+2026-03-24,Isac Lundeström,6855,CBJ,PHI,C,2025-26,0,1,0,0,0,0,0,1.6,13
 2026-03-24,Ilya Mikheyev,5381,CHI,NYI,W,2025-26,0,1,1,0,1,0,0,15.2,34
 2026-03-24,Igor Chernyshov,5396,SJ,NSH,W,2025-26,1,0,0,0,1,0,0,9.6,23
 2026-03-24,Ian Moore,6819,ANH,VAN,D,2025-26,0,0,0,0,0,0,0,0,25
@@ -9485,6 +9497,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-22,Ivan Provorov,5393,CBJ,NYI,D,2025-26,0,2,0,0,0,0,0,3.2,22
 2026-03-22,Ivan Barbashev,4826,VGK,DAL,W,2025-26,0,0,1,1,3,0,0,17.3,58
 2026-03-22,Isak Rosen,5750,WPG,NYR,W,2025-26,0,1,0,0,0,0,0,1.6,32
+2026-03-22,Isac Lundeström,6855,CBJ,NYI,C,2025-26,0,3,0,0,0,0,0,4.8,14
 2026-03-22,Ilya Mikheyev,5381,CHI,NSH,W,2025-26,0,0,0,0,1,0,0,1.6,35
 2026-03-22,Ilya Lyubushkin,5486,DAL,VGK,D,2025-26,0,1,0,0,1,0,0,3.2,12
 2026-03-22,Ian Moore,6819,ANH,BUF,D,2025-26,0,1,0,0,2,0,0,4.8,26
@@ -9828,6 +9841,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-21,Ivan Demidov,4829,MON,NYI,W,2025-26,0,0,0,0,2,0,0,3.2,34
 2026-03-21,Ivan Barbashev,4826,VGK,NSH,W,2025-26,1,0,0,0,4,0,0,14.4,59
 2026-03-21,Isak Rosen,5750,WPG,PIT,W,2025-26,0,0,0,0,1,0,0,1.6,33
+2026-03-21,Isac Lundeström,6855,CBJ,SEA,C,2025-26,0,0,0,0,1,0,0,1.6,15
 2026-03-21,Ian Cole,4874,UTA,ANH,D,2025-26,0,2,0,0,1,0,0,4.8,41
 2026-03-21,Hunter Haight,6519,MIN,DAL,C,2025-26,0,1,0,0,2,0,0,4.8,3
 2026-03-21,Haydn Fleury,5778,WPG,PIT,D,2025-26,0,2,0,0,1,0,0,4.8,25
@@ -10361,6 +10375,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-19,Ivan Demidov,4829,MON,DET,W,2025-26,0,0,0,0,0,0,0,0,35
 2026-03-19,Ivan Barbashev,4826,VGK,UTA,W,2025-26,0,1,0,0,4,0,0,8,60
 2026-03-19,Isak Rosen,5750,WPG,BOS,W,2025-26,0,1,0,0,1,0,0,3.2,34
+2026-03-19,Isac Lundeström,6855,CBJ,NYR,C,2025-26,0,1,1,0,2,0,0,16.8,16
 2026-03-19,Ilya Mikheyev,5381,CHI,MIN,W,2025-26,0,0,1,0,2,0,0,15.2,37
 2026-03-19,Hunter Haight,6519,MIN,CHI,C,2025-26,1,0,0,0,2,0,0,11.2,4
 2026-03-19,Haydn Fleury,5778,WPG,BOS,D,2025-26,0,0,0,0,1,0,0,1.6,26
@@ -10898,6 +10913,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-17,Ivan Demidov,4829,MON,BOS,W,2025-26,0,0,0,0,2,0,0,3.2,36
 2026-03-17,Ivan Barbashev,4826,VGK,BUF,W,2025-26,0,0,0,0,1,0,0,1.6,61
 2026-03-17,Isak Rosen,5750,WPG,NSH,W,2025-26,0,0,0,0,0,0,0,0,35
+2026-03-17,Isac Lundeström,6855,CBJ,CAR,C,2025-26,0,0,0,0,2,0,0,3.2,17
 2026-03-17,Ilya Mikheyev,5381,CHI,MIN,W,2025-26,0,0,0,0,3,0,0,4.8,38
 2026-03-17,Ian Cole,4874,,DAL,D,2025-26,0,1,0,0,1,0,0,3.2,43
 2026-03-17,Haydn Fleury,5778,WPG,NSH,D,2025-26,0,3,0,0,0,0,0,4.8,27
@@ -11679,6 +11695,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-14,Ivan Demidov,4829,MON,SJ,W,2025-26,1,0,0,0,2,0,0,11.2,38
 2026-03-14,Ivan Barbashev,4826,VGK,CHI,W,2025-26,0,0,0,0,1,0,0,1.6,62
 2026-03-14,Isak Rosen,5750,WPG,COL,W,2025-26,0,2,0,0,3,0,0,8,37
+2026-03-14,Isac Lundeström,6855,CBJ,PHI,C,2025-26,0,0,0,0,2,0,0,3.2,18
 2026-03-14,Ilya Solovyov,5910,PIT,UTA,D,2025-26,0,1,0,0,0,0,0,1.6,12
 2026-03-14,Ilya Mikheyev,5381,CHI,VGK,W,2025-26,0,0,0,0,3,0,0,4.8,39
 2026-03-14,Igor Chernyshov,5396,SJ,MON,W,2025-26,0,0,0,0,0,0,0,0,24
@@ -12215,6 +12232,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-12,Ivan Provorov,5393,CBJ,FLA,D,2025-26,0,1,0,0,2,0,0,4.8,27
 2026-03-12,Ivan Barbashev,4826,VGK,PIT,W,2025-26,1,1,0,0,1,0,0,11.2,63
 2026-03-12,Isak Rosen,5750,WPG,NYR,W,2025-26,0,1,1,0,1,0,0,15.2,38
+2026-03-12,Isac Lundeström,6855,CBJ,FLA,C,2025-26,0,0,0,0,1,0,0,1.6,19
 2026-03-12,Ilya Solovyov,5910,PIT,VGK,D,2025-26,0,1,0,0,1,0,0,3.2,13
 2026-03-12,Ilya Mikheyev,5381,CHI,UTA,W,2025-26,0,0,0,0,0,0,0,0,40
 2026-03-12,Ian Moore,6819,ANH,TOR,D,2025-26,0,0,1,0,4,0,0,18.4,31
@@ -12739,6 +12757,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-10,Ivan Demidov,4829,MON,TOR,W,2025-26,1,0,0,0,1,0,0,9.6,40
 2026-03-10,Ivan Barbashev,4826,VGK,DAL,W,2025-26,1,0,0,0,0,0,0,8,64
 2026-03-10,Isak Rosen,5750,WPG,ANH,W,2025-26,0,1,0,0,1,0,0,3.2,39
+2026-03-10,Isac Lundeström,6855,CBJ,TB,C,2025-26,0,0,0,0,3,0,0,4.8,20
 2026-03-10,Ilya Solovyov,5910,PIT,CAR,D,2025-26,0,0,0,0,0,0,0,0,14
 2026-03-10,Ian Moore,6819,ANH,WPG,D,2025-26,0,1,0,0,1,0,0,3.2,32
 2026-03-10,Ian Cole,4874,UTA,CHI,D,2025-26,1,1,0,0,0,0,0,9.6,47
@@ -13000,6 +13019,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-09,Jack Roslovic,4831,EDM,VGK,W,2025-26,0,0,0,0,1,0,0,1.6,48
 2026-03-09,Jack McBain,5439,UTA,CHI,W,2025-26,0,0,0,0,1,0,0,1.6,37
 2026-03-09,Ivan Provorov,5393,CBJ,LA,D,2025-26,1,0,0,0,0,0,0,8,29
+2026-03-09,Isac Lundeström,6855,CBJ,LA,C,2025-26,1,4,0,0,2,0,0,17.6,21
 2026-03-09,Ilya Mikheyev,5381,CHI,UTA,W,2025-26,1,0,0,0,3,0,0,12.8,41
 2026-03-09,Hendrix Lapierre,5896,WSH,CGY,C,2025-26,1,0,1,0,1,0,0,21.6,31
 2026-03-09,Gabe Perreault,4864,,PHI,W,2025-26,1,1,1,1,2,0,0,25.3,42
@@ -13559,6 +13579,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-07,Ivan Provorov,5393,CBJ,UTA,D,2025-26,0,1,0,0,3,0,0,6.4,30
 2026-03-07,Ivan Demidov,4829,MON,LA,W,2025-26,0,0,0,0,0,0,0,0,41
 2026-03-07,Isak Rosen,5750,WPG,VAN,W,2025-26,0,0,0,0,1,0,0,1.6,40
+2026-03-07,Isac Lundeström,6855,CBJ,UTA,C,2025-26,0,0,0,0,1,0,0,1.6,22
 2026-03-07,Ian Cole,4874,UTA,CBJ,D,2025-26,1,1,0,0,0,0,0,9.6,48
 2026-03-07,Hendrix Lapierre,5896,WSH,BOS,C,2025-26,0,0,0,0,0,0,0,0,32
 2026-03-07,Haydn Fleury,5778,WPG,VAN,D,2025-26,0,0,0,0,1,0,0,1.6,32
@@ -14087,6 +14108,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-05,JJ Peterka,4849,UTA,PHI,W,2025-26,0,0,0,0,3,0,0,4.8,49
 2026-03-05,J.J. Moser,5366,TB,WPG,D,2025-26,0,0,0,0,3,0,0,4.8,51
 2026-03-05,Ivan Provorov,5393,CBJ,FLA,D,2025-26,2,4,1,1,4,0,0,41.3,31
+2026-03-05,Isac Lundeström,6855,CBJ,FLA,C,2025-26,0,0,0,0,0,0,0,0,23
 2026-03-05,Ian Cole,4874,UTA,PHI,D,2025-26,0,4,0,0,0,0,0,6.4,49
 2026-03-05,Haydn Fleury,5778,WPG,TB,D,2025-26,0,2,0,0,2,0,0,6.4,33
 2026-03-05,Hampus Lindholm,4862,BOS,NSH,D,2025-26,0,1,0,0,1,0,0,3.2,49
@@ -14602,6 +14624,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-03,Ivan Provorov,5393,CBJ,NSH,D,2025-26,0,4,0,0,1,0,0,8,32
 2026-03-03,Ivan Demidov,4829,MON,SJ,W,2025-26,0,0,1,1,3,0,0,17.3,43
 2026-03-03,Ivan Barbashev,4826,VGK,BUF,W,2025-26,0,0,1,0,3,0,0,16.8,68
+2026-03-03,Isac Lundeström,6855,CBJ,NSH,C,2025-26,0,0,0,0,1,0,0,1.6,24
 2026-03-03,Ilya Mikheyev,5381,CHI,WPG,W,2025-26,0,0,0,0,2,0,0,3.2,44
 2026-03-03,Ilya Lyubushkin,5486,DAL,CGY,D,2025-26,0,3,0,0,0,0,0,4.8,14
 2026-03-03,Ian Moore,6819,ANH,COL,D,2025-26,0,0,0,0,0,0,0,0,36
@@ -14825,6 +14848,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-03-02,Jaccob Slavin,4907,CAR,SEA,D,2025-26,0,0,0,0,3,0,0,4.8,61
 2026-03-02,J.T. Compher,5734,DET,NSH,C,2025-26,0,1,0,0,1,0,0,3.2,37
 2026-03-02,Ivan Provorov,5393,CBJ,NYR,D,2025-26,1,2,0,0,2,0,0,14.4,33
+2026-03-02,Isac Lundeström,6855,CBJ,NYR,C,2025-26,0,0,0,0,1,0,0,1.6,25
 2026-03-02,Ilya Lyubushkin,5486,DAL,VAN,D,2025-26,1,2,0,0,2,0,0,14.4,15
 2026-03-02,Gavin Brindley,6479,COL,LA,W,2025-26,0,0,0,0,0,0,0,0,18
 2026-03-02,Gabriel Landeskog,5837,COL,LA,W,2025-26,2,0,1,0,5,0,0,36,52
@@ -15384,6 +15408,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-28,J.J. Moser,5366,TB,BUF,D,2025-26,0,1,0,0,2,0,0,4.8,53
 2026-02-28,Ivan Provorov,5393,CBJ,NYI,D,2025-26,0,1,0,0,0,0,0,1.6,34
 2026-02-28,Ivan Demidov,4829,MON,WSH,W,2025-26,0,0,0,0,2,0,0,3.2,44
+2026-02-28,Isac Lundeström,6855,CBJ,NYI,C,2025-26,0,2,1,0,2,0,0,18.4,26
 2026-02-28,Ilya Mikheyev,5381,CHI,COL,W,2025-26,0,0,0,0,1,0,0,1.6,46
 2026-02-28,Ilya Lyubushkin,5486,DAL,NSH,D,2025-26,0,2,0,0,2,0,0,6.4,16
 2026-02-28,Henri Jokiharju,4906,BOS,PHI,D,2025-26,0,2,0,0,0,0,0,3.2,9
@@ -15964,6 +15989,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-26,J.J. Moser,5366,TB,CAR,D,2025-26,1,0,0,0,2,0,0,11.2,54
 2026-02-26,Ivan Provorov,5393,CBJ,BOS,D,2025-26,0,1,0,0,2,0,0,4.8,35
 2026-02-26,Ivan Demidov,4829,MON,NYI,W,2025-26,1,0,0,0,1,0,0,9.6,45
+2026-02-26,Isac Lundeström,6855,CBJ,BOS,C,2025-26,0,0,0,0,1,0,0,1.6,27
 2026-02-26,Ilya Mikheyev,5381,CHI,NSH,W,2025-26,0,0,0,0,0,0,0,0,47
 2026-02-26,Hampus Lindholm,4862,BOS,CBJ,D,2025-26,0,1,0,0,0,0,0,1.6,52
 2026-02-26,Gavin Brindley,6479,COL,MIN,W,2025-26,0,0,0,0,1,0,0,1.6,20
@@ -16809,6 +16835,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-04,Ivan Provorov,5393,CBJ,CHI,D,2025-26,0,1,1,0,1,0,0,15.2,36
 2026-02-04,Ivan Demidov,4829,MON,WPG,W,2025-26,0,0,0,0,0,0,0,0,46
 2026-02-04,Ivan Barbashev,4826,VGK,VAN,W,2025-26,0,0,1,0,3,0,0,16.8,73
+2026-02-04,Isac Lundeström,6855,CBJ,CHI,C,2025-26,0,0,0,0,0,0,0,0,28
 2026-02-04,Ilya Mikheyev,5381,CHI,CBJ,W,2025-26,0,0,0,0,1,0,0,1.6,48
 2026-02-04,Ilya Lyubushkin,5486,DAL,STL,D,2025-26,0,1,0,0,0,0,0,1.6,17
 2026-02-04,Ian Cole,4874,UTA,DET,D,2025-26,0,5,0,0,0,0,0,8,54
@@ -17079,6 +17106,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-02-03,J.J. Moser,5366,TB,BUF,D,2025-26,1,3,0,0,2,0,0,16,57
 2026-02-03,Ivan Provorov,5393,CBJ,NJ,D,2025-26,0,1,0,0,0,0,0,1.6,37
 2026-02-03,Isak Rosen,5750,BUF,TB,W,2025-26,0,0,0,0,0,0,0,0,42
+2026-02-03,Isac Lundeström,6855,CBJ,NJ,C,2025-26,0,0,0,0,0,0,0,0,29
 2026-02-03,Ilya Solovyov,5910,PIT,NYI,D,2025-26,1,0,0,0,2,0,0,11.2,17
 2026-02-03,Ian Moore,6819,ANH,SEA,D,2025-26,1,3,0,0,0,0,0,12.8,40
 2026-02-03,Hendrix Lapierre,5896,WSH,PHI,C,2025-26,0,0,0,0,2,0,0,3.2,36
@@ -17891,6 +17919,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-31,Ivan Provorov,5393,CBJ,STL,D,2025-26,1,3,0,0,0,0,0,12.8,38
 2026-01-31,Ivan Demidov,4829,MON,BUF,W,2025-26,0,0,0,0,3,0,0,4.8,48
 2026-01-31,Ivan Barbashev,4826,VGK,SEA,W,2025-26,0,3,1,0,3,0,0,21.6,75
+2026-01-31,Isac Lundeström,6855,CBJ,STL,C,2025-26,0,1,1,0,1,0,0,15.2,30
 2026-01-31,Ilya Solovyov,5910,PIT,NYR,D,2025-26,0,2,0,0,0,0,0,3.2,19
 2026-01-31,Ian Cole,4874,UTA,DAL,D,2025-26,0,1,0,0,2,0,0,4.8,56
 2026-01-31,Hendrix Lapierre,5896,WSH,CAR,C,2025-26,0,0,1,0,4,0,0,18.4,38
@@ -18085,6 +18114,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-30,Jake Christiansen,5423,CBJ,CHI,D,2025-26,0,0,0,0,1,0,0,1.6,27
 2026-01-30,J.T. Miller,4798,NYR,NYI,C,2025-26,1,1,0,0,2,0,0,12.8,45
 2026-01-30,Ivan Provorov,5393,CBJ,CHI,D,2025-26,0,1,0,0,2,0,0,4.8,39
+2026-01-30,Isac Lundeström,6855,CBJ,CHI,C,2025-26,0,0,0,0,0,0,0,0,31
 2026-01-30,Ilya Mikheyev,5381,CHI,CBJ,W,2025-26,0,0,0,0,1,0,0,1.6,50
 2026-01-30,Frank Nazar,4821,CHI,CBJ,C,2025-26,0,1,1,0,4,0,0,20,48
 2026-01-30,Filip Chytil,4846,VAN,ANH,C,2025-26,0,0,0,0,1,0,0,1.6,14
@@ -18650,6 +18680,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-28,Jake Sanderson,5830,OTT,COL,D,2025-26,1,1,0,0,1,0,0,11.2,33
 2026-01-28,Jack Drury,5489,COL,OTT,C,2025-26,1,0,0,0,1,0,0,9.6,67
 2026-01-28,Ivan Provorov,5393,CBJ,PHI,D,2025-26,0,1,0,0,4,0,0,8,40
+2026-01-28,Isac Lundeström,6855,CBJ,PHI,C,2025-26,0,1,0,0,1,0,0,3.2,32
 2026-01-28,Gavin Brindley,6479,COL,OTT,W,2025-26,0,0,0,0,1,0,0,1.6,26
 2026-01-28,Gabe Perreault,4864,NYR,NYI,W,2025-26,0,1,0,0,1,0,0,3.2,51
 2026-01-28,Filip Chytil,4846,,SJ,C,2025-26,0,0,0,0,2,0,0,3.2,15
@@ -19543,6 +19574,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-24,J.J. Moser,5366,TB,CBJ,D,2025-26,0,2,0,0,1,0,0,4.8,61
 2026-01-24,Ivan Provorov,5393,CBJ,TB,D,2025-26,0,1,0,0,1,0,0,3.2,41
 2026-01-24,Ivan Demidov,4829,MON,BOS,W,2025-26,0,0,0,0,0,0,0,0,51
+2026-01-24,Isac Lundeström,6855,CBJ,TB,C,2025-26,0,0,0,0,1,0,0,1.6,33
 2026-01-24,Ian Cole,4874,UTA,NSH,D,2025-26,0,2,0,0,0,0,0,3.2,60
 2026-01-24,Hendrix Lapierre,5896,WSH,EDM,C,2025-26,1,0,0,0,0,0,0,8,41
 2026-01-24,Hampus Lindholm,4862,BOS,MON,D,2025-26,1,2,0,0,0,0,0,11.2,58
@@ -20094,6 +20126,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-22,Ivan Provorov,5393,CBJ,DAL,D,2025-26,0,0,0,0,2,0,0,3.2,42
 2026-01-22,Ivan Demidov,4829,MON,BUF,W,2025-26,0,1,0,0,2,0,0,4.8,52
 2026-01-22,Ivan Barbashev,4826,VGK,BOS,W,2025-26,0,0,0,0,2,0,0,3.2,80
+2026-01-22,Isac Lundeström,6855,CBJ,DAL,C,2025-26,1,0,0,0,0,0,0,8,34
 2026-01-22,Ilya Mikheyev,5381,CHI,CAR,W,2025-26,1,1,1,0,2,0,0,24.8,55
 2026-01-22,Ilya Lyubushkin,5486,DAL,CBJ,D,2025-26,0,0,0,0,0,0,0,0,19
 2026-01-22,Hampus Lindholm,4862,BOS,VGK,D,2025-26,0,2,0,0,0,0,0,3.2,59
@@ -27582,6 +27615,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-22,Jackson LaCombe,5710,ANH,SEA,D,2025-26,1,1,0,0,1,0,0,11.2,81
 2025-12-22,J.J. Moser,5366,TB,STL,D,2025-26,0,1,0,0,1,0,0,3.2,75
 2025-12-22,Ivan Provorov,5393,CBJ,LA,D,2025-26,0,3,0,0,3,0,0,9.6,56
+2025-12-22,Isac Lundeström,6855,CBJ,LA,C,2025-26,0,0,0,0,3,0,0,4.8,35
 2025-12-22,Ian Moore,6819,ANH,SEA,D,2025-26,0,2,0,0,3,0,0,8,58
 2025-12-22,Gage Goncalves,5434,TB,STL,W,2025-26,0,2,0,0,0,0,0,3.2,69
 2025-12-22,Frederick Gaudreau,5446,SEA,ANH,C,2025-26,0,0,1,1,2,0,0,15.7,67
@@ -28208,6 +28242,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-20,Ivan Miroshnichenko,5800,WSH,DET,W,2025-26,0,0,0,0,2,0,0,3.2,16
 2025-12-20,Ivan Demidov,4829,MON,PIT,W,2025-26,0,0,0,0,0,0,0,0,68
 2025-12-20,Ivan Barbashev,4826,VGK,CGY,W,2025-26,0,0,0,0,3,0,0,4.8,96
+2025-12-20,Isac Lundeström,6855,CBJ,ANH,C,2025-26,0,0,0,0,0,0,0,0,36
 2025-12-20,Ilya Mikheyev,5381,CHI,OTT,W,2025-26,0,1,2,0,2,0,0,28.8,67
 2025-12-20,Igor Chernyshov,5396,SJ,SEA,W,2025-26,1,0,0,0,5,0,0,16,37
 2025-12-20,Ian Moore,6819,ANH,CBJ,D,2025-26,0,3,0,0,2,0,0,8,59
@@ -28736,6 +28771,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-18,J.J. Moser,5366,TB,LA,D,2025-26,0,2,0,0,2,0,0,6.4,77
 2025-12-18,Ivan Provorov,5393,CBJ,MIN,D,2025-26,0,0,0,0,0,0,0,0,58
 2025-12-18,Ivan Demidov,4829,MON,CHI,W,2025-26,1,0,0,0,5,0,0,16,69
+2025-12-18,Isac Lundeström,6855,CBJ,MIN,C,2025-26,0,0,0,0,2,0,0,3.2,37
 2025-12-18,Ilya Mikheyev,5381,CHI,MON,W,2025-26,0,0,0,0,2,0,0,3.2,68
 2025-12-18,Ilya Lyubushkin,5486,DAL,SJ,D,2025-26,0,5,0,0,0,0,0,8,33
 2025-12-18,Igor Chernyshov,5396,SJ,DAL,W,2025-26,1,1,0,0,3,0,0,14.4,38
@@ -29238,6 +29274,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-16,J.T. Compher,5734,DET,NYI,C,2025-26,0,2,0,0,0,0,0,3.2,64
 2025-12-16,Ivan Provorov,5393,CBJ,ANH,D,2025-26,1,4,0,0,1,0,0,16,59
 2025-12-16,Ivan Demidov,4829,MON,PHI,W,2025-26,0,0,0,0,1,0,0,1.6,70
+2025-12-16,Isac Lundeström,6855,CBJ,ANH,C,2025-26,0,0,0,0,1,0,0,1.6,38
 2025-12-16,Ilya Mikheyev,5381,CHI,TOR,W,2025-26,1,0,0,0,4,0,0,14.4,69
 2025-12-16,Igor Chernyshov,5396,SJ,CGY,W,2025-26,1,0,0,0,1,0,0,9.6,39
 2025-12-16,Ian Moore,6819,ANH,CBJ,D,2025-26,1,3,0,0,0,0,0,12.8,61
@@ -29989,6 +30026,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-13,Ivan Provorov,5393,CBJ,VGK,D,2025-26,0,1,0,0,3,0,0,6.4,60
 2025-12-13,Ivan Demidov,4829,MON,NYR,W,2025-26,0,0,0,0,0,0,0,0,72
 2025-12-13,Ivan Barbashev,4826,VGK,CBJ,W,2025-26,0,2,0,0,0,0,0,3.2,98
+2025-12-13,Isac Lundeström,6855,CBJ,VGK,C,2025-26,0,0,0,0,2,0,0,3.2,39
 2025-12-13,Ilya Mikheyev,5381,CHI,DET,W,2025-26,0,0,0,0,2,0,0,3.2,70
 2025-12-13,Ilya Lyubushkin,5486,DAL,FLA,D,2025-26,0,0,0,0,0,0,0,0,35
 2025-12-13,Ian Moore,6819,ANH,NJ,D,2025-26,0,3,0,0,2,0,0,8,63
@@ -30484,6 +30522,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-11,Ivan Demidov,4829,MON,PIT,W,2025-26,1,0,0,0,0,0,0,8,73
 2025-12-11,Ivan Barbashev,4826,VGK,PHI,W,2025-26,1,0,0,0,1,0,0,9.6,99
 2025-12-11,Isak Rosen,5750,BUF,VAN,W,2025-26,0,0,0,0,0,0,0,0,45
+2025-12-11,Isac Lundeström,6855,CBJ,OTT,C,2025-26,0,2,0,0,0,0,0,3.2,40
 2025-12-11,Henry Thrun,6832,TOR,SJ,D,2025-26,0,0,0,0,2,0,0,3.2,6
 2025-12-11,Hendrix Lapierre,5896,WSH,CAR,C,2025-26,0,1,0,0,0,0,0,1.6,61
 2025-12-11,Hampus Lindholm,4862,BOS,WPG,D,2025-26,0,3,1,0,2,0,0,20,72
@@ -30983,6 +31022,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-09,Ivan Demidov,4829,MON,TB,W,2025-26,1,0,0,0,1,0,0,9.6,74
 2025-12-09,Ivan Barbashev,4826,VGK,NYI,W,2025-26,0,0,1,0,2,0,0,15.2,100
 2025-12-09,Isak Rosen,5750,BUF,EDM,W,2025-26,0,0,0,0,1,0,0,1.6,46
+2025-12-09,Isac Lundeström,6855,CBJ,CAR,C,2025-26,0,0,0,0,0,0,0,0,41
 2025-12-09,Hampus Lindholm,4862,BOS,STL,D,2025-26,0,2,0,0,2,0,0,6.4,73
 2025-12-09,Garnet Hathaway,4974,PHI,SJ,W,2025-26,0,1,0,0,0,0,0,1.6,70
 2025-12-09,Gabriel Vilardi,5704,WPG,DAL,W,2025-26,1,1,0,0,2,0,0,12.8,77
@@ -31439,6 +31479,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-07,Ivan Provorov,5393,CBJ,WSH,D,2025-26,0,2,0,0,3,0,0,8,63
 2025-12-07,Ivan Demidov,4829,MON,STL,W,2025-26,1,0,0,0,2,0,0,11.2,75
 2025-12-07,Ivan Barbashev,4826,VGK,NYR,W,2025-26,0,0,0,0,2,0,0,3.2,101
+2025-12-07,Isac Lundeström,6855,CBJ,WSH,C,2025-26,0,0,0,0,2,0,0,3.2,42
 2025-12-07,Ilya Mikheyev,5381,CHI,ANH,W,2025-26,0,0,0,0,1,0,0,1.6,73
 2025-12-07,Hendrix Lapierre,5896,WSH,CBJ,C,2025-26,0,0,0,0,2,0,0,3.2,62
 2025-12-07,Gustav Forsling,4836,FLA,NYI,D,2025-26,1,2,0,0,1,0,0,12.8,75
@@ -31785,6 +31826,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-06,J.J. Moser,5366,TB,NYI,D,2025-26,0,1,0,0,1,0,0,3.2,83
 2025-12-06,Ivan Provorov,5393,CBJ,FLA,D,2025-26,2,3,0,0,1,0,0,22.4,64
 2025-12-06,Ivan Demidov,4829,MON,TOR,W,2025-26,1,0,0,0,2,0,0,11.2,76
+2025-12-06,Isac Lundeström,6855,CBJ,FLA,C,2025-26,1,1,1,0,2,0,0,24.8,43
 2025-12-06,Ilya Mikheyev,5381,CHI,LA,W,2025-26,0,1,0,0,2,0,0,4.8,74
 2025-12-06,Ian Cole,4874,UTA,CGY,D,2025-26,0,1,0,0,0,0,0,1.6,81
 2025-12-06,Hayden Hodgson,5918,OTT,STL,W,2025-26,0,0,0,0,1,0,0,1.6,12
@@ -32309,6 +32351,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-04,J.T. Compher,5734,DET,CBJ,C,2025-26,0,0,0,0,1,0,0,1.6,70
 2025-12-04,J.J. Moser,5366,TB,PIT,D,2025-26,0,1,0,0,1,0,0,3.2,84
 2025-12-04,Ivan Provorov,5393,CBJ,DET,D,2025-26,0,2,1,0,4,0,0,21.6,65
+2025-12-04,Isac Lundeström,6855,CBJ,DET,C,2025-26,0,0,0,0,0,0,0,0,44
 2025-12-04,Ilya Mikheyev,5381,CHI,LA,W,2025-26,0,0,0,0,4,0,0,6.4,75
 2025-12-04,Hampus Lindholm,4862,BOS,STL,D,2025-26,0,1,0,0,1,0,0,3.2,75
 2025-12-04,Gustav Forsling,4836,FLA,NSH,D,2025-26,0,2,0,0,3,0,0,8,77
@@ -33021,6 +33064,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-12-01,Jack McBain,5439,UTA,SJ,W,2025-26,0,1,0,0,1,0,0,3.2,74
 2025-12-01,JJ Peterka,4849,UTA,SJ,W,2025-26,0,1,1,0,4,0,0,20,84
 2025-12-01,Ivan Provorov,5393,CBJ,NJ,D,2025-26,1,0,0,0,1,0,0,9.6,66
+2025-12-01,Isac Lundeström,6855,CBJ,NJ,C,2025-26,1,1,0,0,2,0,0,12.8,45
 2025-12-01,Ian Moore,6819,ANH,STL,D,2025-26,1,0,0,0,0,0,0,8,65
 2025-12-01,Ian Cole,4874,UTA,SJ,D,2025-26,0,3,0,0,0,0,0,4.8,84
 2025-12-01,Garnet Hathaway,4974,PHI,PIT,W,2025-26,0,1,0,0,1,0,0,3.2,73
@@ -33890,6 +33934,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-28,Ivan Ivan,4999,,MIN,C,2025-26,0,0,0,0,0,0,0,0,9
 2025-11-28,Ivan Demidov,4829,MON,VGK,W,2025-26,0,1,0,0,1,0,0,3.2,80
 2025-11-28,Ivan Barbashev,4826,VGK,MON,W,2025-26,0,1,0,0,4,0,0,8,105
+2025-11-28,Isac Lundeström,6855,CBJ,PIT,C,2025-26,0,1,0,0,2,0,0,4.8,46
 2025-11-28,Ilya Mikheyev,5381,CHI,NSH,W,2025-26,0,0,0,0,0,0,0,0,78
 2025-11-28,Ian Cole,4874,UTA,DAL,D,2025-26,0,2,0,0,0,0,0,3.2,86
 2025-11-28,Henri Jokiharju,4906,BOS,NYR,D,2025-26,1,0,0,0,1,0,0,9.6,19
@@ -34389,6 +34434,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-26,Ivan Provorov,5393,CBJ,TOR,D,2025-26,0,0,0,0,3,0,0,4.8,68
 2025-11-26,Ivan Demidov,4829,MON,UTA,W,2025-26,0,1,1,0,1,0,0,15.2,81
 2025-11-26,Ivan Barbashev,4826,VGK,OTT,W,2025-26,1,1,0,0,2,0,0,12.8,106
+2025-11-26,Isac Lundeström,6855,CBJ,TOR,C,2025-26,0,1,0,0,2,0,0,4.8,47
 2025-11-26,Ilya Mikheyev,5381,CHI,MIN,W,2025-26,0,1,0,0,4,0,0,8,79
 2025-11-26,Ian Cole,4874,UTA,MON,D,2025-26,0,5,0,0,0,0,0,8,87
 2025-11-26,Hendrix Lapierre,5896,WSH,WPG,C,2025-26,0,0,0,0,0,0,0,0,68
@@ -34726,6 +34772,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-24,J.J. Moser,5366,TB,PHI,D,2025-26,0,2,0,0,0,0,0,3.2,89
 2025-11-24,Ivan Provorov,5393,CBJ,WSH,D,2025-26,0,4,0,0,1,0,0,8,69
 2025-11-24,Ivan Barbashev,4826,VGK,UTA,W,2025-26,0,0,1,0,2,0,0,15.2,107
+2025-11-24,Isac Lundeström,6855,CBJ,WSH,C,2025-26,0,0,0,0,1,0,0,1.6,48
 2025-11-24,Ian Cole,4874,UTA,VGK,D,2025-26,1,1,0,0,1,0,0,11.2,88
 2025-11-24,Henri Jokiharju,4906,,SJ,D,2025-26,1,0,0,0,2,0,0,11.2,21
 2025-11-24,Hendrix Lapierre,5896,WSH,CBJ,C,2025-26,1,0,0,0,0,0,0,8,69
@@ -35264,6 +35311,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-22,Ivan Provorov,5393,CBJ,DET,D,2025-26,1,1,0,0,2,0,0,12.8,70
 2025-11-22,Ivan Demidov,4829,MON,TOR,W,2025-26,2,0,0,0,1,0,0,17.6,82
 2025-11-22,Ivan Barbashev,4826,VGK,ANH,W,2025-26,1,1,0,0,2,0,0,12.8,108
+2025-11-22,Isac Lundeström,6855,CBJ,DET,C,2025-26,0,0,0,0,0,0,0,0,49
 2025-11-22,Ian Cole,4874,UTA,NYR,D,2025-26,0,2,0,0,1,0,0,4.8,89
 2025-11-22,Henri Jokiharju,4906,,LA,D,2025-26,0,0,0,0,1,0,0,1.6,22
 2025-11-22,Hendrix Lapierre,5896,WSH,TB,C,2025-26,0,0,0,0,1,0,0,1.6,70
@@ -35782,6 +35830,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-20,Ivan Provorov,5393,CBJ,TOR,D,2025-26,0,4,0,0,3,0,0,11.2,71
 2025-11-20,Ivan Demidov,4829,MON,WSH,W,2025-26,1,0,0,0,0,0,0,8,83
 2025-11-20,Ivan Barbashev,4826,VGK,UTA,W,2025-26,0,0,0,0,0,0,0,0,109
+2025-11-20,Isac Lundeström,6855,CBJ,TOR,C,2025-26,0,3,0,0,0,0,0,4.8,50
 2025-11-20,Ilya Mikheyev,5381,CHI,SEA,W,2025-26,0,0,0,0,0,0,0,0,82
 2025-11-20,Ian Moore,6819,ANH,OTT,D,2025-26,0,2,0,0,0,0,0,3.2,66
 2025-11-20,Ian Cole,4874,UTA,VGK,D,2025-26,1,0,0,0,0,0,0,8,90
@@ -36235,6 +36284,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-18,J.J. Moser,5366,TB,NJ,D,2025-26,1,2,0,0,1,0,0,12.8,92
 2025-11-18,Ivan Provorov,5393,CBJ,WPG,D,2025-26,0,4,0,0,1,0,0,8,72
 2025-11-18,Ivan Barbashev,4826,VGK,NYR,W,2025-26,0,0,0,0,0,0,0,0,110
+2025-11-18,Isac Lundeström,6855,CBJ,WPG,C,2025-26,0,0,0,0,0,0,0,0,51
 2025-11-18,Ilya Mikheyev,5381,CHI,CGY,W,2025-26,0,0,0,0,1,0,0,1.6,83
 2025-11-18,Ian Cole,4874,UTA,SJ,D,2025-26,0,1,0,0,1,0,0,3.2,91
 2025-11-18,Henri Jokiharju,4906,BOS,CAR,D,2025-26,1,1,0,0,0,0,0,9.6,24
@@ -36454,6 +36504,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-17,Ivan Provorov,5393,CBJ,MON,D,2025-26,0,0,0,0,1,0,0,1.6,73
 2025-11-17,Ivan Demidov,4829,MON,CBJ,W,2025-26,1,1,0,0,2,0,0,12.8,84
 2025-11-17,Isak Rosen,5750,BUF,EDM,W,2025-26,1,1,0,0,1,0,0,11.2,49
+2025-11-17,Isac Lundeström,6855,CBJ,MON,C,2025-26,0,1,0,0,2,0,0,4.8,52
 2025-11-17,Ian Moore,6819,ANH,UTA,D,2025-26,0,4,0,0,0,0,0,6.4,68
 2025-11-17,Ian Cole,4874,UTA,ANH,D,2025-26,0,3,0,0,0,0,0,4.8,92
 2025-11-17,Hendrix Lapierre,5896,WSH,LA,C,2025-26,0,0,0,0,0,0,0,0,73
@@ -36964,6 +37015,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-15,Ivan Demidov,4829,MON,BOS,W,2025-26,0,0,0,0,0,0,0,0,85
 2025-11-15,Ivan Barbashev,4826,VGK,STL,W,2025-26,0,0,0,0,1,0,0,1.6,112
 2025-11-15,Isak Rosen,5750,BUF,DET,W,2025-26,0,2,0,0,1,0,0,4.8,50
+2025-11-15,Isac Lundeström,6855,CBJ,NYR,C,2025-26,0,0,0,0,0,0,0,0,53
 2025-11-15,Ilya Mikheyev,5381,CHI,TOR,W,2025-26,1,1,0,0,2,0,0,12.8,84
 2025-11-15,Ilya Lyubushkin,5486,DAL,PHI,D,2025-26,1,1,0,0,0,0,0,9.6,40
 2025-11-15,Ian Moore,6819,ANH,MIN,D,2025-26,0,1,0,0,1,0,0,3.2,69
@@ -37451,6 +37503,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-13,Ivan Demidov,4829,MON,DAL,W,2025-26,0,1,0,0,2,0,0,4.8,86
 2025-11-13,Ivan Barbashev,4826,VGK,NYI,W,2025-26,0,3,0,0,0,0,0,4.8,113
 2025-11-13,Isak Rosen,5750,BUF,COL,W,2025-26,1,0,0,0,2,0,0,11.2,51
+2025-11-13,Isac Lundeström,6855,CBJ,EDM,C,2025-26,0,0,0,0,1,0,0,1.6,54
 2025-11-13,Isaac Howard,4969,,PHI,W,2025-26,0,0,0,0,3,0,0,4.8,26
 2025-11-13,Ilya Lyubushkin,5486,DAL,MON,D,2025-26,1,2,0,0,0,0,0,11.2,41
 2025-11-13,Ian Moore,6819,ANH,DET,D,2025-26,1,3,0,0,1,0,0,14.4,70
@@ -37897,6 +37950,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-11,Jack Ahcan,5511,COL,ANH,D,2025-26,0,0,0,0,1,0,0,1.6,12
 2025-11-11,Ivan Provorov,5393,CBJ,SEA,D,2025-26,0,2,0,0,1,0,0,4.8,76
 2025-11-11,Ivan Demidov,4829,MON,LA,W,2025-26,0,0,0,0,1,0,0,1.6,87
+2025-11-11,Isac Lundeström,6855,CBJ,SEA,C,2025-26,0,0,0,0,0,0,0,0,55
 2025-11-11,Isaac Howard,4969,,CBJ,W,2025-26,0,0,0,0,1,0,0,1.6,27
 2025-11-11,Ilya Lyubushkin,5486,DAL,OTT,D,2025-26,0,0,0,0,0,0,0,0,42
 2025-11-11,Ian Moore,6819,ANH,COL,D,2025-26,0,6,0,0,1,0,0,11.2,71
@@ -38081,6 +38135,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-10,J.T. Miller,4798,NYR,NSH,C,2025-26,0,0,0,0,0,0,0,0,74
 2025-11-10,Ivan Provorov,5393,CBJ,EDM,D,2025-26,0,0,1,0,1,0,0,13.6,77
 2025-11-10,Ivan Barbashev,4826,VGK,FLA,W,2025-26,0,1,1,0,3,0,0,18.4,114
+2025-11-10,Isac Lundeström,6855,CBJ,EDM,C,2025-26,0,0,0,0,0,0,0,0,56
 2025-11-10,Gustav Forsling,4836,FLA,VGK,D,2025-26,1,1,0,0,0,0,0,9.6,87
 2025-11-10,Gabe Perreault,4864,NYR,NSH,W,2025-26,1,1,0,0,1,0,0,11.2,71
 2025-11-10,Filip Forsberg,5308,NSH,NYR,W,2025-26,1,0,0,0,5,0,0,16,87
@@ -39359,6 +39414,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-05,Jack McBain,5439,UTA,TOR,W,2025-26,0,0,0,0,1,0,0,1.6,87
 2025-11-05,JJ Peterka,4849,UTA,TOR,W,2025-26,0,0,0,0,1,0,0,1.6,97
 2025-11-05,Ivan Provorov,5393,CBJ,CGY,D,2025-26,0,1,0,0,6,0,0,11.2,79
+2025-11-05,Isac Lundeström,6855,CBJ,CGY,C,2025-26,0,0,0,0,1,0,0,1.6,57
 2025-11-05,Isaac Howard,4969,EDM,DAL,W,2025-26,0,0,0,0,0,0,0,0,29
 2025-11-05,Ilya Mikheyev,5381,CHI,VAN,W,2025-26,0,0,1,0,2,0,0,15.2,88
 2025-11-05,Ian Cole,4874,UTA,TOR,D,2025-26,0,2,0,0,2,0,0,6.4,97
@@ -39977,6 +40033,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-02,J.T. Compher,5734,DET,SJ,C,2025-26,0,1,0,0,3,0,0,6.4,85
 2025-11-02,J.J. Moser,5366,TB,UTA,D,2025-26,0,1,0,0,3,0,0,6.4,99
 2025-11-02,Ivan Provorov,5393,CBJ,NYI,D,2025-26,0,0,0,0,1,0,0,1.6,80
+2025-11-02,Isac Lundeström,6855,CBJ,NYI,C,2025-26,0,0,0,0,0,0,0,0,58
 2025-11-02,Isaac Howard,4969,,CHI,W,2025-26,0,0,0,0,3,0,0,4.8,31
 2025-11-02,Ian Moore,6819,ANH,NJ,D,2025-26,0,0,0,0,1,0,0,1.6,76
 2025-11-02,Ian Cole,4874,UTA,TB,D,2025-26,2,0,0,0,0,0,0,16,99
@@ -40310,6 +40367,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-01,Ivan Provorov,5393,CBJ,STL,D,2025-26,1,4,0,0,2,0,0,17.6,81
 2025-11-01,Ivan Demidov,4829,MON,OTT,W,2025-26,0,1,1,0,4,0,0,20,91
 2025-11-01,Isak Rosen,5750,BUF,WSH,W,2025-26,0,2,1,0,3,0,0,20,56
+2025-11-01,Isac Lundeström,6855,CBJ,STL,C,2025-26,0,0,0,0,2,0,0,3.2,59
 2025-11-01,Ilya Solovyov,5910,COL,SJ,D,2025-26,0,3,0,0,0,0,0,4.8,28
 2025-11-01,Ilya Mikheyev,5381,CHI,EDM,W,2025-26,0,0,0,0,1,0,0,1.6,90
 2025-11-01,Ilya Lyubushkin,5486,DAL,FLA,D,2025-26,0,7,0,0,0,0,0,11.2,47
@@ -40937,6 +40995,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-29,Jake McCabe,4847,TOR,CBJ,D,2025-26,1,1,0,0,1,0,0,11.2,94
 2025-10-29,Jake Christiansen,5423,CBJ,TOR,D,2025-26,0,3,0,0,2,0,0,8,53
 2025-10-29,Ivan Provorov,5393,CBJ,TOR,D,2025-26,0,0,1,0,3,0,0,16.8,82
+2025-10-29,Isac Lundeström,6855,CBJ,TOR,C,2025-26,0,0,0,0,1,0,0,1.6,60
 2025-10-29,Isaac Howard,4969,,UTA,W,2025-26,0,0,1,0,2,0,0,15.2,33
 2025-10-29,Egor Chinakhov,5845,CBJ,TOR,W,2025-26,0,0,0,0,3,0,0,4.8,89
 2025-10-29,Easton Cowan,4850,TOR,CBJ,W,2025-26,0,1,0,0,3,0,0,6.4,83
@@ -41289,6 +41348,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-28,Ivan Provorov,5393,CBJ,BUF,D,2025-26,0,1,0,0,1,0,0,3.2,83
 2025-10-28,Ivan Demidov,4829,MON,SEA,W,2025-26,0,1,0,0,1,0,0,3.2,92
 2025-10-28,Ivan Barbashev,4826,VGK,CAR,W,2025-26,2,1,0,0,1,0,0,19.2,119
+2025-10-28,Isac Lundeström,6855,CBJ,BUF,C,2025-26,1,1,0,0,1,0,0,11.2,61
 2025-10-28,Ilya Lyubushkin,5486,DAL,WSH,D,2025-26,0,2,0,0,1,0,0,4.8,49
 2025-10-28,Ian Moore,6819,ANH,FLA,D,2025-26,0,1,0,0,1,0,0,3.2,78
 2025-10-28,Ian Cole,4874,UTA,EDM,D,2025-26,0,2,0,0,2,0,0,6.4,100
@@ -42076,6 +42136,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-25,Ivan Provorov,5393,CBJ,PIT,D,2025-26,0,2,0,0,1,0,0,4.8,84
 2025-10-25,Ivan Demidov,4829,MON,VAN,W,2025-26,2,1,1,0,1,0,0,31.2,93
 2025-10-25,Ivan Barbashev,4826,VGK,FLA,W,2025-26,0,1,0,0,3,0,0,6.4,121
+2025-10-25,Isac Lundeström,6855,CBJ,PIT,C,2025-26,1,0,0,0,0,0,0,8,62
 2025-10-25,Ilya Solovyov,5910,COL,BOS,D,2025-26,0,0,0,0,1,0,0,1.6,30
 2025-10-25,Ilya Lyubushkin,5486,DAL,CAR,D,2025-26,0,4,0,0,1,0,0,8,51
 2025-10-25,Ian Moore,6819,ANH,TB,D,2025-26,0,0,0,0,0,0,0,0,79
@@ -42313,6 +42374,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-24,Jack Quinn,5354,BUF,TOR,W,2025-26,0,0,0,0,2,0,0,3.2,110
 2025-10-24,Jack Hughes,5281,NJ,SJ,C,2025-26,1,2,0,0,2,0,0,14.4,76
 2025-10-24,Ivan Provorov,5393,CBJ,WSH,D,2025-26,0,1,0,0,2,0,0,4.8,85
+2025-10-24,Isac Lundeström,6855,CBJ,WSH,C,2025-26,0,1,0,0,1,0,0,3.2,63
 2025-10-24,Isaac Howard,4969,EDM,MON,W,2025-26,0,0,0,0,1,0,0,1.6,36
 2025-10-24,Hendrix Lapierre,5896,WSH,CBJ,C,2025-26,1,0,0,0,5,0,0,16,84
 2025-10-24,Haydn Fleury,5778,WPG,CGY,D,2025-26,0,1,0,0,1,0,0,3.2,46
@@ -43064,6 +43126,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-21,Jack Drury,5489,COL,UTA,C,2025-26,0,0,1,0,2,0,0,15.2,111
 2025-10-21,JJ Peterka,4849,UTA,COL,W,2025-26,0,1,0,0,1,0,0,3.2,104
 2025-10-21,Ivan Provorov,5393,CBJ,DAL,D,2025-26,0,1,0,0,3,0,0,6.4,86
+2025-10-21,Isac Lundeström,6855,CBJ,DAL,C,2025-26,0,0,0,0,1,0,0,1.6,64
 2025-10-21,Isaac Howard,4969,,OTT,W,2025-26,0,0,1,0,1,0,0,13.6,37
 2025-10-21,Ilya Solovyov,5910,COL,UTA,D,2025-26,0,1,0,0,2,0,0,4.8,32
 2025-10-21,Ilya Lyubushkin,5486,DAL,CBJ,D,2025-26,0,2,0,0,0,0,0,3.2,53
@@ -43769,6 +43832,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-18,Ivan Provorov,5393,CBJ,TB,D,2025-26,0,2,0,0,4,0,0,9.6,87
 2025-10-18,Ivan Demidov,4829,MON,NYR,W,2025-26,1,0,0,0,1,0,0,9.6,97
 2025-10-18,Ivan Barbashev,4826,VGK,CGY,W,2025-26,1,0,1,0,1,0,0,21.6,123
+2025-10-18,Isac Lundeström,6855,CBJ,TB,C,2025-26,0,0,0,0,0,0,0,0,65
 2025-10-18,Ilya Solovyov,5910,COL,BOS,D,2025-26,0,2,0,0,0,0,0,3.2,33
 2025-10-18,Ilya Lyubushkin,5486,DAL,STL,D,2025-26,0,0,0,0,2,0,0,3.2,54
 2025-10-18,Henri Jokiharju,4906,BOS,COL,D,2025-26,0,1,0,0,0,0,0,1.6,38
@@ -44284,6 +44348,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-16,Ivan Provorov,5393,CBJ,COL,D,2025-26,0,1,1,0,1,0,0,15.2,88
 2025-10-16,Ivan Demidov,4829,MON,NSH,W,2025-26,0,0,0,0,3,0,0,4.8,98
 2025-10-16,Ivan Barbashev,4826,VGK,BOS,W,2025-26,1,0,0,0,0,0,0,8,124
+2025-10-16,Isac Lundeström,6855,CBJ,COL,C,2025-26,0,2,0,0,0,0,0,3.2,66
 2025-10-16,Isaac Howard,4969,EDM,NYI,W,2025-26,0,0,0,0,0,0,0,0,39
 2025-10-16,Ilya Solovyov,5910,COL,CBJ,D,2025-26,0,0,0,0,0,0,0,0,34
 2025-10-16,Henri Jokiharju,4906,BOS,VGK,D,2025-26,1,1,0,0,2,0,0,12.8,39
@@ -45016,6 +45081,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-13,J.T. Compher,5734,DET,TOR,C,2025-26,0,0,0,0,0,0,0,0,95
 2025-10-13,J.J. Moser,5366,TB,BOS,D,2025-26,1,0,0,0,0,0,0,8,108
 2025-10-13,Ivan Provorov,5393,CBJ,NJ,D,2025-26,1,1,0,0,2,0,0,12.8,89
+2025-10-13,Isac Lundeström,6855,CBJ,NJ,C,2025-26,0,0,0,0,1,0,0,1.6,67
 2025-10-13,Ilya Solovyov,5910,COL,BUF,D,2025-26,0,3,0,0,3,0,0,9.6,35
 2025-10-13,Ilya Mikheyev,5381,CHI,UTA,W,2025-26,0,1,2,0,3,0,0,30.4,96
 2025-10-13,Ian Cole,4874,UTA,CHI,D,2025-26,0,0,0,0,0,0,0,0,108
@@ -45519,6 +45585,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-11,Ivan Provorov,5393,CBJ,MIN,D,2025-26,1,5,0,0,1,0,0,17.6,90
 2025-10-11,Ivan Demidov,4829,MON,CHI,W,2025-26,0,0,0,0,1,0,0,1.6,100
 2025-10-11,Ivan Barbashev,4826,VGK,SEA,W,2025-26,0,0,0,0,2,0,0,3.2,126
+2025-10-11,Isac Lundeström,6855,CBJ,MIN,C,2025-26,0,1,0,0,0,0,0,1.6,68
 2025-10-11,Isaac Howard,4969,EDM,VAN,W,2025-26,0,0,0,0,1,0,0,1.6,41
 2025-10-11,Ilya Solovyov,5910,COL,DAL,D,2025-26,0,3,0,0,1,0,0,6.4,36
 2025-10-11,Ilya Mikheyev,5381,CHI,MON,W,2025-26,0,0,0,0,2,0,0,3.2,97
@@ -46000,6 +46067,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-10-09,Ivan Provorov,5393,CBJ,NSH,D,2025-26,0,0,0,0,4,0,0,6.4,91
 2025-10-09,Ivan Demidov,4829,MON,DET,W,2025-26,1,0,0,0,0,0,0,8,101
 2025-10-09,Ivan Barbashev,4826,VGK,SJ,W,2025-26,0,0,0,0,1,0,0,1.6,127
+2025-10-09,Isac Lundeström,6855,CBJ,NSH,C,2025-26,0,1,0,0,0,0,0,1.6,69
 2025-10-09,Ilya Mikheyev,5381,CHI,BOS,W,2025-26,0,0,0,0,0,0,0,0,98
 2025-10-09,Ilya Lyubushkin,5486,DAL,WPG,D,2025-26,0,2,0,0,1,0,0,4.8,56
 2025-10-09,Ian Cole,4874,UTA,COL,D,2025-26,0,5,0,0,0,0,0,8,110

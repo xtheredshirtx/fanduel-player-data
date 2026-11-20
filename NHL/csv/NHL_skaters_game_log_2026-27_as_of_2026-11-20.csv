@@ -55,6 +55,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-19,Taylor Hall,4807,CAR,MON,W,2026-27,0,0,0,0,1,0,0,1.6,1
 2026-11-19,Tage Thompson,5295,BUF,WSH,C,2026-27,0,0,1,1,4,0,0,18.9,1
 2026-11-19,T.J. Hughes,5903,COL,ANH,W,2026-27,1,2,0,0,2,0,0,14.4,1
+2026-11-19,Stian Solberg,6857,ANH,COL,D,2026-27,0,5,0,0,1,0,0,9.6,1
 2026-11-19,Steven Lorentz,6825,CBJ,CHI,W,2026-27,0,0,0,0,1,0,0,1.6,1
 2026-11-19,Stephen Halliday,5897,OTT,PHI,C,2026-27,1,0,0,0,2,0,0,11.2,1
 2026-11-19,Spencer Stastney,4990,PIT,STL,D,2026-27,0,2,0,0,0,0,0,3.2,1
@@ -276,6 +277,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-19,J.J. Moser,5366,TB,EDM,D,2026-27,0,0,0,0,0,0,0,0,1
 2026-11-19,Ivan Provorov,5393,CBJ,CHI,D,2026-27,0,0,0,0,3,0,0,4.8,1
 2026-11-19,Ivan Barbashev,4826,VGK,DAL,W,2026-27,0,1,0,0,3,0,0,6.4,1
+2026-11-19,Isac Lundeström,6855,CBJ,CHI,C,2026-27,0,2,0,0,0,0,0,3.2,1
 2026-11-19,Ilya Protas,5721,WSH,BUF,W,2026-27,1,0,0,0,2,0,0,11.2,1
 2026-11-19,Ilya Mikheyev,5381,TB,EDM,W,2026-27,0,0,1,0,3,0,0,16.8,1
 2026-11-19,Ian Moore,6819,ANH,COL,D,2026-27,0,2,0,0,4,0,0,9.6,1
@@ -801,6 +803,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-17,Erik Gustafsson,5912,LA,BOS,D,2026-27,1,0,1,0,2,0,0,23.2,2
 2026-11-17,Erik Gudbranson,5468,CBJ,NYI,D,2026-27,0,2,0,0,2,0,0,6.4,2
 2026-11-17,Erik Cernak,5452,TB,WSH,D,2026-27,0,2,0,0,0,0,0,3.2,2
+2026-11-17,Eric Pohlkamp,6854,SJ,CGY,D,2026-27,0,0,0,0,0,0,0,0,1
 2026-11-17,Emil Heineman,5886,NYI,CBJ,W,2026-27,0,1,0,0,1,0,0,3.2,2
 2026-11-17,Elias Lindholm,4823,BOS,LA,C,2026-27,0,1,0,0,1,0,0,3.2,2
 2026-11-17,Eetu Luostarinen,4857,FLA,EDM,W,2026-27,0,0,0,0,1,0,0,1.6,1
@@ -1115,6 +1118,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-15,Filip Chytil,4846,VAN,VGK,C,2026-27,0,1,2,0,5,0,0,33.6,3
 2026-11-15,Evan Bouchard,4769,EDM,PHI,D,2026-27,2,1,0,0,1,0,0,19.2,3
 2026-11-15,Esa Lindell,5726,DAL,FLA,D,2026-27,0,3,0,0,0,0,0,4.8,3
+2026-11-15,Eric Pohlkamp,6854,SJ,NSH,D,2026-27,0,2,0,0,2,0,0,6.4,2
 2026-11-15,Elias Pettersson,4792,VAN,VGK,C,2026-27,1,1,1,1,1,0,0,23.7,3
 2026-11-15,Eetu Luostarinen,4857,FLA,DAL,W,2026-27,0,0,0,0,0,0,0,0,2
 2026-11-15,Dylan Coghlan,5011,VGK,VAN,D,2026-27,1,0,0,0,4,0,0,14.4,3
@@ -1498,6 +1502,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-14,Esa Lindell,5726,DAL,BUF,D,2026-27,0,3,0,0,4,0,0,11.2,4
 2026-11-14,Erik Karlsson,5840,PIT,OTT,D,2026-27,0,1,0,0,1,0,0,3.2,2
 2026-11-14,Erik Haula,5860,LA,CGY,C,2026-27,0,0,0,0,1,0,0,1.6,3
+2026-11-14,Eric Pohlkamp,6854,SJ,UTA,D,2026-27,0,1,1,0,2,0,0,16.8,3
 2026-11-14,Emmitt Finnie,5732,DET,TB,W,2026-27,0,1,0,0,2,0,0,4.8,2
 2026-11-14,Emil Lilleberg,5496,TB,DET,D,2026-27,0,0,0,0,0,0,0,0,1
 2026-11-14,Emil Heineman,5886,NYI,ANH,W,2026-27,0,3,0,0,1,0,0,6.4,3
@@ -2274,6 +2279,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-11,Evan Bouchard,4769,EDM,PHI,D,2026-27,1,1,1,0,2,0,0,24.8,5
 2026-11-11,Erik Karlsson,5840,PIT,SJ,D,2026-27,1,0,0,0,5,0,0,16,3
 2026-11-11,Erik Cernak,5452,TB,BUF,D,2026-27,0,1,0,0,0,0,0,1.6,3
+2026-11-11,Eric Pohlkamp,6854,SJ,PIT,D,2026-27,0,5,0,0,2,0,0,11.2,4
 2026-11-11,Egor Chinakhov,5845,PIT,SJ,W,2026-27,0,1,0,0,4,0,0,8,3
 2026-11-11,Eeli Tolvanen,4860,NYR,CGY,W,2026-27,0,1,0,0,3,0,0,6.4,3
 2026-11-11,Dylan Coghlan,5011,VGK,UTA,D,2026-27,0,0,0,0,2,0,0,3.2,5
@@ -2649,6 +2655,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-09,Gabe Perreault,4864,NYR,EDM,W,2026-27,0,0,0,0,0,0,0,0,4
 2026-11-09,Filip Hronek,4820,VAN,PHI,D,2026-27,0,3,0,0,0,0,0,4.8,5
 2026-11-09,Evan Bouchard,4769,EDM,NYR,D,2026-27,0,1,0,0,1,0,0,3.2,6
+2026-11-09,Eric Pohlkamp,6854,SJ,NYI,D,2026-27,1,0,0,0,0,0,0,8,5
 2026-11-09,Emil Heineman,5886,NYI,SJ,W,2026-27,0,0,0,0,2,0,0,3.2,5
 2026-11-09,Elias Pettersson,4792,VAN,PHI,C,2026-27,1,1,0,0,1,0,0,11.2,5
 2026-11-09,Eeli Tolvanen,4860,NYR,EDM,W,2026-27,0,1,0,0,0,0,0,1.6,4
@@ -3177,6 +3184,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-07,Erik Gustafsson,5912,LA,PIT,D,2026-27,1,1,0,0,3,0,0,14.4,3
 2026-11-07,Erik Cernak,5452,TB,MIN,D,2026-27,0,2,0,0,0,0,0,3.2,5
 2026-11-07,Eric Robinson,4931,CAR,CHI,W,2026-27,2,0,0,0,1,0,0,17.6,3
+2026-11-07,Eric Pohlkamp,6854,SJ,DAL,D,2026-27,1,1,0,0,0,0,0,9.6,6
 2026-11-07,Emmitt Finnie,5732,DET,COL,W,2026-27,0,0,0,0,1,0,0,1.6,5
 2026-11-07,Emil Heineman,5886,NYI,NJ,W,2026-27,1,0,0,0,2,0,0,11.2,6
 2026-11-07,Elias Pettersson,4792,VAN,EDM,C,2026-27,1,0,0,0,0,0,0,8,6
@@ -3394,6 +3402,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-06,Jack Quinn,5354,BUF,CBJ,W,2026-27,1,0,1,0,3,0,0,24.8,7
 2026-11-06,Ivar Stenberg,5457,SJ,MIN,W,2026-27,0,0,0,0,0,0,0,0,7
 2026-11-06,Ivan Provorov,5393,CBJ,BUF,D,2026-27,0,0,0,0,3,0,0,4.8,6
+2026-11-06,Eric Pohlkamp,6854,SJ,MIN,D,2026-27,0,3,0,0,1,0,0,6.4,7
 2026-11-06,Drew Helleson,6480,ANH,CGY,D,2026-27,0,0,0,0,1,0,0,1.6,6
 2026-11-06,Dmitry Orlov,5419,SJ,MIN,D,2026-27,1,2,0,0,0,0,0,11.2,7
 2026-11-06,Dmitri Voronkov,5450,CBJ,BUF,W,2026-27,0,0,0,0,0,0,0,0,5
@@ -3911,6 +3920,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-04,Ethan Del Mastro,4992,CHI,FLA,D,2026-27,2,0,0,0,0,0,0,16,6
 2026-11-04,Erik Haula,5860,LA,SJ,C,2026-27,1,1,1,0,2,0,0,24.8,7
 2026-11-04,Erik Gustafsson,5912,LA,SJ,D,2026-27,2,0,0,0,0,0,0,16,4
+2026-11-04,Eric Pohlkamp,6854,SJ,LA,D,2026-27,0,1,0,0,3,0,0,6.4,8
 2026-11-04,Eetu Luostarinen,4857,FLA,CHI,W,2026-27,0,2,0,0,0,0,0,3.2,8
 2026-11-04,Dylan Cozens,5834,OTT,BUF,C,2026-27,0,1,0,0,0,0,0,1.6,7
 2026-11-04,Drew Doughty,5869,LA,SJ,D,2026-27,0,1,0,0,1,0,0,3.2,7
