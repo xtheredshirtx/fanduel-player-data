@@ -1,8 +1,8 @@
-# NHL player data - As of 11/20/2026
+# NHL player data - As of 11/21/2026
 
 Every NHL player game we have, with FanDuel fantasy points, plus season summaries.
 
-**Download:** [`NHL_player_data_as_of_2026-11-20.xlsx`](NHL_player_data_as_of_2026-11-20.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
+**Download:** [`NHL_player_data_as_of_2026-11-21.xlsx`](NHL_player_data_as_of_2026-11-21.xlsx) (Excel, Google Sheets, LibreOffice, Numbers) - the
 first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searchable table.
 
 ## Tabs
@@ -24,14 +24,14 @@ first tab explains everything. Or open a CSV below; GitHub shows CSVs as a searc
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
 
 ## CSV files
-- [`NHL_goalies_game_log_2024-25_as_of_2026-11-20.csv`](csv/NHL_goalies_game_log_2024-25_as_of_2026-11-20.csv)
-- [`NHL_goalies_game_log_2025-26_as_of_2026-11-20.csv`](csv/NHL_goalies_game_log_2025-26_as_of_2026-11-20.csv)
-- [`NHL_goalies_game_log_2026-27_as_of_2026-11-20.csv`](csv/NHL_goalies_game_log_2026-27_as_of_2026-11-20.csv)
-- [`NHL_goalies_summary_as_of_2026-11-20.csv`](csv/NHL_goalies_summary_as_of_2026-11-20.csv)
-- [`NHL_skaters_game_log_2024-25_as_of_2026-11-20.csv`](csv/NHL_skaters_game_log_2024-25_as_of_2026-11-20.csv)
-- [`NHL_skaters_game_log_2025-26_as_of_2026-11-20.csv`](csv/NHL_skaters_game_log_2025-26_as_of_2026-11-20.csv)
-- [`NHL_skaters_game_log_2026-27_as_of_2026-11-20.csv`](csv/NHL_skaters_game_log_2026-27_as_of_2026-11-20.csv)
-- [`NHL_skaters_summary_as_of_2026-11-20.csv`](csv/NHL_skaters_summary_as_of_2026-11-20.csv)
+- [`NHL_goalies_game_log_2024-25_as_of_2026-11-21.csv`](csv/NHL_goalies_game_log_2024-25_as_of_2026-11-21.csv)
+- [`NHL_goalies_game_log_2025-26_as_of_2026-11-21.csv`](csv/NHL_goalies_game_log_2025-26_as_of_2026-11-21.csv)
+- [`NHL_goalies_game_log_2026-27_as_of_2026-11-21.csv`](csv/NHL_goalies_game_log_2026-27_as_of_2026-11-21.csv)
+- [`NHL_goalies_summary_as_of_2026-11-21.csv`](csv/NHL_goalies_summary_as_of_2026-11-21.csv)
+- [`NHL_skaters_game_log_2024-25_as_of_2026-11-21.csv`](csv/NHL_skaters_game_log_2024-25_as_of_2026-11-21.csv)
+- [`NHL_skaters_game_log_2025-26_as_of_2026-11-21.csv`](csv/NHL_skaters_game_log_2025-26_as_of_2026-11-21.csv)
+- [`NHL_skaters_game_log_2026-27_as_of_2026-11-21.csv`](csv/NHL_skaters_game_log_2026-27_as_of_2026-11-21.csv)
+- [`NHL_skaters_summary_as_of_2026-11-21.csv`](csv/NHL_skaters_summary_as_of_2026-11-21.csv)
 
 ## FanDuel scoring used
 | Group | Stat | FD points | Note |
