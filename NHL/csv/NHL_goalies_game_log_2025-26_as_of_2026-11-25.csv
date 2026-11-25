@@ -71,6 +71,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-05-06,Jakub Dobes,4750,MON,BUF,G,2025-26,4,0,12,0,-6.4,22
 2026-05-06,Alex Lyon,5291,BUF,MON,G,2025-26,2,0,26,1,24.8,9
 2026-05-05,Scott Wedgewood,5811,COL,MIN,G,2025-26,2,0,29,1,27.2,13
+2026-05-05,Filip Gustavsson,6889,MIN,COL,G,2025-26,4,0,18,0,-1.6,2
 2026-05-05,Carter Hart,4734,VGK,ANH,G,2025-26,1,0,33,1,34.4,30
 2026-05-04,Lukas Dostal,5684,ANH,VGK,G,2025-26,2,0,19,0,7.2,20
 2026-05-04,Frederik Andersen,4731,,PHI,G,2025-26,2,0,34,1,31.2,11
@@ -211,6 +212,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-13,Nikita Tolopilo,4770,VAN,ANH,G,2025-26,3,0,24,1,19.2,3
 2026-04-13,Justus Annunen,5302,NSH,SJ,G,2025-26,2,0,20,0,8,8
 2026-04-13,Joel Hofer,5689,STL,MIN,G,2025-26,3,0,28,1,22.4,19
+2026-04-13,Filip Gustavsson,6889,MIN,STL,G,2025-26,5,0,16,0,-7.2,3
 2026-04-13,Daniil Tarasov,5673,FLA,NYR,G,2025-26,2,0,25,1,24,12
 2026-04-13,Dan Vladar,5305,PHI,CAR,G,2025-26,2,0,24,1,23.2,24
 2026-04-13,Connor Hellebuyck,6643,WPG,VGK,G,2025-26,6,0,32,0,1.6,11
@@ -281,6 +283,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-09,Jake Oettinger,5676,DAL,MIN,G,2025-26,4,0,27,1,17.6,27
 2026-04-09,Jake Allen,5290,NJ,PIT,G,2025-26,4,0,25,0,4,13
 2026-04-09,Ilya Sorokin,5820,NYI,TOR,G,2025-26,3,0,13,1,10.4,19
+2026-04-09,Filip Gustavsson,6889,MIN,DAL,G,2025-26,5,0,15,0,-8,4
 2026-04-09,Dustin Wolf,5300,CGY,COL,G,2025-26,2,0,38,0,22.4,17
 2026-04-09,Dan Vladar,5305,PHI,DET,G,2025-26,4,0,4,0,-12.8,26
 2026-04-09,Connor Hellebuyck,6643,WPG,STL,G,2025-26,2,0,20,1,20,13
@@ -335,6 +338,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-05,Jacob Fowler,4752,MON,NJ,G,2025-26,2,0,17,0,5.6,18
 2026-04-05,Igor Shesterkin,4755,NYR,WSH,G,2025-26,1,0,20,1,24,8
 2026-04-05,Frederik Andersen,4731,CAR,OTT,G,2025-26,5,0,25,0,0,19
+2026-04-05,Filip Gustavsson,6889,MIN,DET,G,2025-26,4,0,20,1,12,5
 2026-04-05,Daniil Tarasov,5673,FLA,PIT,G,2025-26,5,0,18,0,-5.6,15
 2026-04-05,Dan Vladar,5305,PHI,BOS,G,2025-26,1,0,18,1,22.4,28
 2026-04-05,Charlie Lindgren,5679,WSH,NYR,G,2025-26,8,0,25,0,-12,9
@@ -396,6 +400,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-04-02,Jacob Fowler,4752,MON,NYR,G,2025-26,2,0,22,1,21.6,19
 2026-04-02,Igor Shesterkin,4755,NYR,MON,G,2025-26,3,0,22,0,5.6,9
 2026-04-02,Frederik Andersen,4731,,CBJ,G,2025-26,1,0,9,1,15.2,20
+2026-04-02,Filip Gustavsson,6889,MIN,VAN,G,2025-26,2,0,31,1,28.8,6
 2026-04-02,Dustin Wolf,5300,CGY,VGK,G,2025-26,6,0,28,0,-1.6,18
 2026-04-02,Darcy Kuemper,5814,LA,NSH,G,2025-26,4,0,30,0,8,17
 2026-04-02,Connor Hellebuyck,6643,WPG,DAL,G,2025-26,3,0,18,0,2.4,16
@@ -472,6 +477,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-28,Jacob Markstrom,4761,NJ,CAR,G,2025-26,4,0,29,0,7.2,17
 2026-03-28,Jacob Fowler,4752,,NSH,G,2025-26,1,0,23,1,26.4,20
 2026-03-28,Ilya Sorokin,5820,NYI,FLA,G,2025-26,2,0,19,1,19.2,24
+2026-03-28,Filip Gustavsson,6889,MIN,BOS,G,2025-26,5,0,25,0,0,7
 2026-03-28,Dustin Wolf,5300,CGY,VAN,G,2025-26,3,0,31,1,24.8,20
 2026-03-28,Darcy Kuemper,5814,LA,UTA,G,2025-26,5,0,11,0,-11.2,18
 2026-03-28,Daniil Tarasov,5673,FLA,NYI,G,2025-26,5,0,35,0,8,18
@@ -536,6 +542,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-24,Jake Allen,5290,NJ,DAL,G,2025-26,4,0,23,1,14.4,17
 2026-03-24,Ilya Sorokin,5820,NYI,CHI,G,2025-26,1,0,11,0,4.8,26
 2026-03-24,Frederik Andersen,4731,CAR,MON,G,2025-26,4,0,14,0,-4.8,22
+2026-03-24,Filip Gustavsson,6889,MIN,TB,G,2025-26,4,0,20,0,0,8
 2026-03-24,Dustin Wolf,5300,CGY,LA,G,2025-26,2,0,23,1,22.4,21
 2026-03-24,Darcy Kuemper,5814,LA,CGY,G,2025-26,2,0,21,0,8.8,20
 2026-03-24,Dan Vladar,5305,PHI,CBJ,G,2025-26,3,0,16,0,0.8,32
@@ -577,6 +584,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-21,Jake Oettinger,5676,DAL,MIN,G,2025-26,2,0,26,0,12.8,34
 2026-03-21,Jacob Fowler,4752,MON,NYI,G,2025-26,3,0,19,1,15.2,21
 2026-03-21,Ilya Sorokin,5820,NYI,MON,G,2025-26,6,0,26,0,-3.2,28
+2026-03-21,Filip Gustavsson,6889,MIN,DAL,G,2025-26,1,0,29,1,31.2,9
 2026-03-21,Dan Vladar,5305,PHI,SJ,G,2025-26,1,0,24,1,27.2,33
 2026-03-21,Connor Hellebuyck,6643,WPG,PIT,G,2025-26,4,0,28,0,6.4,21
 2026-03-21,Arvid Soderblom,4768,CHI,COL,G,2025-26,4,0,45,0,20,11
@@ -639,6 +647,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-17,Jeremy Swayman,4743,BOS,MON,G,2025-26,3,0,28,0,10.4,34
 2026-03-17,Jakub Dobes,4750,MON,BOS,G,2025-26,2,0,26,1,24.8,40
 2026-03-17,Ilya Sorokin,5820,NYI,TOR,G,2025-26,1,0,26,1,28.8,30
+2026-03-17,Filip Gustavsson,6889,MIN,CHI,G,2025-26,3,0,21,1,16.8,10
 2026-03-17,Connor Hellebuyck,6643,WPG,NSH,G,2025-26,3,0,20,0,4,23
 2026-03-17,Brandon Bussi,4740,,CBJ,G,2025-26,5,0,25,0,0,21
 2026-03-17,Andrei Vasilevskiy,5277,TB,SEA,G,2025-26,2,0,16,1,16.8,37
@@ -682,6 +691,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-14,Jake Allen,5290,NJ,LA,G,2025-26,4,0,27,1,17.6,19
 2026-03-14,Igor Shesterkin,4755,,MIN,G,2025-26,2,0,46,1,40.8,16
 2026-03-14,Frederik Andersen,4731,CAR,TB,G,2025-26,2,0,17,1,17.6,25
+2026-03-14,Filip Gustavsson,6889,MIN,NYR,G,2025-26,4,0,14,0,-4.8,11
 2026-03-14,Dustin Wolf,5300,CGY,NYI,G,2025-26,0,0,17,0,13.6,24
 2026-03-14,Devin Cooley,5301,CGY,NYI,G,2025-26,3,0,7,0,-6.4,19
 2026-03-14,Dan Vladar,5305,PHI,CBJ,G,2025-26,1,0,27,0,17.6,35
@@ -743,6 +753,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-10,Jake Oettinger,5676,DAL,VGK,G,2025-26,1,0,26,1,28.8,38
 2026-03-10,Ilya Sorokin,5820,NYI,STL,G,2025-26,3,0,20,1,16,32
 2026-03-10,Frederik Andersen,4731,CAR,PIT,G,2025-26,4,0,24,1,15.2,26
+2026-03-10,Filip Gustavsson,6889,MIN,UTA,G,2025-26,0,1,25,1,40,12
 2026-03-10,Dustin Wolf,5300,CGY,NYR,G,2025-26,4,0,25,0,4,26
 2026-03-10,Drew Commesso,4767,CHI,UTA,G,2025-26,2,0,23,1,22.4,2
 2026-03-10,Darcy Kuemper,5814,LA,BOS,G,2025-26,2,0,21,0,8.8,25
@@ -807,6 +818,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-06,Jake Oettinger,5676,DAL,COL,G,2025-26,4,0,25,0,4,39
 2026-03-06,Igor Shesterkin,4755,NYR,TOR,G,2025-26,2,0,30,1,28,19
 2026-03-06,Frederik Andersen,4731,CAR,EDM,G,2025-26,3,0,13,1,10.4,27
+2026-03-06,Filip Gustavsson,6889,MIN,VGK,G,2025-26,2,0,29,1,27.2,13
 2026-03-06,Alex Nedeljkovic,5314,SJ,STL,G,2025-26,3,0,11,0,-3.2,23
 2026-03-05,Ukko-Pekka Luukkonen,5293,BUF,PIT,G,2025-26,1,0,27,1,29.6,32
 2026-03-05,Nikita Tolopilo,4770,VAN,CAR,G,2025-26,1,0,9,0,3.2,12
@@ -848,6 +860,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-03,Jet Greaves,5299,CBJ,NSH,G,2025-26,2,0,21,1,20.8,28
 2026-03-03,Jakub Dobes,4750,MON,SJ,G,2025-26,6,0,21,0,-7.2,44
 2026-03-03,Igor Shesterkin,4755,,CBJ,G,2025-26,5,0,24,0,-0.8,20
+2026-03-03,Filip Gustavsson,6889,MIN,TB,G,2025-26,1,0,24,1,27.2,14
 2026-03-03,Dustin Wolf,5300,CGY,DAL,G,2025-26,4,0,13,0,-5.6,28
 2026-03-03,Devin Cooley,5301,CGY,DAL,G,2025-26,2,0,16,0,4.8,22
 2026-03-03,Connor Hellebuyck,6643,WPG,CHI,G,2025-26,2,0,17,1,17.6,29
@@ -869,6 +882,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-03-01,Kevin Lankinen,4771,VAN,SEA,G,2025-26,4,0,20,0,0,25
 2026-03-01,Karel Vejmelka,5284,UTA,CHI,G,2025-26,4,0,24,0,3.2,40
 2026-03-01,Joel Hofer,5689,STL,MIN,G,2025-26,1,0,22,1,25.6,32
+2026-03-01,Filip Gustavsson,6889,MIN,STL,G,2025-26,2,0,21,0,8.8,15
 2026-03-01,Devin Cooley,5301,CGY,ANH,G,2025-26,2,0,34,0,19.2,23
 2026-03-01,Connor Hellebuyck,6643,WPG,SJ,G,2025-26,2,0,31,0,16.8,30
 2026-03-01,Arvid Soderblom,4768,,UTA,G,2025-26,0,1,22,1,37.6,14
@@ -931,6 +945,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-02-26,Joel Hofer,5689,STL,SEA,G,2025-26,1,0,23,1,26.4,33
 2026-02-26,Jesper Wallstedt,5279,MIN,COL,G,2025-26,1,0,1,0,-3.2,44
 2026-02-26,Ilya Sorokin,5820,NYI,MON,G,2025-26,3,0,22,1,17.6,36
+2026-02-26,Filip Gustavsson,6889,MIN,COL,G,2025-26,1,0,44,1,43.2,16
 2026-02-26,Dustin Wolf,5300,CGY,SJ,G,2025-26,1,0,34,1,35.2,30
 2026-02-26,Darcy Kuemper,5814,LA,EDM,G,2025-26,4,0,11,0,-7.2,28
 2026-02-26,Arturs Silovs,5817,PIT,NJ,G,2025-26,1,0,29,1,31.2,30
@@ -979,6 +994,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-02-04,Jet Greaves,5299,CBJ,CHI,G,2025-26,0,1,21,1,36.8,30
 2026-02-04,Jake Oettinger,5676,DAL,STL,G,2025-26,4,0,14,1,7.2,42
 2026-02-04,Jacob Markstrom,4761,,CBJ,G,2025-26,2,0,23,0,10.4,28
+2026-02-04,Filip Gustavsson,6889,MIN,NSH,G,2025-26,5,0,30,1,16,17
 2026-02-04,Devin Cooley,5301,CGY,EDM,G,2025-26,3,0,36,1,28.8,24
 2026-02-04,Darcy Kuemper,5814,LA,SEA,G,2025-26,4,0,19,0,-0.8,29
 2026-02-04,Connor Hellebuyck,6643,WPG,MON,G,2025-26,4,0,22,0,1.6,32
@@ -1007,6 +1023,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-02-02,Joel Hofer,5689,STL,NSH,G,2025-26,6,0,22,0,-6.4,34
 2026-02-02,Jakub Dobes,4750,MON,MIN,G,2025-26,4,0,20,0,0,46
 2026-02-02,Jake Oettinger,5676,DAL,WPG,G,2025-26,3,0,24,1,19.2,43
+2026-02-02,Filip Gustavsson,6889,MIN,MON,G,2025-26,3,0,17,1,13.6,18
 2026-02-02,Dustin Wolf,5300,CGY,TOR,G,2025-26,3,0,18,0,2.4,31
 2026-02-02,Connor Hellebuyck,6643,WPG,DAL,G,2025-26,4,0,24,0,3.2,33
 2026-02-02,Clay Stevenson,5687,WSH,NYI,G,2025-26,1,0,29,1,31.2,8
@@ -1067,6 +1084,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-29,Jakub Dobes,4750,MON,COL,G,2025-26,3,0,26,1,20.8,48
 2026-01-29,Jake Oettinger,5676,DAL,VGK,G,2025-26,4,0,17,1,9.6,44
 2026-01-29,Ilya Sorokin,5820,NYI,NYR,G,2025-26,1,0,20,1,24,40
+2026-01-29,Filip Gustavsson,6889,MIN,CGY,G,2025-26,1,0,29,1,31.2,19
 2026-01-29,Devin Cooley,5301,CGY,MIN,G,2025-26,3,0,20,0,4,25
 2026-01-29,Darcy Kuemper,5814,LA,BUF,G,2025-26,3,0,28,0,10.4,31
 2026-01-29,Daniil Tarasov,5673,FLA,STL,G,2025-26,5,0,26,0,0.8,26
@@ -1133,6 +1151,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-24,Jeremy Swayman,4743,BOS,MON,G,2025-26,3,0,22,1,17.6,44
 2026-01-24,James Reimer,6642,OTT,CAR,G,2025-26,4,0,15,0,-4,12
 2026-01-24,Jacob Markstrom,4761,NJ,VAN,G,2025-26,4,0,21,1,12.8,31
+2026-01-24,Filip Gustavsson,6889,MIN,FLA,G,2025-26,4,0,30,0,8,20
 2026-01-24,Darcy Kuemper,5814,LA,STL,G,2025-26,4,0,25,1,16,32
 2026-01-24,Connor Hellebuyck,6643,WPG,DET,G,2025-26,4,0,26,0,4.8,36
 2026-01-24,Charlie Lindgren,5679,WSH,EDM,G,2025-26,6,0,34,0,3.2,13
@@ -1162,6 +1181,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-22,Jet Greaves,5299,CBJ,DAL,G,2025-26,0,1,28,1,42.4,33
 2026-01-22,James Reimer,6642,OTT,NSH,G,2025-26,4,0,22,0,1.6,13
 2026-01-22,Frederik Andersen,4731,CAR,CHI,G,2025-26,3,0,19,0,3.2,31
+2026-01-22,Filip Gustavsson,6889,MIN,DET,G,2025-26,3,0,31,1,24.8,21
 2026-01-22,Daniil Tarasov,5673,FLA,WPG,G,2025-26,1,0,17,1,21.6,28
 2026-01-22,Connor Hellebuyck,6643,WPG,FLA,G,2025-26,1,0,19,0,11.2,37
 2026-01-22,Casey DeSmith,5677,DAL,CBJ,G,2025-26,1,0,21,0,12.8,17
@@ -1209,6 +1229,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-19,Joseph Woll,5307,TOR,MIN,G,2025-26,5,0,24,0,-0.8,33
 2026-01-19,Joey Daccord,5296,SEA,PIT,G,2025-26,5,0,26,0,0.8,30
 2026-01-19,Ilya Sorokin,5820,NYI,VAN,G,2025-26,3,0,29,1,23.2,43
+2026-01-19,Filip Gustavsson,6889,MIN,TOR,G,2025-26,3,0,27,1,21.6,22
 2026-01-19,Devin Cooley,5301,CGY,NJ,G,2025-26,2,0,30,0,16,27
 2026-01-19,Dennis Hildeby,5278,TOR,MIN,G,2025-26,0,0,9,0,7.2,8
 2026-01-19,Connor Hellebuyck,6643,WPG,CHI,G,2025-26,1,0,22,0,13.6,38
@@ -1238,6 +1259,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-17,Karel Vejmelka,5284,UTA,SEA,G,2025-26,3,0,18,1,14.4,50
 2026-01-17,Justus Annunen,5302,NSH,VGK,G,2025-26,7,0,29,0,-4.8,22
 2026-01-17,Frederik Andersen,4731,CAR,NJ,G,2025-26,1,0,29,1,31.2,32
+2026-01-17,Filip Gustavsson,6889,MIN,BUF,G,2025-26,4,0,20,1,12,23
 2026-01-17,Dustin Wolf,5300,CGY,NYI,G,2025-26,2,0,28,1,26.4,35
 2026-01-17,Dennis Hildeby,5278,TOR,WPG,G,2025-26,3,0,27,1,21.6,9
 2026-01-17,Daniil Tarasov,5673,FLA,WSH,G,2025-26,2,0,22,1,21.6,29
@@ -1268,6 +1290,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-15,Jake Oettinger,5676,DAL,UTA,G,2025-26,2,0,25,0,12,49
 2026-01-15,Jacob Markstrom,4761,,SEA,G,2025-26,2,0,15,1,16,34
 2026-01-15,Ilya Sorokin,5820,NYI,EDM,G,2025-26,0,1,35,1,48,44
+2026-01-15,Filip Gustavsson,6889,MIN,WPG,G,2025-26,0,0,9,0,7.2,24
 2026-01-15,Devin Cooley,5301,CGY,CHI,G,2025-26,1,0,22,1,25.6,28
 2026-01-15,Connor Hellebuyck,6643,WPG,MIN,G,2025-26,2,0,32,1,29.6,40
 2026-01-15,Colten Ellis,5292,BUF,MON,G,2025-26,3,0,20,1,16,14
@@ -1341,6 +1364,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-10,Joey Daccord,5296,SEA,CAR,G,2025-26,3,0,33,0,14.4,32
 2026-01-10,Jeremy Swayman,4743,BOS,NYR,G,2025-26,2,0,27,1,25.6,48
 2026-01-10,Ilya Sorokin,5820,NYI,MIN,G,2025-26,3,0,33,1,26.4,46
+2026-01-10,Filip Gustavsson,6889,MIN,NYI,G,2025-26,4,0,24,0,3.2,25
 2026-01-10,Drew Commesso,4767,,WSH,G,2025-26,5,0,19,0,-4.8,4
 2026-01-10,Devin Cooley,5301,CGY,PIT,G,2025-26,1,0,27,1,29.6,29
 2026-01-10,Casey DeSmith,5677,DAL,SJ,G,2025-26,5,0,26,0,0.8,19
@@ -1411,6 +1435,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-05,Leevi Meriläinen,5311,OTT,DET,G,2025-26,3,0,6,0,-7.2,25
 2026-01-05,Karel Vejmelka,5284,UTA,NYR,G,2025-26,2,0,22,1,21.6,55
 2026-01-05,John Gibson,5674,DET,OTT,G,2025-26,3,0,34,1,27.2,47
+2026-01-05,Filip Gustavsson,6889,MIN,LA,G,2025-26,3,0,29,0,11.2,26
 2026-01-05,Dustin Wolf,5300,CGY,SEA,G,2025-26,4,0,23,0,2.4,39
 2026-01-05,Darcy Kuemper,5814,LA,MIN,G,2025-26,2,0,33,1,30.4,39
 2026-01-05,Charlie Lindgren,5679,WSH,ANH,G,2025-26,4,0,41,1,28.8,16
@@ -1455,6 +1480,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2026-01-02,Lukas Dostal,5684,ANH,MIN,G,2025-26,5,0,29,0,3.2,57
 2026-01-02,Joey Daccord,5296,SEA,VAN,G,2025-26,3,0,21,1,16.8,34
 2026-01-02,Joel Hofer,5689,STL,VGK,G,2025-26,3,0,22,1,17.6,41
+2026-01-02,Filip Gustavsson,6889,MIN,ANH,G,2025-26,2,0,26,1,24.8,27
 2026-01-02,Carter Hart,4734,VGK,STL,G,2025-26,4,0,15,0,-4,45
 2026-01-01,Spencer Knight,4766,CHI,DAL,G,2025-26,3,0,22,1,17.6,47
 2026-01-01,Philipp Grubauer,5297,SEA,NSH,G,2025-26,1,0,24,1,27.2,34
@@ -1511,6 +1537,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-29,Joel Hofer,5689,STL,BUF,G,2025-26,3,0,30,0,12,42
 2025-12-29,Jet Greaves,5299,CBJ,OTT,G,2025-26,1,0,27,1,29.6,42
 2025-12-29,Jeremy Swayman,4743,BOS,CGY,G,2025-26,2,0,19,0,7.2,52
+2025-12-29,Filip Gustavsson,6889,MIN,VGK,G,2025-26,2,0,14,1,15.2,28
 2025-12-29,Dustin Wolf,5300,CGY,BOS,G,2025-26,1,0,25,1,28,42
 2025-12-29,Connor Hellebuyck,6643,WPG,EDM,G,2025-26,2,0,18,0,6.4,47
 2025-12-29,Carter Hart,4734,VGK,MIN,G,2025-26,5,0,7,0,-14.4,46
@@ -1569,6 +1596,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-23,Jeremy Swayman,4743,BOS,MON,G,2025-26,6,0,23,0,-5.6,53
 2025-12-23,Jacob Markstrom,4761,NJ,NYI,G,2025-26,2,0,23,0,10.4,39
 2025-12-23,Frederik Andersen,4731,CAR,FLA,G,2025-26,5,0,17,0,-6.4,37
+2025-12-23,Filip Gustavsson,6889,MIN,NSH,G,2025-26,3,0,26,0,8.8,29
 2025-12-23,Dustin Wolf,5300,CGY,EDM,G,2025-26,5,0,34,0,7.2,44
 2025-12-23,Casey DeSmith,5677,DAL,DET,G,2025-26,4,0,21,0,0.8,23
 2025-12-23,Carter Hart,4734,VGK,SJ,G,2025-26,2,0,21,1,20.8,48
@@ -1615,6 +1643,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-20,Joel Hofer,5689,STL,FLA,G,2025-26,2,0,27,1,25.6,44
 2025-12-20,Jeremy Swayman,4743,BOS,VAN,G,2025-26,4,0,19,0,-0.8,55
 2025-12-20,Igor Shesterkin,4755,NYR,PHI,G,2025-26,4,0,28,1,18.4,28
+2025-12-20,Filip Gustavsson,6889,MIN,EDM,G,2025-26,2,0,28,1,26.4,30
 2025-12-20,Devin Cooley,5301,CGY,VGK,G,2025-26,3,0,34,1,27.2,30
 2025-12-20,Daniil Tarasov,5673,FLA,STL,G,2025-26,5,0,26,0,0.8,32
 2025-12-20,Calvin Pickard,5280,EDM,MIN,G,2025-26,4,0,32,0,9.6,7
@@ -1675,6 +1704,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-16,Jeremy Swayman,4743,BOS,UTA,G,2025-26,1,0,20,1,24,57
 2025-12-16,Ilya Sorokin,5820,NYI,DET,G,2025-26,3,0,18,0,2.4,49
 2025-12-16,Igor Shesterkin,4755,,ANH,G,2025-26,3,0,22,0,5.6,30
+2025-12-16,Filip Gustavsson,6889,MIN,WSH,G,2025-26,0,1,25,1,40,31
 2025-12-16,Dustin Wolf,5300,CGY,SJ,G,2025-26,5,0,20,0,-4,46
 2025-12-16,Dan Vladar,5305,PHI,MON,G,2025-26,1,0,21,1,24.8,56
 2025-12-16,Charlie Lindgren,5679,WSH,MIN,G,2025-26,5,0,27,0,1.6,19
@@ -1697,6 +1727,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-14,Jakub Dobes,4750,MON,EDM,G,2025-26,1,0,27,1,29.6,55
 2025-12-14,Jacob Markstrom,4761,NJ,VAN,G,2025-26,2,0,13,0,2.4,41
 2025-12-14,Jacob Fowler,4752,MON,NYR,G,2025-26,5,0,24,0,-0.8,32
+2025-12-14,Filip Gustavsson,6889,MIN,BOS,G,2025-26,2,0,29,1,27.2,32
 2025-12-14,Dan Vladar,5305,PHI,CAR,G,2025-26,2,0,30,0,16,57
 2025-12-14,Calvin Pickard,5280,EDM,MON,G,2025-26,4,0,23,0,2.4,9
 2025-12-14,Brandon Bussi,4740,CAR,PHI,G,2025-26,2,0,24,1,23.2,41
@@ -1746,6 +1777,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-11,Jake Oettinger,5676,DAL,MIN,G,2025-26,3,0,27,0,9.6,58
 2025-12-11,Jake Allen,5290,NJ,TB,G,2025-26,5,0,23,0,-1.6,33
 2025-12-11,Jacob Markstrom,4761,NJ,TB,G,2025-26,3,0,4,0,-8.8,42
+2025-12-11,Filip Gustavsson,6889,MIN,DAL,G,2025-26,2,0,16,1,16.8,33
 2025-12-11,Dennis Hildeby,5278,TOR,SJ,G,2025-26,3,0,29,0,11.2,17
 2025-12-11,Daniil Tarasov,5673,FLA,COL,G,2025-26,6,0,36,0,4.8,34
 2025-12-11,Dan Vladar,5305,PHI,VGK,G,2025-26,3,0,19,0,3.2,58
@@ -1790,6 +1822,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-08,Karel Vejmelka,5284,UTA,LA,G,2025-26,3,0,23,0,6.4,64
 2025-12-08,Jonas Johansson,6324,TB,TOR,G,2025-26,1,0,23,0,14.4,19
 2025-12-08,John Gibson,5674,DET,VAN,G,2025-26,0,1,39,1,51.2,56
+2025-12-08,Filip Gustavsson,6889,MIN,SEA,G,2025-26,1,0,23,1,26.4,34
 2025-12-08,Dustin Wolf,5300,CGY,BUF,G,2025-26,4,0,25,1,16,48
 2025-12-08,Dennis Hildeby,5278,TOR,TB,G,2025-26,0,1,29,1,43.2,18
 2025-12-08,Darcy Kuemper,5814,LA,UTA,G,2025-26,2,0,19,1,19.2,44
@@ -1854,6 +1887,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-12-04,Ilya Sorokin,5820,NYI,COL,G,2025-26,3,0,35,1,28,53
 2025-12-04,Igor Shesterkin,4755,NYR,OTT,G,2025-26,2,0,25,1,24,34
 2025-12-04,Frederik Andersen,4731,CAR,TOR,G,2025-26,4,0,19,0,-0.8,38
+2025-12-04,Filip Gustavsson,6889,MIN,CGY,G,2025-26,3,0,27,0,9.6,35
 2025-12-04,Dustin Wolf,5300,CGY,MIN,G,2025-26,1,0,26,1,28.8,50
 2025-12-04,Dennis Hildeby,5278,TOR,CAR,G,2025-26,0,0,9,0,7.2,20
 2025-12-04,Darcy Kuemper,5814,LA,CHI,G,2025-26,2,0,34,0,19.2,46
@@ -1922,6 +1956,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-29,Jakub Dobes,4750,MON,COL,G,2025-26,7,0,29,0,-4.8,60
 2025-11-29,Jacob Markstrom,4761,NJ,PHI,G,2025-26,4,0,27,0,5.6,46
 2025-11-29,Igor Shesterkin,4755,NYR,TB,G,2025-26,3,0,31,0,12.8,36
+2025-11-29,Filip Gustavsson,6889,MIN,BUF,G,2025-26,2,0,31,0,16.8,36
 2025-11-29,Dennis Hildeby,5278,TOR,PIT,G,2025-26,2,0,33,1,30.4,21
 2025-11-29,Dan Vladar,5305,PHI,NJ,G,2025-26,3,0,29,1,23.2,61
 2025-11-29,Colten Ellis,5292,BUF,MIN,G,2025-26,2,0,22,1,21.6,19
@@ -1977,6 +2012,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-26,Ilya Sorokin,5820,NYI,BOS,G,2025-26,3,0,11,0,-3.2,56
 2025-11-26,Igor Shesterkin,4755,NYR,CAR,G,2025-26,2,0,36,1,32.8,38
 2025-11-26,Frederik Andersen,4731,CAR,NYR,G,2025-26,3,0,14,0,-0.8,39
+2025-11-26,Filip Gustavsson,6889,MIN,CHI,G,2025-26,3,0,34,1,27.2,37
 2025-11-26,Dustin Wolf,5300,CGY,TB,G,2025-26,3,0,1,0,-11.2,52
 2025-11-26,Devin Cooley,5301,CGY,TB,G,2025-26,2,0,17,0,5.6,35
 2025-11-26,Dan Vladar,5305,PHI,FLA,G,2025-26,2,0,25,1,24,62
@@ -2042,6 +2078,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-21,Sergei Murashov,5819,PIT,MIN,G,2025-26,1,0,10,0,4,12
 2025-11-21,Samuel Montembeault,4749,,WSH,G,2025-26,3,0,7,0,-6.4,14
 2025-11-21,Jeremy Swayman,4743,BOS,LA,G,2025-26,1,0,31,1,32.8,65
+2025-11-21,Filip Gustavsson,6889,MIN,PIT,G,2025-26,0,1,19,1,35.2,38
 2025-11-21,Darcy Kuemper,5814,LA,BOS,G,2025-26,2,0,24,0,11.2,50
 2025-11-21,Brandon Bussi,4740,CAR,WPG,G,2025-26,3,0,25,1,20,47
 2025-11-21,Arturs Silovs,5817,PIT,MIN,G,2025-26,4,0,6,0,-11.2,46
@@ -2107,6 +2144,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-16,Juuse Saros,5304,NSH,PIT,G,2025-26,3,0,18,0,2.4,61
 2025-11-16,Jonas Johansson,6324,TB,VAN,G,2025-26,5,0,12,0,-10.4,24
 2025-11-16,Ilya Sorokin,5820,NYI,COL,G,2025-26,3,0,24,0,7.2,59
+2025-11-16,Filip Gustavsson,6889,MIN,VGK,G,2025-26,2,0,23,1,22.4,39
 2025-11-16,Cam Talbot,5298,DET,NYR,G,2025-26,1,0,18,1,22.4,38
 2025-11-16,Akira Schmid,4760,,STL,G,2025-26,1,0,22,1,25.6,36
 2025-11-15,Stuart Skinner,5688,EDM,CAR,G,2025-26,3,0,33,1,26.4,58
@@ -2187,6 +2225,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-11,Jeremy Swayman,4743,BOS,TOR,G,2025-26,3,0,30,1,24,68
 2025-11-11,Jake Oettinger,5676,DAL,OTT,G,2025-26,2,0,27,1,25.6,67
 2025-11-11,Frederik Andersen,4731,CAR,WSH,G,2025-26,3,0,24,0,7.2,43
+2025-11-11,Filip Gustavsson,6889,MIN,SJ,G,2025-26,2,0,16,0,4.8,40
 2025-11-11,Dustin Wolf,5300,CGY,STL,G,2025-26,3,0,28,0,10.4,57
 2025-11-11,Dennis Hildeby,5278,TOR,BOS,G,2025-26,2,0,19,0,7.2,24
 2025-11-11,Darcy Kuemper,5814,LA,MON,G,2025-26,1,0,21,1,24.8,53
@@ -2256,6 +2295,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-06,Jake Oettinger,5676,DAL,ANH,G,2025-26,6,0,18,0,-9.6,69
 2025-11-06,Jacob Markstrom,4761,NJ,MON,G,2025-26,3,0,16,1,12.8,52
 2025-11-06,Frederik Andersen,4731,CAR,MIN,G,2025-26,3,0,21,1,16.8,44
+2025-11-06,Filip Gustavsson,6889,MIN,CAR,G,2025-26,4,0,23,0,2.4,41
 2025-11-06,Dan Vladar,5305,PHI,NSH,G,2025-26,1,0,23,1,26.4,67
 2025-11-06,Charlie Lindgren,5679,WSH,PIT,G,2025-26,4,0,26,0,4.8,25
 2025-11-06,Arturs Silovs,5817,PIT,WSH,G,2025-26,3,0,27,1,21.6,49
@@ -2284,6 +2324,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-04,Jeremy Swayman,4743,BOS,NYI,G,2025-26,3,0,30,1,24,70
 2025-11-04,Ilya Sorokin,5820,NYI,BOS,G,2025-26,3,0,24,0,7.2,63
 2025-11-04,Igor Shesterkin,4755,NYR,CAR,G,2025-26,2,0,29,0,15.2,46
+2025-11-04,Filip Gustavsson,6889,MIN,NSH,G,2025-26,2,0,32,1,29.6,42
 2025-11-04,Darcy Kuemper,5814,LA,WPG,G,2025-26,0,1,23,1,38.4,55
 2025-11-04,Dan Vladar,5305,PHI,MON,G,2025-26,4,0,16,1,8.8,68
 2025-11-04,Connor Hellebuyck,6643,WPG,LA,G,2025-26,2,0,23,0,10.4,58
@@ -2321,6 +2362,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-11-01,Jacob Markstrom,4761,NJ,LA,G,2025-26,1,0,43,1,42.4,53
 2025-11-01,Igor Shesterkin,4755,NYR,SEA,G,2025-26,2,0,11,1,12.8,47
 2025-11-01,Frederik Andersen,4731,CAR,BOS,G,2025-26,2,0,20,0,8,45
+2025-11-01,Filip Gustavsson,6889,MIN,VAN,G,2025-26,2,0,26,1,24.8,43
 2025-11-01,Dustin Wolf,5300,CGY,NSH,G,2025-26,3,0,8,0,-5.6,61
 2025-11-01,Devin Cooley,5301,CGY,NSH,G,2025-26,0,0,12,0,9.6,39
 2025-11-01,Darcy Kuemper,5814,LA,NJ,G,2025-26,3,0,18,0,2.4,56
@@ -2345,6 +2387,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-30,Jake Oettinger,5676,DAL,TB,G,2025-26,2,0,31,0,16.8,70
 2025-10-30,Jake Allen,5290,NJ,SJ,G,2025-26,5,0,23,0,-1.6,42
 2025-10-30,Igor Shesterkin,4755,NYR,EDM,G,2025-26,3,0,33,1,26.4,48
+2025-10-30,Filip Gustavsson,6889,MIN,PIT,G,2025-26,3,0,30,0,12,44
 2025-10-30,Devin Cooley,5301,CGY,OTT,G,2025-26,3,0,35,0,16,40
 2025-10-30,Darcy Kuemper,5814,LA,DET,G,2025-26,3,0,24,0,7.2,57
 2025-10-30,Dan Vladar,5305,PHI,NSH,G,2025-26,1,0,32,1,33.6,70
@@ -2375,6 +2418,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-28,Jacob Markstrom,4761,NJ,COL,G,2025-26,8,0,34,0,-4.8,54
 2025-10-28,Ilya Sorokin,5820,NYI,BOS,G,2025-26,4,0,17,0,-2.4,65
 2025-10-28,Frederik Andersen,4731,CAR,VGK,G,2025-26,5,0,29,0,3.2,46
+2025-10-28,Filip Gustavsson,6889,MIN,WPG,G,2025-26,4,0,17,0,-2.4,45
 2025-10-28,Dustin Wolf,5300,CGY,TOR,G,2025-26,4,0,33,0,10.4,62
 2025-10-28,Darcy Kuemper,5814,LA,SJ,G,2025-26,3,0,37,1,29.6,58
 2025-10-28,Daniil Tarasov,5673,FLA,ANH,G,2025-26,2,0,15,0,4,41
@@ -2418,6 +2462,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-25,Jakub Dobes,4750,MON,VAN,G,2025-26,3,0,28,1,22.4,68
 2025-10-25,Jake Oettinger,5676,DAL,CAR,G,2025-26,2,0,26,1,24.8,72
 2025-10-25,Ilya Sorokin,5820,NYI,PHI,G,2025-26,3,0,23,0,6.4,66
+2025-10-25,Filip Gustavsson,6889,MIN,UTA,G,2025-26,5,0,35,0,8,46
 2025-10-25,Darcy Kuemper,5814,LA,NSH,G,2025-26,4,0,21,0,0.8,59
 2025-10-25,Charlie Lindgren,5679,WSH,OTT,G,2025-26,7,0,27,0,-6.4,27
 2025-10-25,Cayden Primeau,4796,,BUF,G,2025-26,3,0,23,1,18.4,2
@@ -2456,6 +2501,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-22,Nico Daws,5289,NJ,MIN,G,2025-26,1,0,30,1,32,12
 2025-10-22,John Gibson,5674,DET,BUF,G,2025-26,4,0,27,0,5.6,68
 2025-10-22,Jakub Dobes,4750,MON,CGY,G,2025-26,1,0,36,1,36.8,69
+2025-10-22,Filip Gustavsson,6889,MIN,NJ,G,2025-26,3,0,31,0,12.8,47
 2025-10-22,Dustin Wolf,5300,CGY,MON,G,2025-26,2,0,26,0,12.8,65
 2025-10-22,Colten Ellis,5292,BUF,DET,G,2025-26,2,0,29,1,27.2,24
 2025-10-21,Yaroslav Askarov,5312,SJ,NYI,G,2025-26,4,0,23,0,2.4,62
@@ -2483,6 +2529,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-20,Jakub Dobes,4750,MON,BUF,G,2025-26,2,0,30,1,28,70
 2025-10-20,Igor Shesterkin,4755,NYR,MIN,G,2025-26,2,0,29,0,15.2,51
 2025-10-20,Frederik Andersen,4731,CAR,VGK,G,2025-26,3,0,22,0,5.6,48
+2025-10-20,Filip Gustavsson,6889,MIN,NYR,G,2025-26,1,0,23,1,26.4,48
 2025-10-20,Dustin Wolf,5300,CGY,WPG,G,2025-26,2,0,25,0,12,66
 2025-10-20,Dan Vladar,5305,PHI,SEA,G,2025-26,2,0,21,1,20.8,72
 2025-10-20,Connor Hellebuyck,6643,WPG,CGY,G,2025-26,1,0,32,1,33.6,63
@@ -2526,6 +2573,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-17,Kevin Lankinen,4771,VAN,CHI,G,2025-26,2,0,31,1,28.8,56
 2025-10-17,Karel Vejmelka,5284,UTA,SJ,G,2025-26,3,0,18,1,14.4,83
 2025-10-17,John Gibson,5674,DET,TB,G,2025-26,1,0,31,1,32.8,70
+2025-10-17,Filip Gustavsson,6889,MIN,WSH,G,2025-26,5,0,40,0,12,49
 2025-10-17,Andrei Vasilevskiy,5277,TB,DET,G,2025-26,2,0,29,0,15.2,79
 2025-10-16,Stuart Skinner,5688,EDM,NYI,G,2025-26,3,0,21,0,4.8,69
 2025-10-16,Scott Wedgewood,5811,COL,CBJ,G,2025-26,1,0,22,1,25.6,59
@@ -2565,6 +2613,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-14,Joey Daccord,5296,SEA,MON,G,2025-26,5,0,17,0,-6.4,56
 2025-10-14,Jake Oettinger,5676,DAL,MIN,G,2025-26,2,0,39,1,35.2,76
 2025-10-14,Igor Shesterkin,4755,NYR,EDM,G,2025-26,1,0,20,0,12,53
+2025-10-14,Filip Gustavsson,6889,MIN,DAL,G,2025-26,3,0,20,0,4,50
 2025-10-14,Dustin Wolf,5300,CGY,VGK,G,2025-26,3,0,26,0,8.8,68
 2025-10-14,Cayden Primeau,4796,,NSH,G,2025-26,4,0,26,1,16.8,3
 2025-10-14,Brandon Bussi,4740,CAR,SJ,G,2025-26,1,0,16,1,20.8,52
@@ -2609,6 +2658,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-11,Ilya Sorokin,5820,NYI,WSH,G,2025-26,4,0,25,0,4,70
 2025-10-11,Igor Shesterkin,4755,NYR,PIT,G,2025-26,1,0,18,1,22.4,54
 2025-10-11,Frederik Andersen,4731,CAR,PHI,G,2025-26,3,0,20,1,16,50
+2025-10-11,Filip Gustavsson,6889,MIN,CBJ,G,2025-26,6,0,25,0,-4,51
 2025-10-11,Dustin Wolf,5300,CGY,STL,G,2025-26,4,0,24,0,3.2,69
 2025-10-11,Darcy Kuemper,5814,LA,WPG,G,2025-26,3,0,24,0,7.2,63
 2025-10-11,Connor Hellebuyck,6643,WPG,LA,G,2025-26,2,0,30,1,28,66
@@ -2637,6 +2687,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Goals Against,Shutouts,Saves,Wins,FD Pts,Game
 2025-10-09,Ilya Sorokin,5820,NYI,PIT,G,2025-26,4,0,24,0,3.2,71
 2025-10-09,Igor Shesterkin,4755,NYR,BUF,G,2025-26,0,1,37,1,49.6,55
 2025-10-09,Frederik Andersen,4731,CAR,NJ,G,2025-26,3,0,19,1,15.2,51
+2025-10-09,Filip Gustavsson,6889,MIN,STL,G,2025-26,0,1,26,1,40.8,52
 2025-10-09,Dustin Wolf,5300,CGY,VAN,G,2025-26,5,0,21,0,-3.2,70
 2025-10-09,Dan Vladar,5305,PHI,FLA,G,2025-26,2,0,32,0,17.6,75
 2025-10-09,Connor Hellebuyck,6643,WPG,DAL,G,2025-26,5,0,32,0,5.6,67

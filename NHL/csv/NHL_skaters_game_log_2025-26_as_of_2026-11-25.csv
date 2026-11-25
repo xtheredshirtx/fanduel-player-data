@@ -21849,6 +21849,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-15,Mikko Rantanen,5682,DAL,UTA,W,2025-26,0,0,1,1,3,0,0,17.3,47
 2026-01-15,Mikhail Sergachev,5330,UTA,DAL,D,2025-26,0,4,0,0,2,0,0,9.6,62
 2026-01-15,Mike Matheson,4835,MON,BUF,D,2025-26,0,0,0,0,0,0,0,0,62
+2026-01-15,Mikael Pyyhtia,6890,CBJ,VAN,W,2025-26,0,0,0,0,1,0,0,1.6,2
 2026-01-15,Mikael Backlund,5379,CGY,CHI,C,2025-26,1,0,1,0,3,0,0,24.8,59
 2026-01-15,Michael Misa,5392,SJ,WSH,C,2025-26,0,0,0,0,1,0,0,1.6,63
 2026-01-15,Michael Carcone,5464,UTA,DAL,W,2025-26,0,0,0,0,0,0,0,0,55
@@ -22323,6 +22324,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-13,Mikko Rantanen,5682,DAL,ANH,W,2025-26,0,2,0,0,1,0,0,4.8,48
 2026-01-13,Mikhail Sergachev,5330,UTA,TOR,D,2025-26,0,1,0,0,2,0,0,4.8,63
 2026-01-13,Mike Matheson,4835,MON,WSH,D,2025-26,0,0,0,0,1,0,0,1.6,63
+2026-01-13,Mikael Pyyhtia,6890,CBJ,CGY,W,2025-26,0,0,0,0,0,0,0,0,3
 2026-01-13,Mikael Granlund,5703,ANH,DAL,C,2025-26,1,1,0,0,3,0,0,14.4,67
 2026-01-13,Mikael Backlund,5379,CGY,CBJ,C,2025-26,1,0,1,1,4,0,0,26.9,60
 2026-01-13,Michael Rasmussen,5776,DET,BOS,C,2025-26,0,2,0,0,3,0,0,8,44
@@ -22891,6 +22893,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-11,Mitch Marner,4763,VGK,SJ,W,2025-26,0,0,0,0,3,0,0,4.8,84
 2026-01-11,Mikhail Sergachev,5330,UTA,CBJ,D,2025-26,0,3,1,0,2,0,0,20,64
 2026-01-11,Mikey Eyssimont,4917,,PIT,W,2025-26,0,0,0,0,0,0,0,0,23
+2026-01-11,Mikael Pyyhtia,6890,CBJ,UTA,W,2025-26,0,0,1,0,3,0,0,16.8,4
 2026-01-11,Michael Misa,5392,SJ,VGK,C,2025-26,0,1,0,0,0,0,0,1.6,64
 2026-01-11,Michael McCarron,5427,NSH,WSH,C,2025-26,0,0,0,0,3,0,0,4.8,72
 2026-01-11,Michael Carcone,5464,UTA,CBJ,W,2025-26,0,1,0,0,1,0,0,3.2,57
@@ -23179,6 +23182,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-10,Mikko Rantanen,5682,DAL,SJ,W,2025-26,1,1,1,0,3,0,0,26.4,50
 2026-01-10,Mikey Anderson,5873,LA,EDM,D,2025-26,0,2,0,0,0,0,0,3.2,63
 2026-01-10,Mike Matheson,4835,MON,DET,D,2025-26,0,2,0,0,2,0,0,6.4,65
+2026-01-10,Mikael Pyyhtia,6890,CBJ,COL,W,2025-26,0,2,0,0,2,0,0,6.4,5
 2026-01-10,Mikael Granlund,5703,ANH,BUF,C,2025-26,1,0,0,0,4,0,0,14.4,68
 2026-01-10,Mikael Backlund,5379,CGY,PIT,C,2025-26,1,0,0,0,1,0,0,9.6,61
 2026-01-10,Mika Zibanejad,4758,NYR,BOS,C,2025-26,1,0,1,0,2,0,0,23.2,60
@@ -23724,6 +23728,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-01-08,Morgan Barron,5760,WPG,EDM,W,2025-26,0,0,0,0,0,0,0,0,55
 2026-01-08,Mitch Marner,4763,VGK,CBJ,W,2025-26,2,0,0,0,1,0,0,17.6,86
 2026-01-08,Mike Matheson,4835,MON,FLA,D,2025-26,2,2,0,0,1,0,0,20.8,66
+2026-01-08,Mikael Pyyhtia,6890,CBJ,VGK,W,2025-26,0,0,0,0,0,0,0,0,6
 2026-01-08,Mikael Granlund,5703,ANH,CAR,C,2025-26,0,0,1,0,2,0,0,15.2,69
 2026-01-08,Mikael Backlund,5379,CGY,BOS,C,2025-26,0,1,0,0,5,0,0,9.6,62
 2026-01-08,Mika Zibanejad,4758,NYR,BUF,C,2025-26,0,1,1,0,3,0,0,18.4,61
@@ -35143,6 +35148,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-22,Sam Steel,5744,DAL,CGY,W,2025-26,0,1,0,0,3,0,0,6.4,78
 2025-11-22,Sam Reinhart,4757,FLA,EDM,W,2025-26,0,0,1,1,2,0,0,15.7,68
 2025-11-22,Sam Poulin,5006,,MIN,W,2025-26,0,2,0,0,1,0,0,4.8,2
+2025-11-22,Sam Morton,6891,CGY,DAL,W,2025-26,0,0,0,0,2,0,0,3.2,2
 2025-11-22,Sam Malinski,5855,COL,NSH,D,2025-26,0,3,0,0,1,0,0,6.4,95
 2025-11-22,Sam Lafferty,5021,,BUF,W,2025-26,0,0,0,0,0,0,0,0,26
 2025-11-22,Sam Carrick,5485,NYR,UTA,C,2025-26,0,0,0,0,0,0,0,0,65
@@ -36013,6 +36019,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-19,Sebastian Aho,4764,CAR,MIN,C,2025-26,0,0,1,0,5,0,0,20,103
 2025-11-19,Sean Walker,4832,CAR,MIN,D,2025-26,1,0,0,0,4,0,0,14.4,105
 2025-11-19,Sean Kuraly,4904,BOS,ANH,C,2025-26,0,2,0,0,0,0,0,3.2,76
+2025-11-19,Sam Morton,6891,CGY,BUF,W,2025-26,0,1,0,0,1,0,0,3.2,3
 2025-11-19,Sam Lafferty,5021,,CGY,W,2025-26,0,0,0,0,0,0,0,0,28
 2025-11-19,Ryan Strome,5435,ANH,BOS,C,2025-26,0,1,1,1,4,0,0,20.5,74
 2025-11-19,Ryan McLeod,5400,BUF,CGY,C,2025-26,0,0,0,0,3,0,0,4.8,95
@@ -36164,6 +36171,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2025-11-18,Sammy Blais,6724,TOR,STL,W,2025-26,1,0,0,0,0,0,0,8,23
 2025-11-18,Sam Steel,5744,DAL,NYI,W,2025-26,0,0,0,0,1,0,0,1.6,80
 2025-11-18,Sam Rinzel,4865,CHI,CGY,D,2025-26,1,0,0,0,1,0,0,9.6,60
+2025-11-18,Sam Morton,6891,CGY,CHI,W,2025-26,0,0,0,0,0,0,0,0,4
 2025-11-18,Sam Dickinson,5389,SJ,UTA,D,2025-26,0,1,0,0,1,0,0,3.2,82
 2025-11-18,Sam Carrick,5485,NYR,VGK,C,2025-26,0,0,0,0,0,0,0,0,67
 2025-11-18,Ryker Evans,5433,SEA,DET,D,2025-26,0,0,1,0,1,0,0,13.6,83
