@@ -494,6 +494,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-25,Adam Fantilli,5315,CBJ,NJ,C,2026-27,0,0,0,0,2,0,0,3.2,1
 2026-11-25,Adam Engstrom,5115,MON,COL,D,2026-27,0,0,0,0,1,0,0,1.6,1
 2026-11-25,Adam Edstrom,5491,NSH,DAL,W,2026-27,0,0,0,0,2,0,0,3.2,1
+2026-11-25,Adam Beckman,6895,COL,MON,W,2026-27,1,0,0,0,1,0,0,9.6,1
 2026-11-25,Aaron Ekblad,4833,FLA,OTT,D,2026-27,0,0,0,0,0,0,0,0,1
 2026-11-24,William Karlsson,4825,VGK,EDM,C,2026-27,1,1,0,0,1,0,0,11.2,1
 2026-11-24,Victor Olofsson,4895,VGK,EDM,W,2026-27,1,1,0,0,1,0,0,11.2,1
@@ -1873,6 +1874,7 @@ Date,Player,ID,Team,Opp,Pos,Season,Assists,Blocked Shots,Goals,PP Goals,Shots,SH
 2026-11-19,Adam Klapka,5493,CGY,MIN,W,2026-27,1,0,0,0,1,0,0,9.6,4
 2026-11-19,Adam Fantilli,5315,CBJ,CHI,C,2026-27,1,0,1,0,5,0,0,28,4
 2026-11-19,Adam Engstrom,5115,MON,CAR,D,2026-27,0,0,0,0,1,0,0,1.6,3
+2026-11-19,Adam Beckman,6895,COL,ANH,W,2026-27,0,1,0,0,1,0,0,3.2,2
 2026-11-18,Zachary Bolduc,4898,MON,NJ,W,2026-27,0,0,0,0,1,0,0,1.6,4
 2026-11-18,Zac Jones,6811,UTA,COL,D,2026-27,0,2,0,0,2,0,0,6.4,4
 2026-11-18,Will Borgen,4930,BOS,DET,D,2026-27,0,5,0,0,1,0,0,9.6,3
