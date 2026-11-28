@@ -1,7 +1,7 @@
 # FanDuel Player Data - As of 11/27/2026
 
 ## What this is
-A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 283,808 player-games so
+A free spreadsheet of **every player game** we track across **NBA, NHL, NFL, MLB, WNBA, PGA and NASCAR** - 284,282 player-games so
 far - with the **FanDuel fantasy points** each player scored in each game, plus season summaries (points per game, last 5 and last 2
 games, best and worst game, and every stat FanDuel scores).
 
@@ -26,8 +26,8 @@ in this repository's commit history.
 | Sport | Players | Player-games | Workbook |
 |---|---|---|---|
 | [NBA](NBA/) | 747 | 62,479 | [NBA_player_data_as_of_2026-11-27.xlsx](NBA/NBA_player_data_as_of_2026-11-27.xlsx) |
-| [NHL](NHL/) | 904 | 64,345 | [NHL_player_data_as_of_2026-11-27.xlsx](NHL/NHL_player_data_as_of_2026-11-27.xlsx) |
-| [NFL](NFL/) | 706 | 9,344 | [NFL_player_data_as_of_2026-11-27.xlsx](NFL/NFL_player_data_as_of_2026-11-27.xlsx) |
+| [NHL](NHL/) | 905 | 64,795 | [NHL_player_data_as_of_2026-11-27.xlsx](NHL/NHL_player_data_as_of_2026-11-27.xlsx) |
+| [NFL](NFL/) | 706 | 9,368 | [NFL_player_data_as_of_2026-11-27.xlsx](NFL/NFL_player_data_as_of_2026-11-27.xlsx) |
 | [MLB](MLB/) | 1,589 | 121,517 | [MLB_player_data_as_of_2026-11-27.xlsx](MLB/MLB_player_data_as_of_2026-11-27.xlsx) |
 | [WNBA](WNBA/) | 220 | 11,410 | [WNBA_player_data_as_of_2026-11-27.xlsx](WNBA/WNBA_player_data_as_of_2026-11-27.xlsx) |
 | [PGA](PGA/) | 220 | 9,908 | [PGA_player_data_as_of_2026-11-27.xlsx](PGA/PGA_player_data_as_of_2026-11-27.xlsx) |
@@ -39,17 +39,17 @@ in this repository's commit history.
 | NBA | 2026-27 | 2026-10-20 | 2026-11-25 | 6,015 | 483 |
 | NBA | 2025-26 | 2025-10-21 | 2026-06-13 | 28,465 | 582 |
 | NBA | 2024-25 | 2024-10-22 | 2025-06-22 | 27,999 | 569 |
-| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-25 | 14,131 | 760 |
+| NHL Skaters | 2026-27 | 2026-09-29 | 2026-11-27 | 14,557 | 762 |
 | NHL Skaters | 2025-26 | 2025-10-07 | 2026-06-15 | 46,484 | 765 |
 | NHL Skaters | 2024-25 | 2024-10-15 | 2025-06-18 | 168 | 12 |
-| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-25 | 840 | 79 |
+| NHL Goalies | 2026-27 | 2026-09-29 | 2026-11-27 | 864 | 79 |
 | NHL Goalies | 2025-26 | 2025-10-07 | 2026-06-15 | 2,712 | 78 |
 | NHL Goalies | 2024-25 | 2024-10-05 | 2025-01-20 | 10 | 2 |
-| NFL Offense | 2026 | 2026-09-10 | 2026-11-27 | 2,996 | 526 |
+| NFL Offense | 2026 | 2026-09-10 | 2026-11-27 | 3,016 | 526 |
 | NFL Offense | 2025 | 2025-09-05 | 2026-01-05 | 4,758 | 528 |
-| NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-27 | 334 | 32 |
+| NFL Defense-ST | 2026 | 2026-09-10 | 2026-11-27 | 336 | 32 |
 | NFL Defense-ST | 2025 | 2025-09-05 | 2026-01-05 | 544 | 32 |
-| NFL Kickers | 2026 | 2026-09-10 | 2026-11-27 | 287 | 32 |
+| NFL Kickers | 2026 | 2026-09-10 | 2026-11-27 | 289 | 32 |
 | NFL Kickers | 2025 | 2025-09-05 | 2026-01-05 | 425 | 29 |
 | MLB Hitters | 2026 | 2026-03-25 | 2026-10-28 | 50,019 | 650 |
 | MLB Hitters | 2025 | 2025-03-18 | 2025-09-28 | 36,084 | 468 |
